@@ -1,0 +1,1985 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-03-29 05:15:12 ....A         6671      9251130  artwork\LICENSE
+2017-03-29 05:15:12 ....A         1525               bgfx\LICENSE
+2017-03-29 05:15:12 ....A         1525               bgfx\chains\LICENSE
+2017-03-29 05:15:13 ....A         1525               bgfx\effects\LICENSE
+2017-03-29 05:15:13 ....A         1525               bgfx\effects\default\LICENSE
+2017-03-29 05:15:13 ....A         1525               bgfx\effects\hlsl\LICENSE
+2017-03-29 05:15:13 ....A         1525               bgfx\effects\unfiltered\LICENSE
+2017-03-29 05:15:16 ....A         6673               docs\LICENSE
+2017-03-29 05:15:16 ....A         6671               docs\man\LICENSE
+2017-03-29 05:15:17 ....A         6671               hash\LICENSE
+2017-03-29 05:15:24 ....A         1101               plugins\json\LICENSE
+2017-03-29 05:15:25 ....A         6671               samples\LICENSE
+2017-03-29 05:15:16 ....A         5951               docs\Makefile
+2017-03-29 05:15:25 ....A        26540               samples\floppy\35_seek_12ms.wav
+2017-03-29 05:15:25 ....A        44144               samples\floppy\35_seek_20ms.wav
+2017-03-29 05:15:25 ....A         7450               samples\floppy\35_seek_2ms.wav
+2017-03-29 05:15:25 ....A        22230               samples\floppy\35_seek_6ms.wav
+2017-03-29 05:15:25 ....A        17708               samples\floppy\35_spin_empty.wav
+2017-03-29 05:15:25 ....A        17684               samples\floppy\35_spin_end.wav
+2017-03-29 05:15:25 ....A        17708               samples\floppy\35_spin_loaded.wav
+2017-03-29 05:15:25 ....A        17708               samples\floppy\35_spin_start_empty.wav
+2017-03-29 05:15:25 ....A        35308               samples\floppy\35_spin_start_loaded.wav
+2017-03-29 05:15:25 ....A         6878               samples\floppy\35_step_1_1.wav
+2017-03-29 05:15:25 ....A        22764               samples\floppy\525_seek_12ms.wav
+2017-03-29 05:15:25 ....A        30060               samples\floppy\525_seek_20ms.wav
+2017-03-29 05:15:25 ....A         5336               samples\floppy\525_seek_2ms.wav
+2017-03-29 05:15:25 ....A        14860               samples\floppy\525_seek_6ms.wav
+2017-03-29 05:15:25 ....A         8864               samples\floppy\525_spin_empty.wav
+2017-03-29 05:15:25 ....A         8864               samples\floppy\525_spin_end.wav
+2017-03-29 05:15:25 ....A        17708               samples\floppy\525_spin_loaded.wav
+2017-03-29 05:15:25 ....A        11180               samples\floppy\525_spin_start_empty.wav
+2017-03-29 05:15:25 ....A        17708               samples\floppy\525_spin_start_loaded.wav
+2017-03-29 05:15:25 ....A         6628               samples\floppy\525_step_1_1.wav
+2017-03-29 05:15:25 ....A        16758               samples\MM1_keyboard\beep.wav
+2017-03-29 05:15:25 ....A        74492               samples\MM1_keyboard\power_switch.wav
+2017-03-29 05:15:12 ....A        19734               artwork\aperture-grille.png
+2011-06-07 08:52:20 ....A          271               artwork\aperture.png
+2006-07-09 16:42:52 ....A          172               artwork\aperture1x2rb.png
+2006-07-09 16:38:24 ....A          175               artwork\aperture1x3rb.png
+2006-07-09 14:53:44 ....A          176               artwork\aperture2x4bg.png
+2006-07-09 15:01:46 ....A          171               artwork\aperture2x4rb.png
+2006-07-09 11:57:32 ....A          224               artwork\aperture4x6.png
+2017-03-29 05:15:12 ....A          153               artwork\bgfx\chains\crt-geom\aperture_1_2_bgr.png
+2017-03-29 05:15:12 ....A          152               artwork\bgfx\chains\crt-geom\aperture_1_4_rgb.png
+2017-03-29 05:15:12 ....A          159               artwork\bgfx\chains\crt-geom\aperture_2_4_rgb.png
+2017-03-29 05:15:12 ....A          156               artwork\bgfx\chains\crt-geom\aperture_2_5_bgr.png
+2017-03-29 05:15:12 ....A          159               artwork\bgfx\chains\crt-geom\aperture_3_6_rgb.png
+2017-03-29 05:15:12 ....A          159               artwork\bgfx\chains\crt-geom\delta_1_2x1_bgr.png
+2017-03-29 05:15:12 ....A          156               artwork\bgfx\chains\crt-geom\delta_1_4x1_rgb.png
+2017-03-29 05:15:12 ....A          164               artwork\bgfx\chains\crt-geom\delta_2_4x1_rgb.png
+2017-03-29 05:15:12 ....A          168               artwork\bgfx\chains\crt-geom\delta_2_4x2_rgb.png
+2017-03-29 05:15:12 ....A         2793               artwork\bgfx\chains\hq2x.png
+2017-03-29 05:15:12 ....A         4665               artwork\bgfx\chains\hq3x.png
+2017-03-29 05:15:12 ....A        11913               artwork\bgfx\chains\hq4x.png
+2017-03-29 05:15:12 ....A        23358               artwork\monochrome-chessboard.png
+2017-03-29 05:15:12 ....A        33047               artwork\monochrome-matrix.png
+2017-03-29 05:15:12 ....A          150               artwork\bgfx\chains\crt-geom\none.png
+2006-07-06 08:12:24 ....A          296               artwork\scanlines.png
+2017-03-29 05:15:12 ....A        20397               artwork\shadow-mask.png
+2017-03-29 05:15:12 ....A        26638               artwork\slot-mask-aligned.png
+2017-03-29 05:15:12 ....A        19768               artwork\slot-mask.png
+2017-03-29 05:15:12 ....A          171               artwork\bgfx\chains\crt-geom\slot_2_4x4_rgb.png
+2017-03-29 05:15:12 ....A          176               artwork\bgfx\chains\crt-geom\slot_2_5x4_bgr.png
+2017-03-29 05:15:12 ....A          180               artwork\bgfx\chains\crt-geom\slot_3_7x6_rgb.png
+2017-03-29 05:15:12 ....A          122               artwork\white.png
+2017-03-29 05:15:17 ....A       202561               docs\themes\sphinx_rtd_theme\static\fonts\fontawesome-webfont.svg
+2017-03-29 05:15:16 ....A            2               docs\CONTRIBUTING.md
+2017-03-29 05:15:12 ....A          217               artwork\README.md
+2017-03-29 05:15:12 ....A          222               bgfx\README.md
+2017-03-29 05:15:12 ....A          206               bgfx\chains\README.md
+2017-03-29 05:15:13 ....A          208               bgfx\effects\README.md
+2017-03-29 05:15:13 ....A          208               bgfx\effects\default\README.md
+2017-03-29 05:15:13 ....A          208               bgfx\effects\hlsl\README.md
+2017-03-29 05:15:13 ....A          208               bgfx\effects\unfiltered\README.md
+2017-03-29 05:15:16 ....A          197               docs\README.md
+2017-03-29 05:15:16 ....A          280               docs\man\README.md
+2017-03-29 05:15:17 ....A          359               hash\README.md
+2017-03-29 05:15:24 ....A           91               plugins\README.md
+2017-03-29 05:15:24 ....A           47               plugins\json\README.md
+2017-03-29 05:15:25 ....A          238               samples\README.md
+2017-03-29 05:15:13 ....A        11017               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:14 ....A         4942               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:14 ....A        12234               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:15 ....A        11959               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:16 ....A        14784               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:13 ....A         9249               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:14 ....A         4862               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:14 ....A        10045               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:15 ....A         9714               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:16 ....A        12081               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:13 ....A         8969               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:14 ....A         4614               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:14 ....A         9859               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:15 ....A         9533               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:16 ....A        11856               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:13 ....A         9293               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:14 ....A         5014               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:14 ....A        10981               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:15 ....A        10600               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:16 ....A        13106               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:13 ....A         8853               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:14 ....A         4550               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:14 ....A        10715               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:15 ....A        10344               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:16 ....A        12784               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:13 ....A         8433               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:14 ....A         4390               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:14 ....A        10237               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:15 ....A         9866               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:16 ....A        12318               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:13 ....A         9553               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:14 ....A         5298               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:14 ....A        10663               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:15 ....A        10306               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:16 ....A        12763               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:13 ....A        11465               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\fs_2xbr-hybrid.bin
+2017-03-29 05:15:14 ....A         5062               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\fs_2xbr-hybrid.bin
+2017-03-29 05:15:14 ....A        12528               bgfx\shaders\essl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid.bin
+2017-03-29 05:15:15 ....A        12253               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\fs_2xbr-hybrid.bin
+2017-03-29 05:15:16 ....A        15110               bgfx\shaders\metal\chains\xbr\xbr-hybrid\fs_2xbr-hybrid.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\chains\default\fs_blit.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\chains\misc\fs_blit.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\chains\unfiltered\fs_blit.bin
+2017-03-29 05:15:13 ....A          229               bgfx\shaders\dx9\chains\default\fs_blit.bin
+2017-03-29 05:15:13 ....A          229               bgfx\shaders\dx9\chains\misc\fs_blit.bin
+2017-03-29 05:15:14 ....A          229               bgfx\shaders\dx9\chains\unfiltered\fs_blit.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\chains\default\fs_blit.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\chains\misc\fs_blit.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\chains\unfiltered\fs_blit.bin
+2017-03-29 05:15:14 ....A          181               bgfx\shaders\glsl\chains\default\fs_blit.bin
+2017-03-29 05:15:14 ....A          181               bgfx\shaders\glsl\chains\misc\fs_blit.bin
+2017-03-29 05:15:15 ....A          181               bgfx\shaders\glsl\chains\unfiltered\fs_blit.bin
+2017-03-29 05:15:15 ....A          640               bgfx\shaders\metal\chains\default\fs_blit.bin
+2017-03-29 05:15:15 ....A          640               bgfx\shaders\metal\chains\misc\fs_blit.bin
+2017-03-29 05:15:15 ....A          640               bgfx\shaders\metal\chains\unfiltered\fs_blit.bin
+2017-03-29 05:15:13 ....A         1451               bgfx\shaders\dx11\chains\misc\fs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:13 ....A         1156               bgfx\shaders\dx9\chains\misc\fs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:14 ....A         1315               bgfx\shaders\essl\chains\misc\fs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:14 ....A         1212               bgfx\shaders\glsl\chains\misc\fs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:15 ....A         2211               bgfx\shaders\metal\chains\misc\fs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:13 ....A          749               bgfx\shaders\dx11\chains\hlsl\fs_color.bin
+2017-03-29 05:15:13 ....A          682               bgfx\shaders\dx9\chains\hlsl\fs_color.bin
+2017-03-29 05:15:14 ....A          949               bgfx\shaders\essl\chains\hlsl\fs_color.bin
+2017-03-29 05:15:14 ....A          882               bgfx\shaders\glsl\chains\hlsl\fs_color.bin
+2017-03-29 05:15:15 ....A         1429               bgfx\shaders\metal\chains\hlsl\fs_color.bin
+2017-03-29 05:15:13 ....A         2478               bgfx\shaders\dx11\chains\crt\fs_crt-caligari.bin
+2017-03-29 05:15:13 ....A         1887               bgfx\shaders\dx9\chains\crt\fs_crt-caligari.bin
+2017-03-29 05:15:14 ....A         3678               bgfx\shaders\essl\chains\crt\fs_crt-caligari.bin
+2017-03-29 05:15:14 ....A         3448               bgfx\shaders\glsl\chains\crt\fs_crt-caligari.bin
+2017-03-29 05:15:15 ....A         4646               bgfx\shaders\metal\chains\crt\fs_crt-caligari.bin
+2017-03-29 05:15:13 ....A         7413               bgfx\shaders\dx11\chains\crt-geom\fs_crt-geom-deluxe.bin
+2017-03-29 05:15:13 ....A         5458               bgfx\shaders\dx9\chains\crt-geom\fs_crt-geom-deluxe.bin
+2017-03-29 05:15:14 ....A         7529               bgfx\shaders\essl\chains\crt-geom\fs_crt-geom-deluxe.bin
+2017-03-29 05:15:14 ....A         7140               bgfx\shaders\glsl\chains\crt-geom\fs_crt-geom-deluxe.bin
+2017-03-29 05:15:15 ....A        10169               bgfx\shaders\metal\chains\crt-geom\fs_crt-geom-deluxe.bin
+2017-03-29 05:15:13 ....A         7171               bgfx\shaders\dx11\chains\crt-geom\fs_crt-geom.bin
+2017-03-29 05:15:13 ....A         5208               bgfx\shaders\dx9\chains\crt-geom\fs_crt-geom.bin
+2017-03-29 05:15:14 ....A         7197               bgfx\shaders\essl\chains\crt-geom\fs_crt-geom.bin
+2017-03-29 05:15:14 ....A         6830               bgfx\shaders\glsl\chains\crt-geom\fs_crt-geom.bin
+2017-03-29 05:15:15 ....A         9652               bgfx\shaders\metal\chains\crt-geom\fs_crt-geom.bin
+2017-03-29 05:15:13 ....A         5497               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_custom-jinc2-sharper.bin
+2017-03-29 05:15:14 ....A         4962               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_custom-jinc2-sharper.bin
+2017-03-29 05:15:14 ....A         7321               bgfx\shaders\essl\chains\xbr\super-xbr\fs_custom-jinc2-sharper.bin
+2017-03-29 05:15:15 ....A         7003               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_custom-jinc2-sharper.bin
+2017-03-29 05:15:16 ....A         9941               bgfx\shaders\metal\chains\xbr\super-xbr\fs_custom-jinc2-sharper.bin
+2017-03-29 05:15:13 ....A          672               bgfx\shaders\dx11\chains\hlsl\fs_deconverge.bin
+2017-03-29 05:15:13 ....A          349               bgfx\shaders\dx9\chains\hlsl\fs_deconverge.bin
+2017-03-29 05:15:14 ....A          485               bgfx\shaders\essl\chains\hlsl\fs_deconverge.bin
+2017-03-29 05:15:14 ....A          450               bgfx\shaders\glsl\chains\hlsl\fs_deconverge.bin
+2017-03-29 05:15:15 ....A         1139               bgfx\shaders\metal\chains\hlsl\fs_deconverge.bin
+2017-03-29 05:15:13 ....A         1292               bgfx\shaders\dx11\chains\hlsl\fs_defocus.bin
+2017-03-29 05:15:13 ....A          789               bgfx\shaders\dx9\chains\hlsl\fs_defocus.bin
+2017-03-29 05:15:14 ....A         1135               bgfx\shaders\essl\chains\hlsl\fs_defocus.bin
+2017-03-29 05:15:14 ....A         1096               bgfx\shaders\glsl\chains\hlsl\fs_defocus.bin
+2017-03-29 05:15:15 ....A         2446               bgfx\shaders\metal\chains\hlsl\fs_defocus.bin
+2017-03-29 05:15:13 ....A         1296               bgfx\shaders\dx11\chains\misc\fs_deposterize-pass0.bin
+2017-03-29 05:15:13 ....A          885               bgfx\shaders\dx9\chains\misc\fs_deposterize-pass0.bin
+2017-03-29 05:15:14 ....A         1533               bgfx\shaders\essl\chains\misc\fs_deposterize-pass0.bin
+2017-03-29 05:15:14 ....A         1485               bgfx\shaders\glsl\chains\misc\fs_deposterize-pass0.bin
+2017-03-29 05:15:15 ....A         2063               bgfx\shaders\metal\chains\misc\fs_deposterize-pass0.bin
+2017-03-29 05:15:13 ....A         1296               bgfx\shaders\dx11\chains\misc\fs_deposterize-pass1.bin
+2017-03-29 05:15:13 ....A          885               bgfx\shaders\dx9\chains\misc\fs_deposterize-pass1.bin
+2017-03-29 05:15:14 ....A         1533               bgfx\shaders\essl\chains\misc\fs_deposterize-pass1.bin
+2017-03-29 05:15:14 ....A         1485               bgfx\shaders\glsl\chains\misc\fs_deposterize-pass1.bin
+2017-03-29 05:15:15 ....A         2063               bgfx\shaders\metal\chains\misc\fs_deposterize-pass1.bin
+2017-03-29 05:15:13 ....A          588               bgfx\shaders\dx11\chains\warp\fs_dilation-horizontal-fast.bin
+2017-03-29 05:15:14 ....A          345               bgfx\shaders\dx9\chains\warp\fs_dilation-horizontal-fast.bin
+2017-03-29 05:15:14 ....A          433               bgfx\shaders\essl\chains\warp\fs_dilation-horizontal-fast.bin
+2017-03-29 05:15:15 ....A          416               bgfx\shaders\glsl\chains\warp\fs_dilation-horizontal-fast.bin
+2017-03-29 05:15:15 ....A         1082               bgfx\shaders\metal\chains\warp\fs_dilation-horizontal-fast.bin
+2017-03-29 05:15:13 ....A         4216               bgfx\shaders\dx11\chains\hlsl\fs_distortion.bin
+2017-03-29 05:15:13 ....A         3145               bgfx\shaders\dx9\chains\hlsl\fs_distortion.bin
+2017-03-29 05:15:14 ....A         5939               bgfx\shaders\essl\chains\hlsl\fs_distortion.bin
+2017-03-29 05:15:14 ....A         5647               bgfx\shaders\glsl\chains\hlsl\fs_distortion.bin
+2017-03-29 05:15:15 ....A         6615               bgfx\shaders\metal\chains\hlsl\fs_distortion.bin
+2017-03-29 05:15:13 ....A         5882               bgfx\shaders\dx11\chains\eagle\fs_eagle.bin
+2017-03-29 05:15:13 ....A         3127               bgfx\shaders\dx9\chains\eagle\fs_eagle.bin
+2017-03-29 05:15:14 ....A         6946               bgfx\shaders\essl\chains\eagle\fs_eagle.bin
+2017-03-29 05:15:14 ....A         6668               bgfx\shaders\glsl\chains\eagle\fs_eagle.bin
+2017-03-29 05:15:15 ....A         8286               bgfx\shaders\metal\chains\eagle\fs_eagle.bin
+2017-03-29 05:15:13 ....A         2663               bgfx\shaders\dx11\chains\pillarbox_left_horizontal\fs_gaussian.bin
+2017-03-29 05:15:13 ....A         2663               bgfx\shaders\dx11\chains\pillarbox_left_vertical\fs_gaussian.bin
+2017-03-29 05:15:13 ....A         2663               bgfx\shaders\dx11\chains\pillarbox_right_horizontal\fs_gaussian.bin
+2017-03-29 05:15:13 ....A         2663               bgfx\shaders\dx11\chains\pillarbox_right_vertical\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         1500               bgfx\shaders\dx9\chains\pillarbox_left_horizontal\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         1500               bgfx\shaders\dx9\chains\pillarbox_left_vertical\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         1500               bgfx\shaders\dx9\chains\pillarbox_right_horizontal\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         1500               bgfx\shaders\dx9\chains\pillarbox_right_vertical\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         2901               bgfx\shaders\essl\chains\pillarbox_left_horizontal\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         2901               bgfx\shaders\essl\chains\pillarbox_left_vertical\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         2901               bgfx\shaders\essl\chains\pillarbox_right_horizontal\fs_gaussian.bin
+2017-03-29 05:15:14 ....A         2901               bgfx\shaders\essl\chains\pillarbox_right_vertical\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         2861               bgfx\shaders\glsl\chains\pillarbox_left_horizontal\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         2861               bgfx\shaders\glsl\chains\pillarbox_left_vertical\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         2861               bgfx\shaders\glsl\chains\pillarbox_right_horizontal\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         2861               bgfx\shaders\glsl\chains\pillarbox_right_vertical\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         6085               bgfx\shaders\metal\chains\pillarbox_left_horizontal\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         6085               bgfx\shaders\metal\chains\pillarbox_left_vertical\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         6085               bgfx\shaders\metal\chains\pillarbox_right_horizontal\fs_gaussian.bin
+2017-03-29 05:15:15 ....A         6085               bgfx\shaders\metal\chains\pillarbox_right_vertical\fs_gaussian.bin
+2017-03-29 05:15:13 ....A         2416               bgfx\shaders\dx11\chains\crt-geom\fs_gaussx.bin
+2017-03-29 05:15:13 ....A         1833               bgfx\shaders\dx9\chains\crt-geom\fs_gaussx.bin
+2017-03-29 05:15:14 ....A         2081               bgfx\shaders\essl\chains\crt-geom\fs_gaussx.bin
+2017-03-29 05:15:14 ....A         1993               bgfx\shaders\glsl\chains\crt-geom\fs_gaussx.bin
+2017-03-29 05:15:15 ....A         3955               bgfx\shaders\metal\chains\crt-geom\fs_gaussx.bin
+2017-03-29 05:15:13 ....A         2416               bgfx\shaders\dx11\chains\crt-geom\fs_gaussy.bin
+2017-03-29 05:15:13 ....A         1833               bgfx\shaders\dx9\chains\crt-geom\fs_gaussy.bin
+2017-03-29 05:15:14 ....A         2081               bgfx\shaders\essl\chains\crt-geom\fs_gaussy.bin
+2017-03-29 05:15:14 ....A         1993               bgfx\shaders\glsl\chains\crt-geom\fs_gaussy.bin
+2017-03-29 05:15:15 ....A         3955               bgfx\shaders\metal\chains\crt-geom\fs_gaussy.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\fs_gui.bin
+2017-03-29 05:15:14 ....A          229               bgfx\shaders\dx9\fs_gui.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\fs_gui.bin
+2017-03-29 05:15:15 ....A          181               bgfx\shaders\glsl\fs_gui.bin
+2017-03-29 05:15:16 ....A          640               bgfx\shaders\metal\fs_gui.bin
+2017-03-29 05:15:13 ....A         6600               bgfx\shaders\dx11\chains\hqx\fs_hq2x.bin
+2017-03-29 05:15:13 ....A         3697               bgfx\shaders\dx9\chains\hqx\fs_hq2x.bin
+2017-03-29 05:15:14 ....A        15856               bgfx\shaders\essl\chains\hqx\fs_hq2x.bin
+2017-03-29 05:15:14 ....A        15054               bgfx\shaders\glsl\chains\hqx\fs_hq2x.bin
+2017-03-29 05:15:15 ....A        18144               bgfx\shaders\metal\chains\hqx\fs_hq2x.bin
+2017-03-29 05:15:13 ....A         6612               bgfx\shaders\dx11\chains\hqx\fs_hq3x.bin
+2017-03-29 05:15:13 ....A         3721               bgfx\shaders\dx9\chains\hqx\fs_hq3x.bin
+2017-03-29 05:15:14 ....A        15861               bgfx\shaders\essl\chains\hqx\fs_hq3x.bin
+2017-03-29 05:15:14 ....A        15059               bgfx\shaders\glsl\chains\hqx\fs_hq3x.bin
+2017-03-29 05:15:15 ....A        18149               bgfx\shaders\metal\chains\hqx\fs_hq3x.bin
+2017-03-29 05:15:13 ....A         6612               bgfx\shaders\dx11\chains\hqx\fs_hq4x.bin
+2017-03-29 05:15:13 ....A         3697               bgfx\shaders\dx9\chains\hqx\fs_hq4x.bin
+2017-03-29 05:15:14 ....A        15861               bgfx\shaders\essl\chains\hqx\fs_hq4x.bin
+2017-03-29 05:15:14 ....A        15059               bgfx\shaders\glsl\chains\hqx\fs_hq4x.bin
+2017-03-29 05:15:15 ....A        18149               bgfx\shaders\metal\chains\hqx\fs_hq4x.bin
+2017-03-29 05:15:13 ....A         3710               bgfx\shaders\dx11\chains\hlsl\fs_ntsc_decode.bin
+2017-03-29 05:15:13 ....A         4247               bgfx\shaders\dx9\chains\hlsl\fs_ntsc_decode.bin
+2017-03-29 05:15:14 ....A         6484               bgfx\shaders\essl\chains\hlsl\fs_ntsc_decode.bin
+2017-03-29 05:15:14 ....A         6096               bgfx\shaders\glsl\chains\hlsl\fs_ntsc_decode.bin
+2017-03-29 05:15:15 ....A         7422               bgfx\shaders\metal\chains\hlsl\fs_ntsc_decode.bin
+2017-03-29 05:15:13 ....A         1727               bgfx\shaders\dx11\chains\hlsl\fs_ntsc_encode.bin
+2017-03-29 05:15:13 ....A         1748               bgfx\shaders\dx9\chains\hlsl\fs_ntsc_encode.bin
+2017-03-29 05:15:14 ....A         2825               bgfx\shaders\essl\chains\hlsl\fs_ntsc_encode.bin
+2017-03-29 05:15:14 ....A         2676               bgfx\shaders\glsl\chains\hlsl\fs_ntsc_encode.bin
+2017-03-29 05:15:15 ....A         3552               bgfx\shaders\metal\chains\hlsl\fs_ntsc_encode.bin
+2017-03-29 05:15:13 ....A          523               bgfx\shaders\dx11\chains\pillarbox_left_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:13 ....A          523               bgfx\shaders\dx11\chains\pillarbox_left_vertical\fs_offset_sat.bin
+2017-03-29 05:15:13 ....A          523               bgfx\shaders\dx11\chains\pillarbox_right_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:13 ....A          523               bgfx\shaders\dx11\chains\pillarbox_right_vertical\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          360               bgfx\shaders\dx9\chains\pillarbox_left_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          360               bgfx\shaders\dx9\chains\pillarbox_left_vertical\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          360               bgfx\shaders\dx9\chains\pillarbox_right_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          360               bgfx\shaders\dx9\chains\pillarbox_right_vertical\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\essl\chains\pillarbox_left_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\essl\chains\pillarbox_left_vertical\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\essl\chains\pillarbox_right_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\essl\chains\pillarbox_right_vertical\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          429               bgfx\shaders\glsl\chains\pillarbox_left_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          429               bgfx\shaders\glsl\chains\pillarbox_left_vertical\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          429               bgfx\shaders\glsl\chains\pillarbox_right_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          429               bgfx\shaders\glsl\chains\pillarbox_right_vertical\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          865               bgfx\shaders\metal\chains\pillarbox_left_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          865               bgfx\shaders\metal\chains\pillarbox_left_vertical\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          865               bgfx\shaders\metal\chains\pillarbox_right_horizontal\fs_offset_sat.bin
+2017-03-29 05:15:15 ....A          865               bgfx\shaders\metal\chains\pillarbox_right_vertical\fs_offset_sat.bin
+2017-03-29 05:15:13 ....A          634               bgfx\shaders\dx11\chains\hlsl\fs_phosphor.bin
+2017-03-29 05:15:13 ....A          471               bgfx\shaders\dx9\chains\hlsl\fs_phosphor.bin
+2017-03-29 05:15:14 ....A          651               bgfx\shaders\essl\chains\hlsl\fs_phosphor.bin
+2017-03-29 05:15:14 ....A          613               bgfx\shaders\glsl\chains\hlsl\fs_phosphor.bin
+2017-03-29 05:15:15 ....A         1175               bgfx\shaders\metal\chains\hlsl\fs_phosphor.bin
+2017-03-29 05:15:13 ....A          936               bgfx\shaders\dx11\chains\crt-geom\fs_phosphor_apply.bin
+2017-03-29 05:15:13 ....A          881               bgfx\shaders\dx9\chains\crt-geom\fs_phosphor_apply.bin
+2017-03-29 05:15:14 ....A          705               bgfx\shaders\essl\chains\crt-geom\fs_phosphor_apply.bin
+2017-03-29 05:15:14 ....A          671               bgfx\shaders\glsl\chains\crt-geom\fs_phosphor_apply.bin
+2017-03-29 05:15:15 ....A         1361               bgfx\shaders\metal\chains\crt-geom\fs_phosphor_apply.bin
+2017-03-29 05:15:13 ....A          949               bgfx\shaders\dx11\chains\crt-geom\fs_phosphor_update.bin
+2017-03-29 05:15:13 ....A          798               bgfx\shaders\dx9\chains\crt-geom\fs_phosphor_update.bin
+2017-03-29 05:15:14 ....A          999               bgfx\shaders\essl\chains\crt-geom\fs_phosphor_update.bin
+2017-03-29 05:15:14 ....A          946               bgfx\shaders\glsl\chains\crt-geom\fs_phosphor_update.bin
+2017-03-29 05:15:15 ....A         1566               bgfx\shaders\metal\chains\crt-geom\fs_phosphor_update.bin
+2017-03-29 05:15:13 ....A         3735               bgfx\shaders\dx11\chains\hlsl\fs_post.bin
+2017-03-29 05:15:13 ....A         3372               bgfx\shaders\dx9\chains\hlsl\fs_post.bin
+2017-03-29 05:15:14 ....A         5701               bgfx\shaders\essl\chains\hlsl\fs_post.bin
+2017-03-29 05:15:14 ....A         5417               bgfx\shaders\glsl\chains\hlsl\fs_post.bin
+2017-03-29 05:15:15 ....A         6774               bgfx\shaders\metal\chains\hlsl\fs_post.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\chains\hlsl\fs_prescale.bin
+2017-03-29 05:15:13 ....A          229               bgfx\shaders\dx9\chains\hlsl\fs_prescale.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\chains\hlsl\fs_prescale.bin
+2017-03-29 05:15:14 ....A          181               bgfx\shaders\glsl\chains\hlsl\fs_prescale.bin
+2017-03-29 05:15:15 ....A          640               bgfx\shaders\metal\chains\hlsl\fs_prescale.bin
+2017-03-29 05:15:13 ....A          523               bgfx\shaders\dx11\chains\misc\fs_saturation.bin
+2017-03-29 05:15:13 ....A          360               bgfx\shaders\dx9\chains\misc\fs_saturation.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\essl\chains\misc\fs_saturation.bin
+2017-03-29 05:15:15 ....A          429               bgfx\shaders\glsl\chains\misc\fs_saturation.bin
+2017-03-29 05:15:15 ....A          865               bgfx\shaders\metal\chains\misc\fs_saturation.bin
+2017-03-29 05:15:13 ....A          396               bgfx\shaders\dx11\fs_screen.bin
+2017-03-29 05:15:14 ....A          229               bgfx\shaders\dx9\fs_screen.bin
+2017-03-29 05:15:14 ....A          238               bgfx\shaders\essl\fs_screen.bin
+2017-03-29 05:15:15 ....A          181               bgfx\shaders\glsl\fs_screen.bin
+2017-03-29 05:15:16 ....A          640               bgfx\shaders\metal\fs_screen.bin
+2017-03-29 05:15:13 ....A         2281               bgfx\shaders\dx11\chains\blurs\fs_smart-blur.bin
+2017-03-29 05:15:13 ....A         1354               bgfx\shaders\dx9\chains\blurs\fs_smart-blur.bin
+2017-03-29 05:15:14 ....A         3295               bgfx\shaders\essl\chains\blurs\fs_smart-blur.bin
+2017-03-29 05:15:14 ....A         3176               bgfx\shaders\glsl\chains\blurs\fs_smart-blur.bin
+2017-03-29 05:15:15 ....A         4401               bgfx\shaders\metal\chains\blurs\fs_smart-blur.bin
+2017-03-29 05:15:13 ....A         7650               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A         4203               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A         8621               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:15 ....A         8237               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:16 ....A        11265               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:13 ....A         7649               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A         4130               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A         8690               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:15 ....A         8288               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:16 ....A        11572               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:13 ....A         6949               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A         3710               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A         8095               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:15 ....A         7741               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:16 ....A        10257               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:13 ....A         7662               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A         4223               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A         8621               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:15 ....A         8237               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:16 ....A        11265               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:13 ....A         7661               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A         4218               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A         8678               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:15 ....A         8276               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:16 ....A        11512               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:13 ....A         6961               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:14 ....A         3730               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:14 ....A         8083               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:15 ....A         7729               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:16 ....A        10245               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:13 ....A         7650               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A         4203               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A         8621               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:15 ....A         8237               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:16 ....A        11265               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:13 ....A         7649               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:14 ....A         4130               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:14 ....A         8678               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:15 ....A         8276               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:16 ....A        11512               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:13 ....A         6949               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:14 ....A         3710               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:14 ....A         8083               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:15 ....A         7729               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:16 ....A        10245               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:13 ....A         4342               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:14 ....A         2447               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:14 ....A         5137               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:15 ....A         4866               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:16 ....A         7160               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:13 ....A         4262               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:14 ....A         2363               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:14 ....A         4707               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:15 ....A         4476               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:16 ....A         6730               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:13 ....A         4118               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:14 ....A         2275               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:14 ....A         4786               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:15 ....A         4572               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:16 ....A         6648               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:13 ....A         5256               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-pass0.bin
+2017-03-29 05:15:14 ....A         2693               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-pass0.bin
+2017-03-29 05:15:14 ....A         6315               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-pass0.bin
+2017-03-29 05:15:15 ....A         6026               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-pass0.bin
+2017-03-29 05:15:16 ....A         7462               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-pass0.bin
+2017-03-29 05:15:13 ....A         5921               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-pass1.bin
+2017-03-29 05:15:14 ....A         3230               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-pass1.bin
+2017-03-29 05:15:14 ....A         7656               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-pass1.bin
+2017-03-29 05:15:15 ....A         7216               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-pass1.bin
+2017-03-29 05:15:16 ....A         9622               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-pass1.bin
+2017-03-29 05:15:13 ....A         4840               bgfx\shaders\dx11\chains\xbr\super-xbr\fs_super-xbr-pass2.bin
+2017-03-29 05:15:14 ....A         2521               bgfx\shaders\dx9\chains\xbr\super-xbr\fs_super-xbr-pass2.bin
+2017-03-29 05:15:14 ....A         6037               bgfx\shaders\essl\chains\xbr\super-xbr\fs_super-xbr-pass2.bin
+2017-03-29 05:15:15 ....A         5748               bgfx\shaders\glsl\chains\xbr\super-xbr\fs_super-xbr-pass2.bin
+2017-03-29 05:15:16 ....A         7152               bgfx\shaders\metal\chains\xbr\super-xbr\fs_super-xbr-pass2.bin
+2017-03-29 05:15:13 ....A         3680               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv1-noblend.bin
+2017-03-29 05:15:14 ....A         2261               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv1-noblend.bin
+2017-03-29 05:15:14 ....A         5350               bgfx\shaders\essl\chains\xbr\fs_xbr-lv1-noblend.bin
+2017-03-29 05:15:15 ....A         5185               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv1-noblend.bin
+2017-03-29 05:15:15 ....A         7510               bgfx\shaders\metal\chains\xbr\fs_xbr-lv1-noblend.bin
+2017-03-29 05:15:13 ....A         9531               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv2-3d.bin
+2017-03-29 05:15:14 ....A         5140               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv2-3d.bin
+2017-03-29 05:15:14 ....A         9638               bgfx\shaders\essl\chains\xbr\fs_xbr-lv2-3d.bin
+2017-03-29 05:15:15 ....A         9322               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv2-3d.bin
+2017-03-29 05:15:15 ....A        14382               bgfx\shaders\metal\chains\xbr\fs_xbr-lv2-3d.bin
+2017-03-29 05:15:13 ....A         3587               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:14 ....A         1868               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:14 ....A         3517               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:15 ....A         3354               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:16 ....A         5551               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:13 ....A        11735               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:14 ....A         6084               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:14 ....A        26226               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:15 ....A        24877               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:16 ....A        29257               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:13 ....A         4839               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:14 ....A         3032               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:14 ....A         7804               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:15 ....A         7419               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:16 ....A         9399               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:13 ....A         4143               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:14 ....A         2032               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:14 ....A         4028               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:15 ....A         3855               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:16 ....A         6009               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:13 ....A         4419               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:14 ....A         2144               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:14 ....A         4252               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:15 ....A         4079               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:16 ....A         6183               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:13 ....A         4531               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:14 ....A         2240               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:14 ....A         4441               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:15 ....A         4268               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:16 ....A         6384               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:13 ....A         4949               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv2-fast.bin
+2017-03-29 05:15:14 ....A         2830               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv2-fast.bin
+2017-03-29 05:15:14 ....A         5304               bgfx\shaders\essl\chains\xbr\fs_xbr-lv2-fast.bin
+2017-03-29 05:15:15 ....A         5100               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv2-fast.bin
+2017-03-29 05:15:15 ....A         6416               bgfx\shaders\metal\chains\xbr\fs_xbr-lv2-fast.bin
+2017-03-29 05:15:13 ....A         3084               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:14 ....A         1889               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:14 ....A         5435               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:15 ....A         5195               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:16 ....A         6687               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:13 ....A         5120               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv2-noblend.bin
+2017-03-29 05:15:14 ....A         2525               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv2-noblend.bin
+2017-03-29 05:15:14 ....A         7137               bgfx\shaders\essl\chains\xbr\fs_xbr-lv2-noblend.bin
+2017-03-29 05:15:15 ....A         6880               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv2-noblend.bin
+2017-03-29 05:15:15 ....A         9347               bgfx\shaders\metal\chains\xbr\fs_xbr-lv2-noblend.bin
+2017-03-29 05:15:13 ....A         3714               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-pass1.bin
+2017-03-29 05:15:14 ....A         2271               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-pass1.bin
+2017-03-29 05:15:14 ....A         4663               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-pass1.bin
+2017-03-29 05:15:15 ....A         4455               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-pass1.bin
+2017-03-29 05:15:16 ....A         5807               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\fs_xbr-lv2-pass1.bin
+2017-03-29 05:15:13 ....A         5885               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv2.bin
+2017-03-29 05:15:14 ....A         3342               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv2.bin
+2017-03-29 05:15:14 ....A         6336               bgfx\shaders\essl\chains\xbr\fs_xbr-lv2.bin
+2017-03-29 05:15:15 ....A         6083               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv2.bin
+2017-03-29 05:15:15 ....A         8532               bgfx\shaders\metal\chains\xbr\fs_xbr-lv2.bin
+2017-03-29 05:15:13 ....A         6332               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv3-noblend.bin
+2017-03-29 05:15:14 ....A         3165               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv3-noblend.bin
+2017-03-29 05:15:14 ....A         8802               bgfx\shaders\essl\chains\xbr\fs_xbr-lv3-noblend.bin
+2017-03-29 05:15:15 ....A         8509               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv3-noblend.bin
+2017-03-29 05:15:15 ....A        11227               bgfx\shaders\metal\chains\xbr\fs_xbr-lv3-noblend.bin
+2017-03-29 05:15:13 ....A         9331               bgfx\shaders\dx11\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass0.bin
+2017-03-29 05:15:14 ....A         4436               bgfx\shaders\dx9\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass0.bin
+2017-03-29 05:15:14 ....A        12646               bgfx\shaders\essl\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass0.bin
+2017-03-29 05:15:15 ....A        12220               bgfx\shaders\glsl\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass0.bin
+2017-03-29 05:15:16 ....A        15031               bgfx\shaders\metal\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass0.bin
+2017-03-29 05:15:13 ....A         5449               bgfx\shaders\dx11\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass1.bin
+2017-03-29 05:15:14 ....A         3870               bgfx\shaders\dx9\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass1.bin
+2017-03-29 05:15:14 ....A         7085               bgfx\shaders\essl\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass1.bin
+2017-03-29 05:15:15 ....A         6782               bgfx\shaders\glsl\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass1.bin
+2017-03-29 05:15:16 ....A         9239               bgfx\shaders\metal\chains\xbr\xbr-lv3-multipass\fs_xbr-lv3-pass1.bin
+2017-03-29 05:15:13 ....A         8481               bgfx\shaders\dx11\chains\xbr\fs_xbr-lv3.bin
+2017-03-29 05:15:14 ....A         4394               bgfx\shaders\dx9\chains\xbr\fs_xbr-lv3.bin
+2017-03-29 05:15:14 ....A        10312               bgfx\shaders\essl\chains\xbr\fs_xbr-lv3.bin
+2017-03-29 05:15:15 ....A         9927               bgfx\shaders\glsl\chains\xbr\fs_xbr-lv3.bin
+2017-03-29 05:15:15 ....A        12381               bgfx\shaders\metal\chains\xbr\fs_xbr-lv3.bin
+2017-03-29 05:15:13 ....A        13896               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:14 ....A         6757               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:14 ....A        16672               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:15 ....A        16257               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:16 ....A        22149               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:13 ....A         6163               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:14 ....A         3664               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:14 ....A        10740               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:15 ....A        10241               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:16 ....A        13772               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:13 ....A         4519               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:14 ....A         3500               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:14 ....A         6336               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:15 ....A         6079               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:16 ....A         8320               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:13 ....A         7044               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:14 ....A         4665               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:14 ....A         8035               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:15 ....A         7700               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:16 ....A        10370               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\fs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-sharp.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2-gamma.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v2.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4-gamma.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v4b.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid-v5-gamma.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-hybrid\vs_2xbr-hybrid.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-hybrid\vs_2xbr-hybrid.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-hybrid\vs_2xbr-hybrid.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-hybrid\vs_2xbr-hybrid.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\default\vs_blit.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\misc\vs_blit.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\unfiltered\vs_blit.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\default\vs_blit.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\misc\vs_blit.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\unfiltered\vs_blit.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\default\vs_blit.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\misc\vs_blit.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\unfiltered\vs_blit.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\default\vs_blit.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\misc\vs_blit.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\unfiltered\vs_blit.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\default\vs_blit.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\misc\vs_blit.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\unfiltered\vs_blit.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\misc\vs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\misc\vs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\misc\vs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\misc\vs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\misc\vs_bob-and-ghost-deinterlace.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_color.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_color.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_color.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_color.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_color.bin
+2017-03-29 05:15:13 ....A          707               bgfx\shaders\dx11\chains\crt\vs_crt-caligari.bin
+2017-03-29 05:15:13 ....A          462               bgfx\shaders\dx9\chains\crt\vs_crt-caligari.bin
+2017-03-29 05:15:14 ....A          729               bgfx\shaders\essl\chains\crt\vs_crt-caligari.bin
+2017-03-29 05:15:14 ....A          663               bgfx\shaders\glsl\chains\crt\vs_crt-caligari.bin
+2017-03-29 05:15:15 ....A         1096               bgfx\shaders\metal\chains\crt\vs_crt-caligari.bin
+2017-03-29 05:15:13 ....A         4910               bgfx\shaders\dx11\chains\crt-geom\vs_crt-geom.bin
+2017-03-29 05:15:13 ....A         3289               bgfx\shaders\dx9\chains\crt-geom\vs_crt-geom.bin
+2017-03-29 05:15:14 ....A         5019               bgfx\shaders\essl\chains\crt-geom\vs_crt-geom.bin
+2017-03-29 05:15:14 ....A         4707               bgfx\shaders\glsl\chains\crt-geom\vs_crt-geom.bin
+2017-03-29 05:15:15 ....A         5510               bgfx\shaders\metal\chains\crt-geom\vs_crt-geom.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_custom-jinc2-sharper.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_custom-jinc2-sharper.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_custom-jinc2-sharper.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_custom-jinc2-sharper.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_custom-jinc2-sharper.bin
+2017-03-29 05:15:13 ....A         1336               bgfx\shaders\dx11\chains\hlsl\vs_deconverge.bin
+2017-03-29 05:15:13 ....A         1059               bgfx\shaders\dx9\chains\hlsl\vs_deconverge.bin
+2017-03-29 05:15:14 ....A         1470               bgfx\shaders\essl\chains\hlsl\vs_deconverge.bin
+2017-03-29 05:15:14 ....A         1356               bgfx\shaders\glsl\chains\hlsl\vs_deconverge.bin
+2017-03-29 05:15:15 ....A         1814               bgfx\shaders\metal\chains\hlsl\vs_deconverge.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_defocus.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_defocus.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_defocus.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_defocus.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_defocus.bin
+2017-03-29 05:15:13 ....A          817               bgfx\shaders\dx11\chains\misc\vs_deposterize-pass0.bin
+2017-03-29 05:15:14 ....A          488               bgfx\shaders\dx9\chains\misc\vs_deposterize-pass0.bin
+2017-03-29 05:15:14 ....A          745               bgfx\shaders\essl\chains\misc\vs_deposterize-pass0.bin
+2017-03-29 05:15:15 ....A          679               bgfx\shaders\glsl\chains\misc\vs_deposterize-pass0.bin
+2017-03-29 05:15:15 ....A         1109               bgfx\shaders\metal\chains\misc\vs_deposterize-pass0.bin
+2017-03-29 05:15:13 ....A          817               bgfx\shaders\dx11\chains\misc\vs_deposterize-pass1.bin
+2017-03-29 05:15:14 ....A          488               bgfx\shaders\dx9\chains\misc\vs_deposterize-pass1.bin
+2017-03-29 05:15:14 ....A          745               bgfx\shaders\essl\chains\misc\vs_deposterize-pass1.bin
+2017-03-29 05:15:15 ....A          679               bgfx\shaders\glsl\chains\misc\vs_deposterize-pass1.bin
+2017-03-29 05:15:15 ....A         1109               bgfx\shaders\metal\chains\misc\vs_deposterize-pass1.bin
+2017-03-29 05:15:13 ....A          705               bgfx\shaders\dx11\chains\warp\vs_dilation-horizontal-fast.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\dx9\chains\warp\vs_dilation-horizontal-fast.bin
+2017-03-29 05:15:14 ....A          622               bgfx\shaders\essl\chains\warp\vs_dilation-horizontal-fast.bin
+2017-03-29 05:15:15 ....A          562               bgfx\shaders\glsl\chains\warp\vs_dilation-horizontal-fast.bin
+2017-03-29 05:15:15 ....A          977               bgfx\shaders\metal\chains\warp\vs_dilation-horizontal-fast.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_distortion.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_distortion.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_distortion.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_distortion.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_distortion.bin
+2017-03-29 05:15:13 ....A         1713               bgfx\shaders\dx11\chains\eagle\vs_eagle.bin
+2017-03-29 05:15:13 ....A          896               bgfx\shaders\dx9\chains\eagle\vs_eagle.bin
+2017-03-29 05:15:14 ....A         2441               bgfx\shaders\essl\chains\eagle\vs_eagle.bin
+2017-03-29 05:15:14 ....A         2249               bgfx\shaders\glsl\chains\eagle\vs_eagle.bin
+2017-03-29 05:15:15 ....A         2923               bgfx\shaders\metal\chains\eagle\vs_eagle.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\pillarbox_left_horizontal\vs_gaussian.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\pillarbox_left_vertical\vs_gaussian.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\pillarbox_right_horizontal\vs_gaussian.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\pillarbox_right_vertical\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\pillarbox_left_horizontal\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\pillarbox_left_vertical\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\pillarbox_right_horizontal\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\pillarbox_right_vertical\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\pillarbox_left_horizontal\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\pillarbox_left_vertical\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\pillarbox_right_horizontal\vs_gaussian.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\pillarbox_right_vertical\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\pillarbox_left_horizontal\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\pillarbox_left_vertical\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\pillarbox_right_horizontal\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\pillarbox_right_vertical\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\pillarbox_left_horizontal\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\pillarbox_left_vertical\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\pillarbox_right_horizontal\vs_gaussian.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\pillarbox_right_vertical\vs_gaussian.bin
+2017-03-29 05:15:13 ....A          798               bgfx\shaders\dx11\chains\crt-geom\vs_gaussx.bin
+2017-03-29 05:15:13 ....A          673               bgfx\shaders\dx9\chains\crt-geom\vs_gaussx.bin
+2017-03-29 05:15:14 ....A          684               bgfx\shaders\essl\chains\crt-geom\vs_gaussx.bin
+2017-03-29 05:15:14 ....A          624               bgfx\shaders\glsl\chains\crt-geom\vs_gaussx.bin
+2017-03-29 05:15:15 ....A         1024               bgfx\shaders\metal\chains\crt-geom\vs_gaussx.bin
+2017-03-29 05:15:13 ....A          798               bgfx\shaders\dx11\chains\crt-geom\vs_gaussy.bin
+2017-03-29 05:15:13 ....A          673               bgfx\shaders\dx9\chains\crt-geom\vs_gaussy.bin
+2017-03-29 05:15:14 ....A          684               bgfx\shaders\essl\chains\crt-geom\vs_gaussy.bin
+2017-03-29 05:15:14 ....A          624               bgfx\shaders\glsl\chains\crt-geom\vs_gaussy.bin
+2017-03-29 05:15:15 ....A         1024               bgfx\shaders\metal\chains\crt-geom\vs_gaussy.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\vs_gui.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\vs_gui.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\vs_gui.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\vs_gui.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\vs_gui.bin
+2017-03-29 05:15:13 ....A          909               bgfx\shaders\dx11\chains\hqx\vs_hq2x.bin
+2017-03-29 05:15:13 ....A          564               bgfx\shaders\dx9\chains\hqx\vs_hq2x.bin
+2017-03-29 05:15:14 ....A         1178               bgfx\shaders\essl\chains\hqx\vs_hq2x.bin
+2017-03-29 05:15:14 ....A         1082               bgfx\shaders\glsl\chains\hqx\vs_hq2x.bin
+2017-03-29 05:15:15 ....A         1546               bgfx\shaders\metal\chains\hqx\vs_hq2x.bin
+2017-03-29 05:15:13 ....A          909               bgfx\shaders\dx11\chains\hqx\vs_hq3x.bin
+2017-03-29 05:15:13 ....A          564               bgfx\shaders\dx9\chains\hqx\vs_hq3x.bin
+2017-03-29 05:15:14 ....A         1178               bgfx\shaders\essl\chains\hqx\vs_hq3x.bin
+2017-03-29 05:15:14 ....A         1082               bgfx\shaders\glsl\chains\hqx\vs_hq3x.bin
+2017-03-29 05:15:15 ....A         1546               bgfx\shaders\metal\chains\hqx\vs_hq3x.bin
+2017-03-29 05:15:13 ....A          909               bgfx\shaders\dx11\chains\hqx\vs_hq4x.bin
+2017-03-29 05:15:13 ....A          564               bgfx\shaders\dx9\chains\hqx\vs_hq4x.bin
+2017-03-29 05:15:14 ....A         1178               bgfx\shaders\essl\chains\hqx\vs_hq4x.bin
+2017-03-29 05:15:14 ....A         1082               bgfx\shaders\glsl\chains\hqx\vs_hq4x.bin
+2017-03-29 05:15:15 ....A         1546               bgfx\shaders\metal\chains\hqx\vs_hq4x.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_ntsc_decode.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_ntsc_decode.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_ntsc_decode.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_ntsc_decode.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_ntsc_decode.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_ntsc_encode.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_ntsc_encode.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_ntsc_encode.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_ntsc_encode.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_ntsc_encode.bin
+2017-03-29 05:15:13 ....A          615               bgfx\shaders\dx11\chains\pillarbox_left_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:13 ....A          615               bgfx\shaders\dx11\chains\pillarbox_left_vertical\vs_offset_sat.bin
+2017-03-29 05:15:13 ....A          615               bgfx\shaders\dx11\chains\pillarbox_right_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:13 ....A          615               bgfx\shaders\dx11\chains\pillarbox_right_vertical\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          350               bgfx\shaders\dx9\chains\pillarbox_left_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          350               bgfx\shaders\dx9\chains\pillarbox_left_vertical\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          350               bgfx\shaders\dx9\chains\pillarbox_right_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          350               bgfx\shaders\dx9\chains\pillarbox_right_vertical\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          458               bgfx\shaders\essl\chains\pillarbox_left_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          463               bgfx\shaders\essl\chains\pillarbox_left_vertical\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          459               bgfx\shaders\essl\chains\pillarbox_right_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:14 ....A          469               bgfx\shaders\essl\chains\pillarbox_right_vertical\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          416               bgfx\shaders\glsl\chains\pillarbox_left_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          421               bgfx\shaders\glsl\chains\pillarbox_left_vertical\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          417               bgfx\shaders\glsl\chains\pillarbox_right_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          427               bgfx\shaders\glsl\chains\pillarbox_right_vertical\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          821               bgfx\shaders\metal\chains\pillarbox_left_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          826               bgfx\shaders\metal\chains\pillarbox_left_vertical\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          822               bgfx\shaders\metal\chains\pillarbox_right_horizontal\vs_offset_sat.bin
+2017-03-29 05:15:15 ....A          832               bgfx\shaders\metal\chains\pillarbox_right_vertical\vs_offset_sat.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_phosphor.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_phosphor.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_phosphor.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_phosphor.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_phosphor.bin
+2017-03-29 05:15:13 ....A          503               bgfx\shaders\dx11\chains\crt-geom\vs_phosphor_apply.bin
+2017-03-29 05:15:13 ....A          282               bgfx\shaders\dx9\chains\crt-geom\vs_phosphor_apply.bin
+2017-03-29 05:15:14 ....A          334               bgfx\shaders\essl\chains\crt-geom\vs_phosphor_apply.bin
+2017-03-29 05:15:14 ....A          304               bgfx\shaders\glsl\chains\crt-geom\vs_phosphor_apply.bin
+2017-03-29 05:15:15 ....A          684               bgfx\shaders\metal\chains\crt-geom\vs_phosphor_apply.bin
+2017-03-29 05:15:13 ....A          503               bgfx\shaders\dx11\chains\crt-geom\vs_phosphor_update.bin
+2017-03-29 05:15:13 ....A          282               bgfx\shaders\dx9\chains\crt-geom\vs_phosphor_update.bin
+2017-03-29 05:15:14 ....A          334               bgfx\shaders\essl\chains\crt-geom\vs_phosphor_update.bin
+2017-03-29 05:15:14 ....A          304               bgfx\shaders\glsl\chains\crt-geom\vs_phosphor_update.bin
+2017-03-29 05:15:15 ....A          684               bgfx\shaders\metal\chains\crt-geom\vs_phosphor_update.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_post.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_post.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_post.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_post.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_post.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\hlsl\vs_prescale.bin
+2017-03-29 05:15:13 ....A          318               bgfx\shaders\dx9\chains\hlsl\vs_prescale.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\hlsl\vs_prescale.bin
+2017-03-29 05:15:14 ....A          377               bgfx\shaders\glsl\chains\hlsl\vs_prescale.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\hlsl\vs_prescale.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\misc\vs_saturation.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\misc\vs_saturation.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\misc\vs_saturation.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\misc\vs_saturation.bin
+2017-03-29 05:15:15 ....A          778               bgfx\shaders\metal\chains\misc\vs_saturation.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\vs_screen.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\vs_screen.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\vs_screen.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\vs_screen.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\vs_screen.bin
+2017-03-29 05:15:13 ....A          909               bgfx\shaders\dx11\chains\blurs\vs_smart-blur.bin
+2017-03-29 05:15:13 ....A          564               bgfx\shaders\dx9\chains\blurs\vs_smart-blur.bin
+2017-03-29 05:15:14 ....A         1178               bgfx\shaders\essl\chains\blurs\vs_smart-blur.bin
+2017-03-29 05:15:14 ....A         1082               bgfx\shaders\glsl\chains\blurs\vs_smart-blur.bin
+2017-03-29 05:15:15 ....A         1546               bgfx\shaders\metal\chains\blurs\vs_smart-blur.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-2xbr-3d-pass0.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-2xbr-3d-pass1.bin
+2017-03-29 05:15:13 ....A         1093               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A          648               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A         1415               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:15 ....A         1301               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:16 ....A         1787               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-2xbr-3d-pass2.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass0.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1.bin
+2017-03-29 05:15:13 ....A         1093               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:14 ....A          648               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:14 ....A         1415               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:15 ....A         1301               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:16 ....A         1787               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass1f.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass2.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3.bin
+2017-03-29 05:15:13 ....A         1093               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:14 ....A          648               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:14 ....A         1415               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:15 ....A         1301               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:16 ....A         1787               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-4xbr-3d-pass3f.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-fast-pass0.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-fast-pass1.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-fast-pass2.bin
+2017-03-29 05:15:13 ....A         1053               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-pass0.bin
+2017-03-29 05:15:14 ....A          620               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-pass0.bin
+2017-03-29 05:15:14 ....A         1436               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-pass0.bin
+2017-03-29 05:15:15 ....A         1322               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-pass0.bin
+2017-03-29 05:15:16 ....A         1806               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-pass0.bin
+2017-03-29 05:15:13 ....A          575               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-pass1.bin
+2017-03-29 05:15:14 ....A          318               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-pass1.bin
+2017-03-29 05:15:14 ....A          419               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-pass1.bin
+2017-03-29 05:15:15 ....A          377               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-pass1.bin
+2017-03-29 05:15:16 ....A          778               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-pass1.bin
+2017-03-29 05:15:13 ....A         1093               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-pass2.bin
+2017-03-29 05:15:14 ....A          648               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-pass2.bin
+2017-03-29 05:15:14 ....A         1415               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-pass2.bin
+2017-03-29 05:15:15 ....A         1301               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-pass2.bin
+2017-03-29 05:15:16 ....A         1787               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-pass2.bin
+2017-03-29 05:15:13 ....A         1093               bgfx\shaders\dx11\chains\xbr\super-xbr\vs_super-xbr-pass3.bin
+2017-03-29 05:15:14 ....A          648               bgfx\shaders\dx9\chains\xbr\super-xbr\vs_super-xbr-pass3.bin
+2017-03-29 05:15:14 ....A         1415               bgfx\shaders\essl\chains\xbr\super-xbr\vs_super-xbr-pass3.bin
+2017-03-29 05:15:15 ....A         1301               bgfx\shaders\glsl\chains\xbr\super-xbr\vs_super-xbr-pass3.bin
+2017-03-29 05:15:16 ....A         1787               bgfx\shaders\metal\chains\xbr\super-xbr\vs_super-xbr-pass3.bin
+2017-03-29 05:15:13 ....A          729               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv1-noblend.bin
+2017-03-29 05:15:14 ....A          480               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv1-noblend.bin
+2017-03-29 05:15:14 ....A          765               bgfx\shaders\essl\chains\xbr\vs_xbr-lv1-noblend.bin
+2017-03-29 05:15:15 ....A          693               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv1-noblend.bin
+2017-03-29 05:15:16 ....A         1125               bgfx\shaders\metal\chains\xbr\vs_xbr-lv1-noblend.bin
+2017-03-29 05:15:13 ....A          711               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv2-3d.bin
+2017-03-29 05:15:14 ....A          514               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv2-3d.bin
+2017-03-29 05:15:14 ....A          745               bgfx\shaders\essl\chains\xbr\vs_xbr-lv2-3d.bin
+2017-03-29 05:15:15 ....A          673               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv2-3d.bin
+2017-03-29 05:15:16 ....A         1097               bgfx\shaders\metal\chains\xbr\vs_xbr-lv2-3d.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-a-pass0.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass0.bin
+2017-03-29 05:15:13 ....A          829               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:14 ....A          520               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:14 ....A          911               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:15 ....A          833               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:16 ....A         1279               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-accuracy-pass1.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-b-pass0.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-c-pass0.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-d-pass0.bin
+2017-03-29 05:15:13 ....A          909               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv2-fast.bin
+2017-03-29 05:15:14 ....A          564               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv2-fast.bin
+2017-03-29 05:15:14 ....A         1178               bgfx\shaders\essl\chains\xbr\vs_xbr-lv2-fast.bin
+2017-03-29 05:15:15 ....A         1082               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv2-fast.bin
+2017-03-29 05:15:16 ....A         1546               bgfx\shaders\metal\chains\xbr\vs_xbr-lv2-fast.bin
+2017-03-29 05:15:13 ....A          829               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:14 ....A          520               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:14 ....A          911               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:15 ....A          833               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:16 ....A         1279               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-noblend-pass1.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv2-noblend.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv2-noblend.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\vs_xbr-lv2-noblend.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv2-noblend.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\vs_xbr-lv2-noblend.bin
+2017-03-29 05:15:13 ....A          829               bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-pass1.bin
+2017-03-29 05:15:14 ....A          520               bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-pass1.bin
+2017-03-29 05:15:14 ....A          911               bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-pass1.bin
+2017-03-29 05:15:15 ....A          833               bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-pass1.bin
+2017-03-29 05:15:16 ....A         1279               bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass\vs_xbr-lv2-pass1.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv2.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv2.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\vs_xbr-lv2.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv2.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\vs_xbr-lv2.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv3-noblend.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv3-noblend.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\vs_xbr-lv3-noblend.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv3-noblend.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\vs_xbr-lv3-noblend.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass0.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass0.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass0.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass0.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass0.bin
+2017-03-29 05:15:13 ....A          893               bgfx\shaders\dx11\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass1.bin
+2017-03-29 05:15:14 ....A          592               bgfx\shaders\dx9\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass1.bin
+2017-03-29 05:15:14 ....A          971               bgfx\shaders\essl\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass1.bin
+2017-03-29 05:15:15 ....A          887               bgfx\shaders\glsl\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass1.bin
+2017-03-29 05:15:16 ....A         1343               bgfx\shaders\metal\chains\xbr\xbr-lv3-multipass\vs_xbr-lv3-pass1.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\vs_xbr-lv3.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\vs_xbr-lv3.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\vs_xbr-lv3.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\vs_xbr-lv3.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\vs_xbr-lv3.bin
+2017-03-29 05:15:13 ....A          673               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:14 ....A          420               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:14 ....A          543               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:15 ....A          489               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:16 ....A          896               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass1.bin
+2017-03-29 05:15:13 ....A         1337               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:14 ....A          768               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:14 ....A         2087               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:15 ....A         1937               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:16 ....A         2469               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass2.bin
+2017-03-29 05:15:13 ....A          705               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:14 ....A          696               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:15 ....A          630               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:16 ....A         1051               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass3.bin
+2017-03-29 05:15:13 ....A          705               bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:14 ....A          456               bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:14 ....A          696               bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:15 ....A          630               bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:16 ....A         1051               bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass\vs_xbr-mlv4-pass4.bin
+2017-03-29 05:15:24 ....A          668               nl_examples\7400_astable.c
+2017-03-29 05:15:24 ....A          709               nl_examples\74123_mstable.c
+2017-03-29 05:15:24 ....A          859               nl_examples\9602_mstable.c
+2017-03-29 05:15:24 ....A          756               nl_examples\bjt.c
+2017-03-29 05:15:24 ....A          785               nl_examples\bjt_eb.c
+2017-03-29 05:15:24 ....A          575               nl_examples\bjt_eb_pnp.c
+2017-03-29 05:15:24 ....A        39604               nl_examples\breakout.c
+2017-03-29 05:15:24 ....A          735               nl_examples\cd4066.c
+2017-03-29 05:15:24 ....A          859               nl_examples\cdelay.c
+2017-03-29 05:15:24 ....A        11468               nl_examples\congo_bongo.c
+2017-03-29 05:15:24 ....A          470               nl_examples\diode.c
+2017-03-29 05:15:24 ....A        12105               nl_examples\kidniki.c
+2017-03-29 05:15:24 ....A          543               nl_examples\mm5837_noise.c
+2017-03-29 05:15:24 ....A         1629               nl_examples\msx_mixer_stage.c
+2017-03-29 05:15:24 ....A          898               nl_examples\ne555_astable.c
+2017-03-29 05:15:24 ....A         2759               nl_examples\norton_opamp.c
+2017-03-29 05:15:24 ....A         3915               nl_examples\opamp.c
+2017-03-29 05:15:24 ....A          434               nl_examples\rc.c
+2017-03-29 05:15:24 ....A          452               nl_examples\rl.c
+2017-03-29 05:15:24 ....A          529               nl_examples\sn74ls629_osc.c
+2017-03-29 05:15:24 ....A         1677               nl_examples\test.c
+2017-03-29 05:15:24 ....A         2516               nl_examples\todo.c
+2017-03-29 05:15:24 ....A          538               nl_examples\vccs.c
+2017-03-29 05:15:24 ....A          617               nl_examples\vccs1.c
+2017-03-29 05:15:24 ....A          859               nl_examples\vs_cs.c
+2017-03-29 05:15:17 ....A       127180               hash\32x.xml
+2017-03-29 05:15:17 ....A          793               hash\3do_m2.xml
+2017-03-29 05:15:17 ....A       743637               hash\a2600.xml
+2017-03-29 05:15:17 ....A        37313               hash\a2600_cass.xml
+2017-03-29 05:15:17 ....A        55527               hash\a5200.xml
+2017-03-29 05:15:17 ....A        95538               hash\a7800.xml
+2017-03-29 05:15:17 ....A       243118               hash\a800.xml
+2017-03-29 05:15:17 ....A        18246               hash\a800_flop.xml
+2017-03-29 05:15:17 ....A         6766               hash\abc1600.xml
+2017-03-29 05:15:17 ....A         6959               hash\abc800.xml
+2017-03-29 05:15:17 ....A         1228               hash\abc800_hdd.xml
+2017-03-29 05:15:17 ....A         1829               hash\abc806.xml
+2017-03-29 05:15:17 ....A          606               hash\abc80_cass.xml
+2017-03-29 05:15:17 ....A         3526               hash\abc80_flop.xml
+2017-03-29 05:15:17 ....A         6446               hash\adam_cart.xml
+2017-03-29 05:15:17 ....A        35867               hash\adam_cass.xml
+2017-03-29 05:15:17 ....A       661996               hash\adam_flop.xml
+2017-03-29 05:15:17 ....A         6254               hash\advantage.xml
+2017-03-29 05:15:17 ....A         1853               hash\advision.xml
+2017-03-29 05:15:17 ....A         7660               hash\aim65_cart.xml
+2017-03-29 05:15:17 ....A         1419               hash\aleste.xml
+2017-03-29 05:15:17 ....A        28664               hash\alice32.xml
+2017-03-29 05:15:17 ....A         4116               hash\alice90.xml
+2017-03-29 05:15:17 ....A          939               hash\alphatro_flop.xml
+2017-03-29 05:15:17 ....A         1376               hash\altos5.xml
+2017-03-29 05:15:17 ....A       208195               hash\amigaaga_flop.xml
+2017-03-29 05:15:17 ....A        34048               hash\amigaecs_flop.xml
+2017-03-29 05:15:18 ....A      2013272               hash\amigaocs_flop.xml
+2017-03-29 05:15:17 ....A         6816               hash\amiga_a1000.xml
+2017-03-29 05:15:17 ....A         6225               hash\amiga_a3000.xml
+2017-03-29 05:15:17 ....A         6528               hash\amiga_apps.xml
+2017-03-29 05:15:17 ....A       427204               hash\amiga_flop.xml
+2017-03-29 05:15:17 ....A         5677               hash\amiga_hardware.xml
+2017-03-29 05:15:17 ....A        20612               hash\amiga_workbench.xml
+2017-03-29 05:15:18 ....A         2285               hash\ampro.xml
+2017-03-29 05:15:18 ....A        15026               hash\apc.xml
+2017-03-29 05:15:18 ....A        45600               hash\apfimag_cass.xml
+2017-03-29 05:15:18 ....A        10261               hash\apfm1000.xml
+2017-03-29 05:15:18 ....A        38972               hash\apogee.xml
+2017-03-29 05:15:18 ....A         2165               hash\apollo_ctape.xml
+2017-03-29 05:15:18 ....A        18845               hash\apple1.xml
+2017-03-29 05:15:18 ....A       355854               hash\apple2.xml
+2017-03-29 05:15:18 ....A       287019               hash\apple2gs.xml
+2017-03-29 05:15:18 ....A        11060               hash\apple3.xml
+2017-03-29 05:15:18 ....A         4089               hash\apricot_flop.xml
+2017-03-29 05:15:18 ....A         9836               hash\aquarius.xml
+2017-03-29 05:15:18 ....A        59204               hash\arcadia.xml
+2017-03-29 05:15:18 ....A       258757               hash\archimedes.xml
+2017-03-29 05:15:18 ....A        59354               hash\astrocde.xml
+2017-03-29 05:15:18 ....A        19906               hash\atom_cass.xml
+2017-03-29 05:15:18 ....A         7630               hash\atom_flop.xml
+2017-03-29 05:15:18 ....A        16843               hash\atom_rom.xml
+2017-03-29 05:15:18 ....A          558               hash\attache.xml
+2017-03-29 05:15:18 ....A         1294               hash\b2m.xml
+2017-03-29 05:15:18 ....A        20135               hash\bbca_cass.xml
+2017-03-29 05:15:18 ....A         5361               hash\bbcbc.xml
+2017-03-29 05:15:18 ....A       657301               hash\bbcb_cass.xml
+2017-03-29 05:15:18 ....A         9007               hash\bbcb_cass_de.xml
+2017-03-29 05:15:18 ....A        90580               hash\bbcb_flop.xml
+2017-03-29 05:15:18 ....A       167541               hash\bbcb_flop_orig.xml
+2017-03-29 05:15:18 ....A          756               hash\bbcb_flop_us.xml
+2017-03-29 05:15:18 ....A         9150               hash\bbcmc_flop.xml
+2017-03-29 05:15:18 ....A         1548               hash\bbcm_cart.xml
+2017-03-29 05:15:18 ....A         3188               hash\bbcm_cass.xml
+2017-03-29 05:15:18 ....A         3039               hash\bbcm_flop.xml
+2017-03-29 05:15:18 ....A         5033               hash\bbc_flop_32016.xml
+2017-03-29 05:15:18 ....A         4867               hash\bbc_flop_6502.xml
+2017-03-29 05:15:18 ....A          876               hash\bbc_flop_65c102.xml
+2017-03-29 05:15:18 ....A         1598               hash\bbc_flop_68000.xml
+2017-03-29 05:15:18 ....A         6397               hash\bbc_flop_80186.xml
+2017-03-29 05:15:18 ....A         2449               hash\bbc_flop_arm.xml
+2017-03-29 05:15:18 ....A         6676               hash\bbc_flop_torch.xml
+2017-03-29 05:15:18 ....A         7276               hash\bbc_flop_z80.xml
+2017-03-29 05:15:18 ....A        52143               hash\bk0010.xml
+2017-03-29 05:15:18 ....A         1387               hash\bml3_flop.xml
+2017-03-29 05:15:18 ....A          892               hash\bw12.xml
+2017-03-29 05:15:18 ....A         4286               hash\bw14.xml
+2017-03-29 05:15:18 ....A         2710               hash\bw2.xml
+2017-03-29 05:15:18 ....A         5279               hash\bx256hp_flop.xml
+2017-03-29 05:15:18 ....A         7298               hash\c128_cart.xml
+2017-03-29 05:15:18 ....A        28693               hash\c128_flop.xml
+2017-03-29 05:15:18 ....A         4048               hash\c128_rom.xml
+2017-03-29 05:15:18 ....A       266351               hash\c64_cart.xml
+2017-03-29 05:15:18 ....A         5354               hash\c64_cass.xml
+2017-03-29 05:15:18 ....A        46710               hash\c64_flop.xml
+2017-03-29 05:15:18 ....A          525               hash\c65_flop.xml
+2017-03-29 05:15:18 ....A         4524               hash\casloopy.xml
+2017-03-29 05:15:18 ....A         2565               hash\cbm2_cart.xml
+2017-03-29 05:15:18 ....A        59498               hash\cbm2_flop.xml
+2017-03-29 05:15:18 ....A         1004               hash\cbm8096_flop.xml
+2017-03-29 05:15:18 ....A         1248               hash\cbm8296_flop.xml
+2017-03-29 05:15:18 ....A         4755               hash\cc40_cart.xml
+2017-03-29 05:15:18 ....A         5330               hash\cd32.xml
+2017-03-29 05:15:18 ....A       532417               hash\cdi.xml
+2017-03-29 05:15:18 ....A         3679               hash\cdtv.xml
+2017-03-29 05:15:18 ....A         1093               hash\cgenie_cart.xml
+2017-03-29 05:15:18 ....A        39217               hash\cgenie_cass.xml
+2017-03-29 05:15:18 ....A        20730               hash\channelf.xml
+2017-03-29 05:15:18 ....A          973               hash\chessmstdm.xml
+2017-03-29 05:15:18 ....A        71279               hash\coco_cart.xml
+2017-03-29 05:15:18 ....A         1507               hash\coco_flop.xml
+2017-03-29 05:15:18 ....A       151805               hash\coleco.xml
+2017-03-29 05:15:18 ....A       100693               hash\compclr2_flop.xml
+2017-03-29 05:15:18 ....A         2209               hash\compis.xml
+2017-03-29 05:15:18 ....A          547               hash\comx35_flop.xml
+2017-03-29 05:15:18 ....A         5430               hash\copera.xml
+2017-03-29 05:15:18 ....A      2067568               hash\cpc_cass.xml
+2017-03-29 05:15:19 ....A     13298620               hash\cpc_flop.xml
+2017-03-29 05:15:19 ....A        26449               hash\crvision.xml
+2017-03-29 05:15:19 ....A         2130               hash\cx3000tc.xml
+2017-03-29 05:15:19 ....A         3233               hash\dai_cass.xml
+2017-03-29 05:15:19 ....A         9280               hash\database.xml
+2017-03-29 05:15:19 ....A         7515               hash\dim68k.xml
+2017-03-29 05:15:19 ....A        58399               hash\dmv.xml
+2017-03-29 05:15:19 ....A          604               hash\dps1.xml
+2017-03-29 05:15:19 ....A         1010               hash\e01_flop.xml
+2017-03-29 05:15:19 ....A         4850               hash\ec1841.xml
+2017-03-29 05:15:19 ....A        57792               hash\einstein.xml
+2017-03-29 05:15:19 ....A         6233               hash\electron_cart.xml
+2017-03-29 05:15:19 ....A       385014               hash\electron_cass.xml
+2017-03-29 05:15:19 ....A        60854               hash\electron_flop.xml
+2017-03-29 05:15:19 ....A         6585               hash\ep64_cart.xml
+2017-03-29 05:15:19 ....A         1324               hash\ep64_cass.xml
+2017-03-29 05:15:19 ....A        76943               hash\ep64_flop.xml
+2017-03-29 05:15:19 ....A         6175               hash\epson_cpm.xml
+2017-03-29 05:15:19 ....A         6368               hash\exl100.xml
+2017-03-29 05:15:19 ....A        10085               hash\famicom_cass.xml
+2017-03-29 05:15:19 ....A       175294               hash\famicom_flop.xml
+2017-03-29 05:15:19 ....A         1140               hash\fidel_scc.xml
+2017-03-29 05:15:19 ....A        55681               hash\fm77av.xml
+2017-03-29 05:15:19 ....A        98004               hash\fm7_cass.xml
+2017-03-29 05:15:19 ....A        98074               hash\fm7_disk.xml
+2017-03-29 05:15:19 ....A       469943               hash\fmtowns_cd.xml
+2017-03-29 05:15:19 ....A        75886               hash\fmtowns_flop.xml
+2017-03-29 05:15:19 ....A        15771               hash\g7400.xml
+2017-03-29 05:15:19 ....A        25578               hash\galaxy.xml
+2017-03-29 05:15:19 ....A        26503               hash\gamate.xml
+2017-03-29 05:15:19 ....A      1038130               hash\gameboy.xml
+2017-03-29 05:15:19 ....A        10543               hash\gamecom.xml
+2017-03-29 05:15:19 ....A       412098               hash\gamegear.xml
+2017-03-29 05:15:19 ....A        16417               hash\gameking.xml
+2017-03-29 05:15:19 ....A         1482               hash\gameking3.xml
+2017-03-29 05:15:19 ....A         2240               hash\gamepock.xml
+2017-03-29 05:15:19 ....A      1714419               hash\gba.xml
+2017-03-29 05:15:19 ....A       234923               hash\gba_ereader.xml
+2017-03-29 05:15:19 ....A      1065321               hash\gbcolor.xml
+2017-03-29 05:15:19 ....A         6120               hash\genius.xml
+2017-03-29 05:15:19 ....A         2016               hash\gimix.xml
+2017-03-29 05:15:19 ....A          568               hash\gjmovie.xml
+2017-03-29 05:15:19 ....A         3939               hash\gl2000.xml
+2017-03-29 05:15:19 ....A          700               hash\gl6000sl.xml
+2017-03-29 05:15:19 ....A         2670               hash\glcolor.xml
+2017-03-29 05:15:19 ....A         4988               hash\gmaster.xml
+2017-03-29 05:15:20 ....A        17743               hash\gp32.xml
+2017-03-29 05:15:20 ....A         4365               hash\guab.xml
+2017-03-29 05:15:20 ....A        13416               hash\gx4000.xml
+2017-03-29 05:15:20 ....A         1403               hash\h21.xml
+2017-03-29 05:15:20 ....A       116941               hash\horizon.xml
+2017-03-29 05:15:20 ....A         2795               hash\hp9835a_rom.xml
+2017-03-29 05:15:20 ....A         4501               hash\hp9845a_rom.xml
+2017-03-29 05:15:20 ....A        19811               hash\hp9845b_rom.xml
+2017-03-29 05:15:20 ....A        14976               hash\hp_ipc.xml
+2017-03-29 05:15:20 ....A          970               hash\ht68k.xml
+2017-03-29 05:15:20 ....A         7585               hash\i7000_card.xml
+2017-03-29 05:15:20 ....A         2046               hash\ibm5140.xml
+2017-03-29 05:15:20 ....A       241062               hash\ibm5150.xml
+2017-03-29 05:15:20 ....A          590               hash\ibm5150_cass.xml
+2017-03-29 05:15:20 ....A       297059               hash\ibm5170.xml
+2017-03-29 05:15:20 ....A         7975               hash\ibm5170_cdrom.xml
+2017-03-29 05:15:20 ....A         5240               hash\ibm6580.xml
+2017-03-29 05:15:20 ....A         8227               hash\ibmpcjr_cart.xml
+2017-03-29 05:15:20 ....A         4792               hash\ibmpcjr_flop.xml
+2017-03-29 05:15:20 ....A        14793               hash\interact.xml
+2017-03-29 05:15:20 ....A       105588               hash\intv.xml
+2017-03-29 05:15:20 ....A         7617               hash\intvecs.xml
+2017-03-29 05:15:20 ....A         1677               hash\iq128.xml
+2017-03-29 05:15:20 ....A         2302               hash\iq151_cart.xml
+2017-03-29 05:15:20 ....A         1057               hash\iq151_flop.xml
+2017-03-29 05:15:20 ....A        52188               hash\jaguar.xml
+2017-03-29 05:15:20 ....A         1707               hash\juicebox.xml
+2017-03-29 05:15:20 ....A        80959               hash\jupace_cass.xml
+2017-03-29 05:15:20 ....A         2728               hash\k28m2.xml
+2017-03-29 05:15:20 ....A         4964               hash\kayproii.xml
+2017-03-29 05:15:20 ....A         2377               hash\kc_cart.xml
+2017-03-29 05:15:20 ....A        75045               hash\kc_cass.xml
+2017-03-29 05:15:20 ....A         2235               hash\kc_flop.xml
+2017-03-29 05:15:20 ....A          879               hash\kim1_cass.xml
+2017-03-29 05:15:20 ....A         9458               hash\korvet_flop.xml
+2017-03-29 05:15:20 ....A         3942               hash\lantutor.xml
+2017-03-29 05:15:20 ....A        24084               hash\leapster.xml
+2017-03-29 05:15:20 ....A        38798               hash\lisa.xml
+2017-03-29 05:15:20 ....A         5764               hash\lisa2.xml
+2017-03-29 05:15:20 ....A       125086               hash\lviv.xml
+2017-03-29 05:15:20 ....A        41614               hash\lynx.xml
+2017-03-29 05:15:20 ....A        17045               hash\m20.xml
+2017-03-29 05:15:20 ....A        24877               hash\m5_cart.xml
+2017-03-29 05:15:20 ....A        12986               hash\m5_cass.xml
+2017-03-29 05:15:20 ....A          565               hash\m5_flop.xml
+2017-03-29 05:15:20 ....A         3782               hash\mac_flop.xml
+2017-03-29 05:15:20 ....A         3188               hash\mac_hdd.xml
+2017-03-29 05:15:20 ....A          934               hash\mbc200.xml
+2017-03-29 05:15:20 ....A         6730               hash\mbc55x.xml
+2017-03-29 05:15:20 ....A        55452               hash\mc10.xml
+2017-03-29 05:15:20 ....A        53986               hash\mc1000_cass.xml
+2017-03-29 05:15:20 ....A         1307               hash\mc1502_flop.xml
+2017-03-29 05:15:20 ....A         2849               hash\md2_flop.xml
+2017-03-29 05:15:20 ....A       321424               hash\megacd.xml
+2017-03-29 05:15:20 ....A       425053               hash\megacdj.xml
+2017-03-29 05:15:20 ....A      1406071               hash\megadriv.xml
+2017-03-29 05:15:20 ....A        10801               hash\megaduck.xml
+2017-03-29 05:15:20 ....A         1840               hash\megapc.xml
+2017-03-29 05:15:20 ....A        32176               hash\megatech.xml
+2017-03-29 05:15:20 ....A         9960               hash\microvision.xml
+2017-03-29 05:15:20 ....A         1391               hash\mikro80.xml
+2017-03-29 05:15:20 ....A          567               hash\mikrosha_cart.xml
+2017-03-29 05:15:20 ....A        20892               hash\mikrosha_cass.xml
+2017-03-29 05:15:20 ....A         1022               hash\misterx.xml
+2017-03-29 05:15:20 ....A          539               hash\mm1_flop.xml
+2017-03-29 05:15:20 ....A        19679               hash\mo5_cart.xml
+2017-03-29 05:15:20 ....A       689841               hash\mo5_cass.xml
+2017-03-29 05:15:20 ....A        34626               hash\mo5_flop.xml
+2017-03-29 05:15:20 ....A        13149               hash\mo5_qd.xml
+2017-03-29 05:15:20 ....A        67149               hash\mo6_cass.xml
+2017-03-29 05:15:20 ....A        24248               hash\mo6_flop.xml
+2017-03-29 05:15:20 ....A          620               hash\mpu1000.xml
+2017-03-29 05:15:20 ....A        22535               hash\mpz80.xml
+2017-03-29 05:15:20 ....A       636575               hash\msx1_cart.xml
+2017-03-29 05:15:20 ....A       650855               hash\msx1_cass.xml
+2017-03-29 05:15:20 ....A       595008               hash\msx1_flop.xml
+2017-03-29 05:15:21 ....A        30220               hash\msx2p_flop.xml
+2017-03-29 05:15:21 ....A       131448               hash\msx2_cart.xml
+2017-03-29 05:15:21 ....A         2821               hash\msx2_cass.xml
+2017-03-29 05:15:21 ....A       829532               hash\msx2_flop.xml
+2017-03-29 05:15:21 ....A        44304               hash\msxr_flop.xml
+2017-03-29 05:15:21 ....A        18714               hash\mtx_cass.xml
+2017-03-29 05:15:21 ....A         2863               hash\myvision.xml
+2017-03-29 05:15:21 ....A         3768               hash\mz2000_cass.xml
+2017-03-29 05:15:21 ....A         6704               hash\mz2000_flop.xml
+2017-03-29 05:15:21 ....A        29627               hash\mz2500.xml
+2017-03-29 05:15:21 ....A       106781               hash\mz700_cass.xml
+2017-03-29 05:15:21 ....A         6771               hash\mz800_cass.xml
+2017-03-29 05:15:21 ....A       514569               hash\n64.xml
+2017-03-29 05:15:21 ....A         7519               hash\n64dd.xml
+2017-03-29 05:15:21 ....A         4207               hash\nascom_flop.xml
+2017-03-29 05:15:21 ....A         1681               hash\nascom_socket.xml
+2017-03-29 05:15:21 ....A        58166               hash\neocd.xml
+2017-03-29 05:15:21 ....A       757219               hash\neogeo.xml
+2017-03-29 05:15:21 ....A      3550941               hash\nes.xml
+2017-03-29 05:15:21 ....A         3760               hash\nes_ade.xml
+2017-03-29 05:15:21 ....A         5594               hash\nes_datach.xml
+2017-03-29 05:15:21 ....A         1686               hash\nes_kstudio.xml
+2017-03-29 05:15:21 ....A         1542               hash\nes_ntbrom.xml
+2017-03-29 05:15:21 ....A         4743               hash\next.xml
+2017-03-29 05:15:21 ....A         6716               hash\ngp.xml
+2017-03-29 05:15:21 ....A        69493               hash\ngpc.xml
+2017-03-29 05:15:21 ....A         1416               hash\nimbus.xml
+2017-03-29 05:15:21 ....A         3625               hash\octopus.xml
+2017-03-29 05:15:21 ....A        72337               hash\odyssey2.xml
+2017-03-29 05:15:21 ....A         4585               hash\ondra.xml
+2017-03-29 05:15:21 ....A        15840               hash\orao.xml
+2017-03-29 05:15:21 ....A        13068               hash\orionpro_flop.xml
+2017-03-29 05:15:21 ....A          925               hash\orion_cart.xml
+2017-03-29 05:15:21 ....A        30821               hash\orion_cass.xml
+2017-03-29 05:15:21 ....A        45501               hash\orion_flop.xml
+2017-03-29 05:15:21 ....A        10859               hash\osborne1.xml
+2017-03-29 05:15:21 ....A         2254               hash\osborne2.xml
+2017-03-29 05:15:21 ....A          953               hash\p500_flop.xml
+2017-03-29 05:15:21 ....A        29441               hash\partner_cass.xml
+2017-03-29 05:15:21 ....A          917               hash\partner_flop.xml
+2017-03-29 05:15:21 ....A         4290               hash\pasogo.xml
+2017-03-29 05:15:21 ....A          993               hash\pb2000c.xml
+2017-03-29 05:15:21 ....A         5208               hash\pc1000.xml
+2017-03-29 05:15:21 ....A         6731               hash\pc1512_flop.xml
+2017-03-29 05:15:21 ....A          505               hash\pc1512_hdd.xml
+2017-03-29 05:15:21 ....A         2940               hash\pc1640_flop.xml
+2017-03-29 05:15:21 ....A          565               hash\pc1640_hdd.xml
+2017-03-29 05:15:21 ....A         1841               hash\pc8201.xml
+2017-03-29 05:15:21 ....A        51278               hash\pc8801_cass.xml
+2017-03-29 05:15:21 ....A      2401369               hash\pc8801_flop.xml
+2017-03-29 05:15:21 ....A        50949               hash\pc88va.xml
+2017-03-29 05:15:21 ....A      2909307               hash\pc98.xml
+2017-03-29 05:15:21 ....A       148281               hash\pc98_cd.xml
+2017-03-29 05:15:21 ....A       175624               hash\pce.xml
+2017-03-29 05:15:21 ....A       312249               hash\pcecd.xml
+2017-03-29 05:15:21 ....A        48616               hash\pce_tourvision.xml
+2017-03-29 05:15:21 ....A        73131               hash\pcw.xml
+2017-03-29 05:15:21 ....A         2213               hash\pcw16.xml
+2017-03-29 05:15:21 ....A         4027               hash\pecom_cass.xml
+2017-03-29 05:15:21 ....A         8731               hash\pegasus_cart.xml
+2017-03-29 05:15:21 ....A         1783               hash\pencil2.xml
+2017-03-29 05:15:21 ....A          903               hash\pentagon_cass.xml
+2017-03-29 05:15:21 ....A       112195               hash\pet_cass.xml
+2017-03-29 05:15:21 ....A        34248               hash\pet_flop.xml
+2017-03-29 05:15:21 ....A         1302               hash\pet_hdd.xml
+2017-03-29 05:15:21 ....A        14848               hash\pet_rom.xml
+2017-03-29 05:15:21 ....A       283995               hash\pico.xml
+2017-03-29 05:15:21 ....A        42885               hash\pippin.xml
+2017-03-29 05:15:21 ....A          758               hash\pippin_flop.xml
+2017-03-29 05:15:21 ....A        10524               hash\plus4_cart.xml
+2017-03-29 05:15:21 ....A          830               hash\plus4_cass.xml
+2017-03-29 05:15:21 ....A         1803               hash\plus4_flop.xml
+2017-03-29 05:15:21 ....A        41899               hash\pmd85_cass.xml
+2017-03-29 05:15:21 ....A         9201               hash\pockchalv2.xml
+2017-03-29 05:15:21 ....A        11714               hash\pockchalw.xml
+2017-03-29 05:15:21 ....A         2115               hash\pofo.xml
+2017-03-29 05:15:22 ....A          963               hash\poisk1_flop.xml
+2017-03-29 05:15:22 ....A        20024               hash\pokemini.xml
+2017-03-29 05:15:22 ....A        15188               hash\pro128s_flop.xml
+2017-03-29 05:15:22 ....A         1917               hash\pro128_cart.xml
+2017-03-29 05:15:22 ....A        85748               hash\pro128_cass.xml
+2017-03-29 05:15:22 ....A         1282               hash\pro128_flop.xml
+2017-03-29 05:15:22 ....A         1225               hash\prof180.xml
+2017-03-29 05:15:22 ....A          887               hash\prof80.xml
+2017-03-29 05:15:22 ....A         3716               hash\psion1.xml
+2017-03-29 05:15:22 ....A        57862               hash\psion2.xml
+2017-03-29 05:15:22 ....A      3531640               hash\psx.xml
+2017-03-29 05:15:22 ....A          566               hash\pt68k2.xml
+2017-03-29 05:15:22 ....A         6479               hash\pv1000.xml
+2017-03-29 05:15:22 ....A         4060               hash\pv2000.xml
+2017-03-29 05:15:22 ....A          899               hash\px4_cart.xml
+2017-03-29 05:15:22 ....A         5888               hash\pyl601.xml
+2017-03-29 05:15:22 ....A         1331               hash\ql_cart.xml
+2017-03-29 05:15:22 ....A         1997               hash\ql_cass.xml
+2017-03-29 05:15:22 ....A         2354               hash\ql_flop.xml
+2017-03-29 05:15:22 ....A         3172               hash\quizwiz.xml
+2017-03-29 05:15:22 ....A         3021               hash\qx10_flop.xml
+2017-03-29 05:15:22 ....A        11288               hash\r9751.xml
+2017-03-29 05:15:22 ....A          542               hash\radio86_cart.xml
+2017-03-29 05:15:22 ....A        38378               hash\radio86_cass.xml
+2017-03-29 05:15:22 ....A         9654               hash\rainbow.xml
+2017-03-29 05:15:22 ....A         1122               hash\rwtrntcs.xml
+2017-03-29 05:15:22 ....A          520               hash\rx78.xml
+2017-03-29 05:15:22 ....A         4425               hash\sage2.xml
+2017-03-29 05:15:22 ....A         1051               hash\samcoupe_cass.xml
+2017-03-29 05:15:22 ....A          755               hash\samcoupe_flop.xml
+2017-03-29 05:15:22 ....A      1748870               hash\saturn.xml
+2017-03-29 05:15:22 ....A         4364               hash\sat_cart.xml
+2017-03-29 05:15:22 ....A         7889               hash\sat_vccart.xml
+2017-03-29 05:15:22 ....A         6746               hash\sawatte.xml
+2017-03-29 05:15:22 ....A        13285               hash\sc3000_cart.xml
+2017-03-29 05:15:22 ....A          652               hash\sc3000_cass.xml
+2017-03-29 05:15:22 ....A        15993               hash\scv.xml
+2017-03-29 05:15:22 ....A       459482               hash\segacd.xml
+2017-03-29 05:15:22 ....A        11111               hash\sf7000.xml
+2017-03-29 05:15:22 ....A       117824               hash\sg1000.xml
+2017-03-29 05:15:22 ....A         2842               hash\sgx.xml
+2017-03-29 05:15:22 ....A         6508               hash\sitcom.xml
+2017-03-29 05:15:22 ....A        10520               hash\smc777.xml
+2017-03-29 05:15:22 ....A       314548               hash\sms.xml
+2017-03-29 05:15:22 ....A      2741793               hash\snes.xml
+2017-03-29 05:15:22 ....A       218642               hash\snes_bspack.xml
+2017-03-29 05:15:22 ....A         8870               hash\snes_strom.xml
+2017-03-29 05:15:22 ....A         1404               hash\snes_vkun.xml
+2017-03-29 05:15:22 ....A         3857               hash\snotec.xml
+2017-03-29 05:15:22 ....A         2713               hash\snread.xml
+2017-03-29 05:15:22 ....A         5541               hash\snspell.xml
+2017-03-29 05:15:22 ....A         4871               hash\socrates.xml
+2017-03-29 05:15:22 ....A         1013               hash\softbox.xml
+2017-03-29 05:15:22 ....A        36965               hash\sol20_cass.xml
+2017-03-29 05:15:22 ....A         2687               hash\sorcerer_cart.xml
+2017-03-29 05:15:22 ....A        31305               hash\sorcerer_cass.xml
+2017-03-29 05:15:22 ....A         1273               hash\sorcerer_flop.xml
+2017-03-29 05:15:22 ....A        47493               hash\spc1000_cass.xml
+2017-03-29 05:15:22 ....A         1694               hash\spc1500_cass.xml
+2017-03-29 05:15:22 ....A        60090               hash\special_cass.xml
+2017-03-29 05:15:22 ....A          930               hash\special_flop.xml
+2017-03-29 05:15:22 ....A        58971               hash\specpls3_flop.xml
+2017-03-29 05:15:22 ....A         9259               hash\spectrum_cart.xml
+2017-03-29 05:15:22 ....A        34405               hash\spectrum_cass.xml
+2017-03-29 05:15:22 ....A        10456               hash\studio2.xml
+2017-03-29 05:15:22 ....A        86361               hash\stv.xml
+2017-03-29 05:15:22 ....A         3414               hash\st_cart.xml
+2017-03-29 05:15:22 ....A       196859               hash\st_flop.xml
+2017-03-29 05:15:22 ....A         6675               hash\super6.xml
+2017-03-29 05:15:22 ....A        95211               hash\super80_cass.xml
+2017-03-29 05:15:22 ....A        13757               hash\superpet_flop.xml
+2017-03-29 05:15:22 ....A         6916               hash\supracan.xml
+2017-03-29 05:15:22 ....A         3005               hash\sv8000.xml
+2017-03-29 05:15:22 ....A         3123               hash\svi318_cart.xml
+2017-03-29 05:15:22 ....A        91302               hash\svi318_cass.xml
+2017-03-29 05:15:22 ....A         3069               hash\svi318_flop.xml
+2017-03-29 05:15:22 ....A        29496               hash\svision.xml
+2017-03-29 05:15:22 ....A        10082               hash\svmu.xml
+2017-03-29 05:15:22 ....A         5126               hash\t1000.xml
+2017-03-29 05:15:22 ....A         1835               hash\tandy200.xml
+2017-03-29 05:15:22 ....A         5004               hash\tandy2k.xml
+2017-03-29 05:15:22 ....A         5047               hash\tandy6k.xml
+2017-03-29 05:15:22 ....A         1618               hash\tc4.xml
+2017-03-29 05:15:22 ....A         3315               hash\tdv2324.xml
+2017-03-29 05:15:22 ....A         2781               hash\tek4052_cart.xml
+2017-03-29 05:15:22 ....A        38025               hash\tg16.xml
+2017-03-29 05:15:22 ....A         1698               hash\ti74_cart.xml
+2017-03-29 05:15:22 ....A       233645               hash\ti99_cart.xml
+2017-03-29 05:15:22 ....A        34694               hash\tiki100.xml
+2017-03-29 05:15:22 ....A        18161               hash\timex_dock.xml
+2017-03-29 05:15:22 ....A         3123               hash\tntell.xml
+2017-03-29 05:15:23 ....A          690               hash\to770a_cart.xml
+2017-03-29 05:15:22 ....A          662               hash\to770_cart.xml
+2017-03-29 05:15:23 ....A        23612               hash\to7_cart.xml
+2017-03-29 05:15:23 ....A       305216               hash\to7_cass.xml
+2017-03-29 05:15:23 ....A        10011               hash\to7_qd.xml
+2017-03-29 05:15:23 ....A         6754               hash\to8_cass.xml
+2017-03-29 05:15:23 ....A         3462               hash\to8_qd.xml
+2017-03-29 05:15:23 ....A       568130               hash\to_flop.xml
+2017-03-29 05:15:23 ....A         9920               hash\trs80m2.xml
+2017-03-29 05:15:23 ....A         5304               hash\trsm100.xml
+2017-03-29 05:15:23 ....A        18189               hash\tutor.xml
+2017-03-29 05:15:23 ....A         5283               hash\tvc_cart.xml
+2017-03-29 05:15:23 ....A       103933               hash\tvc_cass.xml
+2017-03-29 05:15:23 ....A       348121               hash\tvc_flop.xml
+2017-03-29 05:15:23 ....A         1871               hash\unichamp.xml
+2017-03-29 05:15:23 ....A         2046               hash\ut88.xml
+2017-03-29 05:15:23 ....A        39345               hash\uzebox.xml
+2017-03-29 05:15:23 ....A         4610               hash\v1050_flop.xml
+2017-03-29 05:15:23 ....A         1062               hash\v1050_hdd.xml
+2017-03-29 05:15:23 ....A        22424               hash\vboy.xml
+2017-03-29 05:15:23 ....A        18314               hash\vc4000.xml
+2017-03-29 05:15:23 ....A          545               hash\vector06_cart.xml
+2017-03-29 05:15:23 ....A         5274               hash\vector06_flop.xml
+2017-03-29 05:15:23 ....A        19491               hash\vectrex.xml
+2017-03-29 05:15:23 ....A        20902               hash\vg5k.xml
+2017-03-29 05:15:23 ....A        12238               hash\vic10.xml
+2017-03-29 05:15:23 ....A       162191               hash\vic1001_cart.xml
+2017-03-29 05:15:23 ....A         1173               hash\vic1001_cass.xml
+2017-03-29 05:15:23 ....A         3356               hash\vic1001_flop.xml
+2017-03-29 05:15:23 ....A         1125               hash\victor9k_flop.xml
+2017-03-29 05:15:23 ....A         9208               hash\vidbrain.xml
+2017-03-29 05:15:23 ....A          894               hash\vii.xml
+2017-03-29 05:15:23 ....A         1009               hash\vip.xml
+2017-03-29 05:15:23 ....A         1320               hash\visicom.xml
+2017-03-29 05:15:23 ....A         8064               hash\vixen.xml
+2017-03-29 05:15:23 ....A         2289               hash\vreader.xml
+2017-03-29 05:15:23 ....A        11693               hash\vsmileb_cart.xml
+2017-03-29 05:15:23 ....A        27609               hash\vsmilem_cart.xml
+2017-03-29 05:15:23 ....A       113640               hash\vsmile_cart.xml
+2017-03-29 05:15:23 ....A        17261               hash\vsmile_cd.xml
+2017-03-29 05:15:23 ....A         8272               hash\vz_cass.xml
+2017-03-29 05:15:23 ....A         2963               hash\wangpc.xml
+2017-03-29 05:15:23 ....A         2124               hash\waveterm.xml
+2017-03-29 05:15:23 ....A         3232               hash\wicat.xml
+2017-03-29 05:15:23 ....A         1752               hash\wmbullet.xml
+2017-03-29 05:15:23 ....A        67540               hash\wscolor.xml
+2017-03-29 05:15:23 ....A        76407               hash\wswan.xml
+2017-03-29 05:15:23 ....A          719               hash\x07_card.xml
+2017-03-29 05:15:23 ....A        53762               hash\x07_cass.xml
+2017-03-29 05:15:23 ....A        80107               hash\x1_cass.xml
+2017-03-29 05:15:23 ....A       254299               hash\x1_flop.xml
+2017-03-29 05:15:23 ....A      1404606               hash\x68k_flop.xml
+2017-03-29 05:15:23 ....A        22728               hash\xegs.xml
+2017-03-29 05:15:23 ....A         5797               hash\xerox820.xml
+2017-03-29 05:15:23 ....A         5064               hash\xerox820ii.xml
+2017-03-29 05:15:23 ....A        22903               hash\z88_cart.xml
+2017-03-29 05:15:23 ....A        34499               hash\zorba.xml
+2017-03-29 05:15:23 ....A         3299               hash\zx80_cass.xml
+2017-03-29 05:15:23 ....A       328640               hash\zx81_cass.xml
+2017-03-29 05:15:17 ....A         1418               docs\themes\sphinx_rtd_theme\breadcrumbs.html
+2017-03-29 05:15:17 ....A         1425               docs\themes\sphinx_rtd_theme\footer.html
+2017-03-29 05:15:17 ....A         6023               docs\themes\sphinx_rtd_theme\layout.html
+2017-03-29 05:15:17 ....A         7546               docs\themes\sphinx_rtd_theme\layout_old.html
+2017-03-29 05:15:17 ....A         1580               docs\themes\sphinx_rtd_theme\search.html
+2017-03-29 05:15:17 ....A          363               docs\themes\sphinx_rtd_theme\searchbox.html
+2017-03-29 05:15:17 ....A         1256               docs\themes\sphinx_rtd_theme\versions.html
+2017-03-29 05:15:17 ....A         3405               docs\themes\sphinx_rtd_theme\static\css\badge_only.css
+2017-03-29 05:15:17 ....A       102039               docs\themes\sphinx_rtd_theme\static\css\theme.css
+2017-03-29 05:15:17 ....A        15418               docs\themes\sphinx_rtd_theme\static\js\modernizr.min.js
+2017-03-29 05:15:17 ....A         4393               docs\themes\sphinx_rtd_theme\static\js\theme.js
+2017-03-29 05:15:17 ....A         8514               docs\source\conf.py
+2017-03-29 05:15:16 ....A         1211               docs\source\_ext\edit_on_github.py
+2017-03-29 05:15:17 ....A          388               docs\themes\sphinx_rtd_theme\__init__.py
+2017-03-29 05:15:17 ....A          338               docs\update.sh
+1998-01-01 10:28:10 ....A           28               roms\dir.txt
+1998-01-01 10:28:22 ....A           32               samples\dir.txt
+1998-10-04 01:20:58 ....A           26               artwork\dir.txt
+2017-03-29 05:15:17 ....A          287               docs\swlist\readme.txt
+2017-03-29 05:20:27 ....A        20373               whatsnew.txt
+2017-03-29 05:15:23 ....A         1622               ini\presets\gameboy.ini
+2017-03-29 05:15:23 ....A         1616               ini\presets\gba.ini
+2017-03-29 05:15:23 ....A         1614               ini\presets\lcd-matrix.ini
+2017-03-29 05:15:23 ....A         1616               ini\presets\lcd.ini
+2017-03-29 05:15:23 ....A         1836               ini\presets\raster.ini
+2017-03-29 05:15:23 ....A         1745               ini\presets\vector-mono.ini
+2017-03-29 05:15:23 ....A         1937               ini\presets\vector.ini
+2017-03-29 05:16:14 ....A       121084               uismall.bdf
+2017-03-29 05:15:17 ....A        62856               docs\themes\sphinx_rtd_theme\static\fonts\FontAwesome.otf
+2017-03-29 05:15:17 ....A        80652               docs\themes\sphinx_rtd_theme\static\fonts\fontawesome-webfont.ttf
+2017-03-29 05:15:17 ....A        47064               docs\themes\sphinx_rtd_theme\static\fonts\Inconsolata-Bold.ttf
+2017-03-29 05:15:17 ....A        63184               docs\themes\sphinx_rtd_theme\static\fonts\Inconsolata.ttf
+2017-03-29 05:15:17 ....A        82368               docs\themes\sphinx_rtd_theme\static\fonts\Lato-Bold.ttf
+2017-03-29 05:15:17 ....A        81980               docs\themes\sphinx_rtd_theme\static\fonts\Lato-Regular.ttf
+2017-03-29 05:15:17 ....A        36596               docs\themes\sphinx_rtd_theme\static\fonts\RobotoSlab-Bold.ttf
+2017-03-29 05:15:17 ....A        36276               docs\themes\sphinx_rtd_theme\static\fonts\RobotoSlab-Regular.ttf
+2017-03-29 05:15:16 ....A          927               docs\man\castool.1
+2017-03-29 05:15:16 ....A         6628               docs\man\chdman.1
+2017-03-29 05:15:16 ....A          973               docs\man\floptool.1
+2017-03-29 05:15:16 ....A         3323               docs\man\imgtool.1
+2017-03-29 05:15:16 ....A         1406               docs\man\jedutil.1
+2017-03-29 05:15:16 ....A         1634               docs\man\ldplayer.1
+2017-03-29 05:15:16 ....A         1500               docs\man\ldresample.1
+2017-03-29 05:15:16 ....A          646               docs\man\ldverify.1
+2017-03-29 05:15:16 ....A         1560               docs\man\romcmp.1
+2017-03-29 05:15:16 ....A        54142               docs\man\mame.6
+2017-03-29 05:15:16 ....A        50131               docs\man\mess.6
+2007-07-31 21:33:04 ....A         4365               ctrlr\hotrod.cfg
+2007-07-31 21:33:12 ....A         6056               ctrlr\hotrodse.cfg
+2010-03-10 22:07:44 ....A         6150               ctrlr\scorpionxg.cfg
+2007-07-31 21:32:24 ....A        10869               ctrlr\slikstik.cfg
+2007-07-31 21:29:54 ....A         6057               ctrlr\xarcade.cfg
+2017-03-29 05:15:17 ....A          146               docs\themes\sphinx_rtd_theme\theme.conf
+2017-03-29 05:15:24 ....A          295               nl_examples\congo_bongo.csv
+2017-03-29 05:15:17 ....A         3959               docs\swlist\n64jp.csv
+2017-03-29 05:15:17 ....A         4955               docs\swlist\x1_flop.csv
+2017-03-29 05:15:17 ....A        24024               docs\swlist\x68k_flop.csv
+2017-03-29 05:15:24 ....A       312882               plugins\hiscore\hiscore.dat
+2017-03-29 05:15:22 ....A         2491               hash\softwarelist.dtd
+2017-03-29 05:15:17 ....A        38205               docs\themes\sphinx_rtd_theme\static\fonts\fontawesome-webfont.eot
+2017-03-29 05:15:23 ....A        11457               hlsl\bloom.fx
+2017-03-29 05:15:23 ....A         3436               hlsl\color.fx
+2017-03-29 05:15:23 ....A         3907               hlsl\deconverge.fx
+2017-03-29 05:15:23 ....A        10230               hlsl\distortion.fx
+2017-03-29 05:15:23 ....A         3513               hlsl\downsample.fx
+2017-03-29 05:15:23 ....A         3493               hlsl\focus.fx
+2017-03-29 05:15:23 ....A         7556               hlsl\ntsc.fx
+2017-03-29 05:15:23 ....A         3488               hlsl\phosphor.fx
+2017-03-29 05:15:23 ....A         9220               hlsl\post.fx
+2017-03-29 05:15:23 ....A         3120               hlsl\prescale.fx
+2017-03-29 05:15:23 ....A         4250               hlsl\primary.fx
+2017-03-29 05:15:23 ....A         4107               hlsl\vector.fx
+2017-03-29 05:15:16 ....A           14               docs\.gitignore
+2017-03-29 05:15:17 ....A        32913               hash\a5200.hsi
+2017-03-29 05:15:20 ....A        22273               hash\intv.hsi
+2017-03-29 05:15:20 ....A       134994               hash\msx.hsi
+2017-03-29 05:15:20 ....A       299778               hash\msx2.hsi
+2017-03-29 05:15:21 ....A      2974950               hash\nes.hsi
+2017-03-29 05:15:13 ....A          821               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-sharp.json
+2017-03-29 05:15:13 ....A          835               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v2-gamma.json
+2017-03-29 05:15:13 ....A          837               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v2.json
+2017-03-29 05:15:13 ....A          835               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v4-gamma.json
+2017-03-29 05:15:13 ....A          820               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v4.json
+2017-03-29 05:15:13 ....A          827               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v4b.json
+2017-03-29 05:15:13 ....A          835               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid-v5-gamma.json
+2017-03-29 05:15:13 ....A          809               bgfx\effects\xbr\xbr-hybrid\2xbr-hybrid.json
+2017-03-29 05:15:13 ....A         5134               bgfx\effects\default\blit.json
+2017-03-29 05:15:13 ....A         5128               bgfx\effects\hlsl\blit.json
+2017-03-29 05:15:13 ....A         5128               bgfx\effects\misc\blit.json
+2017-03-29 05:15:13 ....A         5140               bgfx\effects\unfiltered\blit.json
+2017-03-29 05:15:13 ....A         1281               bgfx\effects\hlsl\color.json
+2017-03-29 05:15:12 ....A         7187               bgfx\chains\crt-geom-deluxe.json
+2017-03-29 05:15:13 ....A         2026               bgfx\effects\crt-geom\crt-geom-deluxe.json
+2017-03-29 05:15:12 ....A         4011               bgfx\chains\crt-geom.json
+2017-03-29 05:15:13 ....A         1874               bgfx\effects\crt-geom\crt-geom.json
+2017-03-29 05:15:13 ....A         1123               bgfx\effects\xbr\super-xbr\custom-jinc2-sharper.json
+2017-03-29 05:15:13 ....A         1469               bgfx\effects\hlsl\deconverge.json
+2017-03-29 05:15:12 ....A          498               bgfx\chains\default.json
+2017-03-29 05:15:13 ....A          937               bgfx\effects\hlsl\defocus.json
+2017-03-29 05:15:13 ....A          959               bgfx\effects\misc\deposterize-pass0.json
+2017-03-29 05:15:13 ....A          959               bgfx\effects\misc\deposterize-pass1.json
+2017-03-29 05:15:13 ....A         1880               bgfx\effects\warp\dilation-horizontal-fast.json
+2017-03-29 05:15:13 ....A         2025               bgfx\effects\hlsl\distortion.json
+2017-03-29 05:15:13 ....A         1032               bgfx\effects\pillarbox_left_horizontal\gaussian.json
+2017-03-29 05:15:13 ....A         1028               bgfx\effects\pillarbox_left_vertical\gaussian.json
+2017-03-29 05:15:13 ....A         1034               bgfx\effects\pillarbox_right_horizontal\gaussian.json
+2017-03-29 05:15:13 ....A         1030               bgfx\effects\pillarbox_right_vertical\gaussian.json
+2017-03-29 05:15:13 ....A          825               bgfx\effects\crt-geom\gaussx.json
+2017-03-29 05:15:13 ....A          825               bgfx\effects\crt-geom\gaussy.json
+2017-03-29 05:15:13 ....A          710               bgfx\effects\gui_add.json
+2017-03-29 05:15:13 ....A          730               bgfx\effects\gui_blend.json
+2017-03-29 05:15:13 ....A          721               bgfx\effects\gui_multiply.json
+2017-03-29 05:15:13 ....A          686               bgfx\effects\gui_opaque.json
+2017-03-29 05:15:12 ....A        32576               bgfx\chains\hlsl.json
+2017-03-29 05:15:12 ....A         1675               bgfx\chains\hqx\hq2x.json
+2017-03-29 05:15:13 ....A          732               bgfx\effects\hqx\hq2x.json
+2017-03-29 05:15:12 ....A         1676               bgfx\chains\hqx\hq3x.json
+2017-03-29 05:15:13 ....A          732               bgfx\effects\hqx\hq3x.json
+2017-03-29 05:15:12 ....A         1676               bgfx\chains\hqx\hq4x.json
+2017-03-29 05:15:13 ....A          732               bgfx\effects\hqx\hq4x.json
+2017-03-29 05:15:13 ....A         1969               bgfx\effects\hlsl\ntsc_decode.json
+2017-03-29 05:15:13 ....A         1457               bgfx\effects\hlsl\ntsc_encode.json
+2017-03-29 05:15:13 ....A         1054               bgfx\effects\pillarbox_left_horizontal\offset_sat.json
+2017-03-29 05:15:13 ....A         1050               bgfx\effects\pillarbox_left_vertical\offset_sat.json
+2017-03-29 05:15:13 ....A         1057               bgfx\effects\pillarbox_right_horizontal\offset_sat.json
+2017-03-29 05:15:13 ....A         1053               bgfx\effects\pillarbox_right_vertical\offset_sat.json
+2017-03-29 05:15:13 ....A         1019               bgfx\effects\hlsl\phosphor.json
+2017-03-29 05:15:13 ....A          850               bgfx\effects\crt-geom\phosphor_apply.json
+2017-03-29 05:15:13 ....A          852               bgfx\effects\crt-geom\phosphor_update.json
+2017-03-29 05:15:12 ....A         2660               bgfx\chains\pillarbox_left_horizontal.json
+2017-03-29 05:15:12 ....A         2646               bgfx\chains\pillarbox_left_vertical.json
+2017-03-29 05:15:12 ....A         2668               bgfx\chains\pillarbox_right_horizontal.json
+2017-03-29 05:15:12 ....A         2654               bgfx\chains\pillarbox_right_vertical.json
+2017-03-29 05:15:24 ....A          159               plugins\cheat\plugin.json
+2017-03-29 05:15:24 ....A          178               plugins\cheatfind\plugin.json
+2017-03-29 05:15:24 ....A          163               plugins\console\plugin.json
+2017-03-29 05:15:24 ....A          156               plugins\data\plugin.json
+2017-03-29 05:15:24 ....A          177               plugins\dummy\plugin.json
+2017-03-29 05:15:24 ....A          177               plugins\hiscore\plugin.json
+2017-03-29 05:15:24 ....A          145               plugins\json\plugin.json
+2017-03-29 05:15:24 ....A          168               plugins\layout\plugin.json
+2017-03-29 05:15:24 ....A          159               plugins\timer\plugin.json
+2017-03-29 05:15:13 ....A         3325               bgfx\effects\hlsl\post.json
+2017-03-29 05:15:13 ....A          939               bgfx\effects\hlsl\prescale.json
+2017-03-29 05:15:13 ....A          839               bgfx\effects\misc\saturation.json
+2017-03-29 05:15:13 ....A          860               bgfx\effects\screen_add.json
+2017-03-29 05:15:13 ....A          877               bgfx\effects\screen_blend.json
+2017-03-29 05:15:13 ....A          865               bgfx\effects\screen_multiply.json
+2017-03-29 05:15:13 ....A          766               bgfx\effects\screen_opaque.json
+2017-03-29 05:15:13 ....A         1923               bgfx\effects\blurs\smart-blur.json
+2017-03-29 05:15:12 ....A         2038               bgfx\chains\xbr\super-2xbr-3d-2p.json
+2017-03-29 05:15:12 ....A         2277               bgfx\chains\xbr\super-2xbr-3d-3p-smoother.json
+2017-03-29 05:15:13 ....A         2148               bgfx\effects\xbr\super-xbr\super-2xbr-3d-pass0.json
+2017-03-29 05:15:13 ....A         2221               bgfx\effects\xbr\super-xbr\super-2xbr-3d-pass1.json
+2017-03-29 05:15:13 ....A         2221               bgfx\effects\xbr\super-xbr\super-2xbr-3d-pass2.json
+2017-03-29 05:15:12 ....A         2443               bgfx\chains\xbr\super-4xbr-3d-4p.json
+2017-03-29 05:15:12 ....A         2453               bgfx\chains\xbr\super-4xbr-3d-6p-smoother.json
+2017-03-29 05:15:13 ....A         2150               bgfx\effects\xbr\super-xbr\super-4xbr-3d-pass0.json
+2017-03-29 05:15:13 ....A         2223               bgfx\effects\xbr\super-xbr\super-4xbr-3d-pass1.json
+2017-03-29 05:15:13 ....A         2150               bgfx\effects\xbr\super-xbr\super-4xbr-3d-pass2.json
+2017-03-29 05:15:13 ....A         2223               bgfx\effects\xbr\super-xbr\super-4xbr-3d-pass3.json
+2017-03-29 05:15:12 ....A         1026               bgfx\chains\eagle\super-eagle.json
+2017-03-29 05:15:12 ....A         2144               bgfx\chains\xbr\super-xbr-2p.json
+2017-03-29 05:15:12 ....A         2322               bgfx\chains\xbr\super-xbr-3p-smoother.json
+2017-03-29 05:15:12 ....A         3227               bgfx\chains\xbr\super-xbr-6p.json
+2017-03-29 05:15:12 ....A         2652               bgfx\chains\xbr\super-xbr-deposterize.json
+2017-03-29 05:15:12 ....A         2193               bgfx\chains\xbr\super-xbr-fast-3p.json
+2017-03-29 05:15:12 ....A         2979               bgfx\chains\xbr\super-xbr-fast-6p.json
+2017-03-29 05:15:13 ....A         2154               bgfx\effects\xbr\super-xbr\super-xbr-fast-pass0.json
+2017-03-29 05:15:13 ....A         2154               bgfx\effects\xbr\super-xbr\super-xbr-fast-pass1.json
+2017-03-29 05:15:13 ....A         2154               bgfx\effects\xbr\super-xbr\super-xbr-fast-pass2.json
+2017-03-29 05:15:13 ....A         2130               bgfx\effects\xbr\super-xbr\super-xbr-pass0.json
+2017-03-29 05:15:13 ....A         2203               bgfx\effects\xbr\super-xbr\super-xbr-pass1.json
+2017-03-29 05:15:13 ....A         2130               bgfx\effects\xbr\super-xbr\super-xbr-pass2.json
+2017-03-29 05:15:13 ....A          971               bgfx\effects\eagle\supereagle.json
+2017-03-29 05:15:12 ....A          252               bgfx\chains\unfiltered.json
+2017-03-29 05:15:12 ....A          869               bgfx\chains\xbr\xbr-hybrid.json
+2017-03-29 05:15:12 ....A         1488               bgfx\chains\xbr\xbr-lv1-noblend.json
+2017-03-29 05:15:13 ....A         2041               bgfx\effects\xbr\xbr-lv1-noblend.json
+2017-03-29 05:15:12 ....A         1472               bgfx\chains\xbr\xbr-lv2-3d.json
+2017-03-29 05:15:13 ....A         2405               bgfx\effects\xbr\xbr-lv2-3d.json
+2017-03-29 05:15:13 ....A         1903               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-a-pass0.json
+2017-03-29 05:15:12 ....A         1897               bgfx\chains\xbr\xbr-lv2-accuracy-multipass.json
+2017-03-29 05:15:13 ....A         2108               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-accuracy-pass0.json
+2017-03-29 05:15:13 ....A         2149               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-accuracy-pass1.json
+2017-03-29 05:15:12 ....A          908               bgfx\chains\xbr\xbr-lv2-accuracy-smart-blur.json
+2017-03-29 05:15:13 ....A         1903               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-b-pass0.json
+2017-03-29 05:15:13 ....A         1903               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-c-pass0.json
+2017-03-29 05:15:13 ....A         1903               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-d-pass0.json
+2017-03-29 05:15:12 ....A          799               bgfx\chains\xbr\xbr-lv2-deposterize.json
+2017-03-29 05:15:12 ....A         1736               bgfx\chains\xbr\xbr-lv2-fast.json
+2017-03-29 05:15:13 ....A         2226               bgfx\effects\xbr\xbr-lv2-fast.json
+2017-03-29 05:15:12 ....A         1902               bgfx\chains\xbr\xbr-lv2-multipass.json
+2017-03-29 05:15:13 ....A         2063               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-noblend-pass1.json
+2017-03-29 05:15:12 ....A         1746               bgfx\chains\xbr\xbr-lv2-noblend.json
+2017-03-29 05:15:13 ....A         2049               bgfx\effects\xbr\xbr-lv2-noblend.json
+2017-03-29 05:15:13 ....A         2127               bgfx\effects\xbr\xbr-lv2-multipass\xbr-lv2-pass1.json
+2017-03-29 05:15:12 ....A         1721               bgfx\chains\xbr\xbr-lv2.json
+2017-03-29 05:15:13 ....A         2213               bgfx\effects\xbr\xbr-lv2.json
+2017-03-29 05:15:13 ....A         1884               bgfx\chains\xbr\xbr-lv3-multipass.json
+2017-03-29 05:15:13 ....A         1491               bgfx\chains\xbr\xbr-lv3-noblend.json
+2017-03-29 05:15:13 ....A         2225               bgfx\effects\xbr\xbr-lv3-noblend.json
+2017-03-29 05:15:13 ....A         1889               bgfx\effects\xbr\xbr-lv3-multipass\xbr-lv3-pass0.json
+2017-03-29 05:15:13 ....A         2129               bgfx\effects\xbr\xbr-lv3-multipass\xbr-lv3-pass1.json
+2017-03-29 05:15:13 ....A         1464               bgfx\chains\xbr\xbr-lv3.json
+2017-03-29 05:15:13 ....A         2339               bgfx\effects\xbr\xbr-lv3.json
+2017-03-29 05:15:13 ....A         2687               bgfx\chains\xbr\xbr-mlv4-dilation.json
+2017-03-29 05:15:13 ....A         2364               bgfx\chains\xbr\xbr-mlv4-multipass.json
+2017-03-29 05:15:13 ....A         1897               bgfx\effects\xbr\xbr-mlv4-multipass\xbr-mlv4-pass1.json
+2017-03-29 05:15:13 ....A         1897               bgfx\effects\xbr\xbr-mlv4-multipass\xbr-mlv4-pass2.json
+2017-03-29 05:15:13 ....A         1966               bgfx\effects\xbr\xbr-mlv4-multipass\xbr-mlv4-pass3.json
+2017-03-29 05:15:13 ....A         2054               bgfx\effects\xbr\xbr-mlv4-multipass\xbr-mlv4-pass4.json
+2017-03-29 05:15:12 ....A          681               artwork\bgfx\border_blur\default.lay
+2017-03-29 05:15:13 ....A          681               bgfx\layouts\sample\horizontal\default.lay
+2017-03-29 05:15:13 ....A          681               bgfx\layouts\sample\vertical\default.lay
+2017-03-29 05:15:24 ....A         1441               plugins\boot.lua
+2017-03-29 05:15:24 ....A         7844               plugins\data\button_char.lua
+2017-03-29 05:15:24 ....A          262               plugins\cheat\conv_cheat.lua
+2017-03-29 05:15:24 ....A          528               plugins\data\data_command.lua
+2017-03-29 05:15:24 ....A          472               plugins\data\data_gameinit.lua
+2017-03-29 05:15:24 ....A        27374               plugins\data\data_hiscore.lua
+2017-03-29 05:15:24 ....A          465               plugins\data\data_history.lua
+2017-03-29 05:15:24 ....A          775               plugins\data\data_mameinfo.lua
+2017-03-29 05:15:24 ....A          781               plugins\data\data_messinfo.lua
+2017-03-29 05:15:24 ....A          794               plugins\data\data_story.lua
+2017-03-29 05:15:24 ....A          481               plugins\data\data_sysinfo.lua
+2017-03-29 05:15:24 ....A        15089               plugins\cheat\init.lua
+2017-03-29 05:15:24 ....A        25092               plugins\cheatfind\init.lua
+2017-03-29 05:15:24 ....A         3433               plugins\console\init.lua
+2017-03-29 05:15:24 ....A         1893               plugins\data\init.lua
+2017-03-29 05:15:24 ....A          837               plugins\dummy\init.lua
+2017-03-29 05:15:24 ....A         8521               plugins\hiscore\init.lua
+2017-03-29 05:15:24 ....A        22240               plugins\json\init.lua
+2017-03-29 05:15:24 ....A         1404               plugins\layout\init.lua
+2017-03-29 05:15:24 ....A         2974               plugins\timer\init.lua
+2017-03-29 05:15:24 ....A         4553               plugins\data\load_dat.lua
+2017-03-29 05:15:24 ....A         1042               plugins\cheat\simple_conv.lua
+2017-03-29 05:15:24 ....A         3393               plugins\hiscore\sort_hiscore.lua
+2017-03-29 05:15:24 ....A         6831               plugins\cheat\xml_conv.lua
+2017-03-29 05:15:17 ....A         3210               docs\themes\sphinx_rtd_theme\static\css\badge_only.css.map
+2017-03-29 05:15:17 ....A        58470               docs\themes\sphinx_rtd_theme\static\css\theme.css.map
+2017-03-29 05:17:34 ....A          396               language\Hungarian\strings.mo
+2017-03-29 05:17:34 ....A          353               language\Indonesian\strings.mo
+2017-03-29 05:17:34 ....A          353               language\Macedonian\strings.mo
+2017-03-29 05:17:34 ....A          454               language\Polish\strings.mo
+2017-03-29 05:17:34 ....A        25848               language\French\strings.mo
+2017-03-29 05:17:34 ....A        20178               language\Catalan\strings.mo
+2017-03-29 05:17:34 ....A        25944               language\French_Belgium\strings.mo
+2017-03-29 05:17:34 ....A          448               language\Slovenian\strings.mo
+2017-03-29 05:17:34 ....A        31252               language\Serbian_Cyrillic\strings.mo
+2017-03-29 05:17:34 ....A          353               language\Arabic\strings.mo
+2017-03-29 05:17:34 ....A        30147               language\Spanish\strings.mo
+2017-03-29 05:17:34 ....A          396               language\Estonian\strings.mo
+2017-03-29 05:17:34 ....A        24455               language\Italian\strings.mo
+2017-03-29 05:17:34 ....A          442               language\Romanian\strings.mo
+2017-03-29 05:17:34 ....A          398               language\French_Canada\strings.mo
+2017-03-29 05:17:34 ....A          459               language\Lithuanian\strings.mo
+2017-03-29 05:17:34 ....A          353               language\Burmese\strings.mo
+2017-03-29 05:17:34 ....A          396               language\Hebrew\strings.mo
+2017-03-29 05:17:34 ....A          431               language\Latvian\strings.mo
+2017-03-29 05:17:34 ....A          389               language\Korean\strings.mo
+2017-03-29 05:17:34 ....A          396               language\English\strings.mo
+2017-03-29 05:17:35 ....A          396               language\Norwegian\strings.mo
+2017-03-29 05:17:35 ....A          353               language\Albanian\strings.mo
+2017-03-29 05:17:35 ....A          353               language\Bosnian\strings.mo
+2017-03-29 05:17:35 ....A          353               language\Thai\strings.mo
+2017-03-29 05:17:35 ....A          470               language\Croatian\strings.mo
+2017-03-29 05:17:35 ....A          396               language\Finnish\strings.mo
+2017-03-29 05:17:35 ....A        30216               language\German\strings.mo
+2017-03-29 05:17:35 ....A        20386               language\Russian\strings.mo
+2017-03-29 05:17:35 ....A        27542               language\Chinese_Simplified\strings.mo
+2017-03-29 05:17:35 ....A        30139               language\Japanese\strings.mo
+2017-03-29 05:17:35 ....A          470               language\Belarusian\strings.mo
+2017-03-29 05:17:35 ....A          353               language\Hindi\strings.mo
+2017-03-29 05:17:35 ....A        25485               language\Czech\strings.mo
+2017-03-29 05:17:35 ....A          396               language\Bulgarian\strings.mo
+2017-03-29 05:17:35 ....A          353               language\Afrikaans\strings.mo
+2017-03-29 05:17:36 ....A        26570               language\Chinese_Traditional\strings.mo
+2017-03-29 05:17:36 ....A          353               language\Basque\strings.mo
+2017-03-29 05:17:36 ....A        25095               language\Dutch\strings.mo
+2017-03-29 05:17:36 ....A          389               language\Vietnamese\strings.mo
+2017-03-29 05:17:36 ....A          396               language\Portuguese\strings.mo
+2017-03-29 05:17:36 ....A          353               language\Georgian\strings.mo
+2017-03-29 05:17:36 ....A          396               language\Swedish\strings.mo
+2017-03-29 05:17:36 ....A          396               language\Turkish\strings.mo
+2017-03-29 05:17:37 ....A          353               language\Persian\strings.mo
+2017-03-29 05:17:37 ....A          423               language\Slovak\strings.mo
+2017-03-29 05:17:37 ....A        38041               language\Greek\strings.mo
+2017-03-29 05:17:37 ....A          399               language\Spanish_Mexico\strings.mo
+2017-03-29 05:17:37 ....A        25367               language\Serbian\strings.mo
+2017-03-29 05:17:37 ....A        29480               language\Portuguese_Brazil\strings.mo
+2017-03-29 05:17:37 ....A          396               language\Danish\strings.mo
+2017-03-29 05:17:37 ....A          470               language\Ukrainian\strings.mo
+2017-03-29 05:15:17 ....A         8247               docs\source\usingmame\aboutromsets.rst
+2017-03-29 05:15:16 ....A         7844               docs\source\advanced\bgfx.rst
+2017-03-29 05:15:17 ....A         7626               docs\source\tools\castool.rst
+2017-03-29 05:15:17 ....A        46200               docs\source\commandline\commandline-all.rst
+2017-03-29 05:15:17 ....A        15336               docs\source\usingmame\commonissues.rst
+2017-03-29 05:15:17 ....A         7930               docs\source\initialsetup\compilingmame.rst
+2017-03-29 05:15:17 ....A         6570               docs\source\usingmame\defaultkeys.rst
+2017-03-29 05:15:17 ....A         4943               docs\source\advanced\devicemap.rst
+2017-03-29 05:15:17 ....A         3897               docs\source\techspecs\device_memory_interface.rst
+2017-03-29 05:15:17 ....A         2872               docs\source\techspecs\device_rom_interface.rst
+2017-03-29 05:15:17 ....A        28700               docs\source\techspecs\floppy.rst
+2017-03-29 05:15:17 ....A         1048               docs\source\usingmame\frontends.rst
+2017-03-29 05:15:17 ....A         5066               docs\source\advanced\glsl.rst
+2017-03-29 05:15:17 ....A        18288               docs\source\advanced\hlsl.rst
+2017-03-29 05:15:17 ....A        64080               docs\source\tools\imgtool.rst
+2017-03-29 05:15:17 ....A          152               docs\source\advanced\index.rst
+2017-03-29 05:15:17 ....A          187               docs\source\commandline\index.rst
+2017-03-29 05:15:17 ....A          828               docs\source\index.rst
+2017-03-29 05:15:17 ....A          234               docs\source\initialsetup\index.rst
+2017-03-29 05:15:17 ....A          328               docs\source\techspecs\index.rst
+2017-03-29 05:15:17 ....A          206               docs\source\tools\index.rst
+2017-03-29 05:15:17 ....A          464               docs\source\usingmame\index.rst
+2017-03-29 05:15:17 ....A          774               docs\source\initialsetup\installingmame.rst
+2017-03-29 05:15:17 ....A         1553               docs\source\license.rst
+2017-03-29 05:15:17 ....A         5413               docs\source\techspecs\luaengine.rst
+2017-03-29 05:15:17 ....A        18772               docs\source\techspecs\m6502.rst
+2017-03-29 05:15:17 ....A         5142               docs\source\initialsetup\mameintro.rst
+2017-03-29 05:15:17 ....A          306               docs\source\usingmame\mamemenus.rst
+2017-03-29 05:15:17 ....A         3498               docs\source\advanced\multiconfig.rst
+2017-03-29 05:15:17 ....A        10496               docs\source\techspecs\nscsi.rst
+2017-03-29 05:15:17 ....A         1772               docs\source\tools\othertools.rst
+2017-03-29 05:15:17 ....A         1426               docs\source\advanced\paths.rst
+2017-03-29 05:15:17 ....A        16256               docs\source\commandline\sdlconfig.rst
+2017-03-29 05:15:17 ....A          455               docs\source\security.rst
+2017-03-29 05:15:17 ....A         2544               docs\source\advanced\shiftertoggle.rst
+2017-03-29 05:15:17 ....A         4227               docs\source\usingmame\usingmame.rst
+2017-03-29 05:15:17 ....A         3412               docs\source\whatis.rst
+2017-03-29 05:15:17 ....A        15031               docs\source\commandline\windowsconfig.rst
+2017-03-29 06:22:16 ....A     60114715      3353068  mame.sym
+2017-03-29 05:15:17 ....A        44432               docs\themes\sphinx_rtd_theme\static\fonts\fontawesome-webfont.woff
+2017-03-29 06:37:29 ....A      1106958      1433873  castool.exe
+2017-03-29 06:37:29 ....A      2187278               chdman.exe
+2017-03-29 06:37:29 ....A      1541646               floptool.exe
+2017-03-29 06:37:29 ....A      2797582               imgtool.exe
+2017-03-29 06:37:29 ....A       958478               jedutil.exe
+2017-03-29 06:37:30 ....A      2064910               ldresample.exe
+2017-03-29 06:37:30 ....A      2109966               ldverify.exe
+2017-03-29 06:37:39 ....A    156156430     34855343  mame.exe
+2017-03-29 06:37:39 ....A      3719182      1463325  nltool.exe
+2017-03-29 06:37:39 ....A       997390               nlwav.exe
+2017-03-29 06:37:40 ....A      1644558               romcmp.exe
+2017-03-29 06:37:40 ....A      3981326               unidasm.exe
+2017-03-29 05:15:16 ....A            0            0  docs\source\__init__.py
+2017-04-17 12:44:07 D...A            0            0  samples\MM1_keyboard
+2017-04-17 12:44:07 D...A            0            0  samples\floppy
+2017-04-17 12:44:19 D....            0            0  samples
+2017-04-17 12:44:19 D....            0            0  roms
+2017-04-17 12:44:20 D...A            0            0  plugins\timer
+2017-04-17 12:44:20 D...A            0            0  plugins\layout
+2017-04-17 12:44:20 D...A            0            0  plugins\json
+2017-04-17 12:44:20 D...A            0            0  plugins\hiscore
+2017-04-17 12:44:20 D...A            0            0  plugins\dummy
+2017-04-17 12:44:20 D...A            0            0  plugins\data
+2017-04-17 12:44:20 D...A            0            0  plugins\console
+2017-04-17 12:44:20 D...A            0            0  plugins\cheatfind
+2017-04-17 12:44:20 D...A            0            0  plugins\cheat
+2017-04-17 12:44:20 D....            0            0  plugins
+2017-04-17 12:44:19 D....            0            0  nl_examples
+2017-04-17 12:44:21 D...A            0            0  language\Vietnamese
+2017-04-17 12:44:21 D...A            0            0  language\Ukrainian
+2017-04-17 12:44:21 D...A            0            0  language\Turkish
+2017-04-17 12:44:21 D...A            0            0  language\Thai
+2017-04-17 12:44:21 D...A            0            0  language\Swedish
+2017-04-17 12:44:21 D...A            0            0  language\Spanish_Mexico
+2017-04-17 12:44:21 D...A            0            0  language\Spanish
+2017-04-17 12:44:21 D...A            0            0  language\Slovenian
+2017-04-17 12:44:21 D...A            0            0  language\Slovak
+2017-04-17 12:44:21 D...A            0            0  language\Serbian_Cyrillic
+2017-04-17 12:44:21 D...A            0            0  language\Serbian
+2017-04-17 12:44:21 D...A            0            0  language\Russian
+2017-04-17 12:44:21 D...A            0            0  language\Romanian
+2017-04-17 12:44:21 D...A            0            0  language\Portuguese_Brazil
+2017-04-17 12:44:21 D...A            0            0  language\Portuguese
+2017-04-17 12:44:20 D...A            0            0  language\Polish
+2017-04-17 12:44:21 D...A            0            0  language\Persian
+2017-04-17 12:44:21 D...A            0            0  language\Norwegian
+2017-04-17 12:44:20 D...A            0            0  language\Macedonian
+2017-04-17 12:44:21 D...A            0            0  language\Lithuanian
+2017-04-17 12:44:21 D...A            0            0  language\Latvian
+2017-04-17 12:44:21 D...A            0            0  language\Korean
+2017-04-17 12:44:21 D...A            0            0  language\Japanese
+2017-04-17 12:44:21 D...A            0            0  language\Italian
+2017-04-17 12:44:20 D...A            0            0  language\Indonesian
+2017-04-17 12:44:20 D...A            0            0  language\Hungarian
+2017-04-17 12:44:21 D...A            0            0  language\Hindi
+2017-04-17 12:44:21 D...A            0            0  language\Hebrew
+2017-04-17 12:44:21 D...A            0            0  language\Greek
+2017-04-17 12:44:21 D...A            0            0  language\German
+2017-04-17 12:44:21 D...A            0            0  language\Georgian
+2017-04-17 12:44:21 D...A            0            0  language\French_Canada
+2017-04-17 12:44:21 D...A            0            0  language\French_Belgium
+2017-04-17 12:44:20 D...A            0            0  language\French
+2017-04-17 12:44:21 D...A            0            0  language\Finnish
+2017-04-17 12:44:21 D...A            0            0  language\Estonian
+2017-04-17 12:44:21 D...A            0            0  language\English
+2017-04-17 12:44:21 D...A            0            0  language\Dutch
+2017-04-17 12:44:21 D...A            0            0  language\Danish
+2017-04-17 12:44:21 D...A            0            0  language\Czech
+2017-04-17 12:44:21 D...A            0            0  language\Croatian
+2017-04-17 12:44:21 D...A            0            0  language\Chinese_Traditional
+2017-04-17 12:44:21 D...A            0            0  language\Chinese_Simplified
+2017-04-17 12:44:21 D...A            0            0  language\Catalan
+2017-04-17 12:44:21 D...A            0            0  language\Burmese
+2017-04-17 12:44:21 D...A            0            0  language\Bulgarian
+2017-04-17 12:44:21 D...A            0            0  language\Bosnian
+2017-04-17 12:44:21 D...A            0            0  language\Belarusian
+2017-04-17 12:44:21 D...A            0            0  language\Basque
+2017-04-17 12:44:21 D...A            0            0  language\Arabic
+2017-04-17 12:44:21 D...A            0            0  language\Albanian
+2017-04-17 12:44:21 D...A            0            0  language\Afrikaans
+2017-04-17 12:44:21 D....            0            0  language
+2017-04-17 12:44:19 D....            0            0  ini\presets
+2017-04-17 12:44:19 D....            0            0  ini
+2017-04-17 12:44:19 D....            0            0  hlsl
+2017-04-17 12:44:19 D....            0            0  hash
+2017-04-17 12:44:19 D...A            0            0  docs\themes\sphinx_rtd_theme\static\js
+2017-04-17 12:44:21 D...A            0            0  docs\themes\sphinx_rtd_theme\static\fonts
+2017-04-17 12:44:20 D...A            0            0  docs\themes\sphinx_rtd_theme\static\css
+2017-04-17 12:44:19 D...A            0            0  docs\themes\sphinx_rtd_theme\static
+2017-04-17 12:44:19 D...A            0            0  docs\themes\sphinx_rtd_theme
+2017-04-17 12:44:07 D...A            0            0  docs\themes
+2017-04-17 12:44:19 D...A            0            0  docs\swlist
+2017-04-17 12:44:19 D...A            0            0  docs\source\_ext
+2017-04-17 12:44:21 D...A            0            0  docs\source\usingmame
+2017-04-17 12:44:21 D...A            0            0  docs\source\tools
+2017-04-17 12:44:21 D...A            0            0  docs\source\techspecs
+2017-04-17 12:44:21 D...A            0            0  docs\source\initialsetup
+2017-04-17 12:44:21 D...A            0            0  docs\source\commandline
+2017-04-17 12:44:21 D...A            0            0  docs\source\advanced
+2017-04-17 12:44:29 D...A            0            0  docs\source
+2017-04-17 12:44:19 D...A            0            0  docs\man
+2017-04-17 12:44:19 D....            0            0  docs
+2017-04-17 12:44:19 D....            0            0  ctrlr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\metal\chains\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\metal\chains\xbr\xbr-lv3-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\metal\chains\xbr\xbr-lv2-multipass
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\xbr\xbr-hybrid
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\metal\chains\xbr\super-xbr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\metal\chains\xbr
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\warp
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\unfiltered
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\pillarbox_right_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\pillarbox_right_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\pillarbox_left_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\pillarbox_left_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\misc
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\hqx
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\hlsl
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\eagle
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\default
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\crt-geom
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\crt
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal\chains\blurs
+2017-04-17 12:44:09 D...A            0            0  bgfx\shaders\metal\chains
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\metal
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\glsl\chains\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\glsl\chains\xbr\xbr-lv3-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\glsl\chains\xbr\xbr-lv2-multipass
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\xbr\xbr-hybrid
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\glsl\chains\xbr\super-xbr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\glsl\chains\xbr
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\warp
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\unfiltered
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\pillarbox_right_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\pillarbox_right_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\pillarbox_left_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\pillarbox_left_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\misc
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\hqx
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\hlsl
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\eagle
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\default
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\crt-geom
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\crt
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl\chains\blurs
+2017-04-17 12:44:09 D...A            0            0  bgfx\shaders\glsl\chains
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\glsl
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\essl\chains\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\essl\chains\xbr\xbr-lv3-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\essl\chains\xbr\xbr-lv2-multipass
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\xbr\xbr-hybrid
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\essl\chains\xbr\super-xbr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\essl\chains\xbr
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\warp
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\unfiltered
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\pillarbox_right_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\pillarbox_right_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\pillarbox_left_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\pillarbox_left_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\misc
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\hqx
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\hlsl
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\eagle
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\default
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\crt-geom
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\crt
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl\chains\blurs
+2017-04-17 12:44:09 D...A            0            0  bgfx\shaders\essl\chains
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\essl
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx9\chains\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx9\chains\xbr\xbr-lv3-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx9\chains\xbr\xbr-lv2-multipass
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\xbr\xbr-hybrid
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx9\chains\xbr\super-xbr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx9\chains\xbr
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\warp
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\unfiltered
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\pillarbox_right_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\pillarbox_right_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\pillarbox_left_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\pillarbox_left_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\misc
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\hqx
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\hlsl
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\eagle
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\default
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\crt-geom
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\crt
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9\chains\blurs
+2017-04-17 12:44:09 D...A            0            0  bgfx\shaders\dx9\chains
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx9
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx11\chains\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx11\chains\xbr\xbr-lv3-multipass
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx11\chains\xbr\xbr-lv2-multipass
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\xbr\xbr-hybrid
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx11\chains\xbr\super-xbr
+2017-04-17 12:44:11 D...A            0            0  bgfx\shaders\dx11\chains\xbr
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\warp
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\unfiltered
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\pillarbox_right_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\pillarbox_right_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\pillarbox_left_vertical
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\pillarbox_left_horizontal
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\misc
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\hqx
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\hlsl
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\eagle
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\default
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\crt-geom
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\crt
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11\chains\blurs
+2017-04-17 12:44:09 D...A            0            0  bgfx\shaders\dx11\chains
+2017-04-17 12:44:10 D...A            0            0  bgfx\shaders\dx11
+2017-04-17 12:44:08 D...A            0            0  bgfx\shaders
+2017-04-17 12:44:20 D...A            0            0  bgfx\layouts\sample\vertical
+2017-04-17 12:44:20 D...A            0            0  bgfx\layouts\sample\horizontal
+2017-04-17 12:44:20 D...A            0            0  bgfx\layouts\sample
+2017-04-17 12:44:20 D...A            0            0  bgfx\layouts
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\xbr\xbr-mlv4-multipass
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\xbr\xbr-lv3-multipass
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\xbr\xbr-lv2-multipass
+2017-04-17 12:44:19 D...A            0            0  bgfx\effects\xbr\xbr-hybrid
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\xbr\super-xbr
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\xbr
+2017-04-17 12:44:19 D...A            0            0  bgfx\effects\warp
+2017-04-17 12:44:19 D...A            0            0  bgfx\effects\unfiltered
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\pillarbox_right_vertical
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\pillarbox_right_horizontal
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\pillarbox_left_vertical
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\pillarbox_left_horizontal
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\misc
+2017-04-17 12:44:19 D...A            0            0  bgfx\effects\hqx
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\hlsl
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\eagle
+2017-04-17 12:44:19 D...A            0            0  bgfx\effects\default
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\crt-geom
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects\blurs
+2017-04-17 12:44:20 D...A            0            0  bgfx\effects
+2017-04-17 12:44:20 D...A            0            0  bgfx\chains\xbr
+2017-04-17 12:44:19 D...A            0            0  bgfx\chains\hqx
+2017-04-17 12:44:20 D...A            0            0  bgfx\chains\eagle
+2017-04-17 12:44:20 D...A            0            0  bgfx\chains
+2017-04-17 12:44:20 D....            0            0  bgfx
+2017-04-17 12:44:07 D...A            0            0  artwork\bgfx\chains\crt-geom
+2017-04-17 12:44:07 D...A            0            0  artwork\bgfx\chains
+2017-04-17 12:44:20 D...A            0            0  artwork\bgfx\border_blur
+2017-04-17 12:44:20 D...A            0            0  artwork\bgfx
+2017-04-17 12:44:19 D....            0            0  artwork
+------------------- ----- ------------ ------------  ------------------------
+2017-04-17 12:44:29          314106380     50356739  1746 files, 235 folders

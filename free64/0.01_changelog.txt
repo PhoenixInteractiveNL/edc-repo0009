@@ -1,0 +1,19 @@
+Version History:
+---------------
+        v.01- First release as Free64:
+        -----------------------------
+        Fixed/Speeded up CPU
+        Added CIA 1/2 timer support
+        Added Joystick support
+        Added real 1541 support via parallel port
+        Added T64 tape image support
+        Added minimal SID voice 1 through PC speaker
+        Added VIC ][ bank switching
+        Added RAM/ROM switching
+        Probably more I am not thinking of :)
+
+        Experimental C64 emu release:
+        ----------------------------
+        Simulated 6510 CPU (With bugs)
+        Minimal CIA 1 keyboard handling
+        Minimal VIC ][ textmode, some color.

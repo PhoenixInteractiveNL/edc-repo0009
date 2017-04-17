@@ -1,0 +1,60 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-05-19 16:59:21 ....A        24882        85828  CONF\KeyboardMaps.ini
+2014-07-04 22:20:11 ....A          418               SugarBox.ini
+2014-06-07 15:16:00 ....A         4157               CONF\CPC464FR.cfg
+2014-06-07 15:43:31 ....A         4214               CONF\CPC464FRDDI1.cfg
+2014-06-07 15:17:51 ....A         4224               CONF\CPC464FRDDI1128KO.cfg
+2014-06-07 15:18:18 ....A         4153               CONF\CPC464UK.cfg
+2014-06-07 15:18:12 ....A         4210               CONF\CPC464UKDDI1.cfg
+2014-06-07 15:18:45 ....A         4220               CONF\CPC464UKDDI1128KO.cfg
+2014-06-09 09:31:22 ....A         4209               CONF\CPC6128FR.cfg
+2014-06-07 15:13:28 ....A         4205               CONF\CPC6128UK.cfg
+2014-06-07 15:14:08 ....A         4208               CONF\CPC664UK.cfg
+2014-04-30 21:43:44 ....A        16384               ROM\amsdos.rom
+2014-04-30 21:43:44 ....A        16384               ROM\BASIC1-0.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\BASIC1-1.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\basic6128 (French AZERTY).rom
+2014-04-30 21:43:44 ....A        16384               ROM\basic6128 (Spanish).rom
+1995-11-14 23:13:54 ....A        16384               ROM\Cpc 664 and 6128 Amsdos (1985)(Amstrad)(AMSDOS.ROM).rom
+2014-04-30 21:43:44 ....A        16384               ROM\FW312FR.ROM
+2014-04-30 23:08:31 ....A        16384               ROM\FW313FR.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\LowerROM_4_FutureOS.rom
+2014-04-30 21:43:44 ....A        16384               ROM\OS464.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\Os464_(Danish).rom
+2014-04-30 21:43:44 ....A        16384               ROM\Os464_(French_AZERTY).rom
+2014-04-30 21:43:44 ....A        16384               ROM\Os464_(Spanish).rom
+2014-04-30 21:43:44 ....A        16384               ROM\os6128 (French AZERTY).rom
+2014-04-30 21:43:44 ....A        16384               ROM\os6128 (Spanish).rom
+2014-04-30 21:43:44 ....A        16384               ROM\OS6128.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\OS664.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\Rom CPC 464 (F) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 464 (F) (Rom B) (1984) (Basic 1.0) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 464 (UK) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 464 (UK) (Rom B) (1984) (Basic 1.0) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 6128 (F) (Rom A) (1985) (OS v3) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 6128 (F) (Rom B) (1985) (Basic 1.1) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 6128 (UK) (Rom A) (1985) (OS v3) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 6128 (UK) (Rom B) (1985) (Basic 1.1) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 664 (UK) (Rom A) (1984) (OS v2) [UTILITAIRE] [ROM].rom
+1996-12-24 23:32:00 ....A        16384               ROM\Rom CPC 664 (UK) (Rom B) (1984) (Basic 1.1) [UTILITAIRE] [ROM].rom
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-A.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-B.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-C.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-D.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-E-A - Sugarbox.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-E-B - Sugarbox.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-E-C - Sugarbox.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-E-D - Sugarbox.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-F-A.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-F-B.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-F-C.ROM
+2014-04-30 21:43:44 ....A        16384               ROM\T-OG-F-D.ROM
+2014-07-04 23:15:05 ....A      2307072       221640  Sugarbox.exe
+2014-07-04 11:45:56 ....A       132096               CAPSImg.dll
+2017-04-17 23:46:19 D....            0            0  SCR
+2017-04-17 23:46:19 D....            0            0  ROM
+2017-04-17 23:46:19 D....            0            0  REC
+2017-04-17 23:46:19 D....            0            0  CONF
+------------------- ----- ------------ ------------  ------------------------
+2017-04-17 23:46:19            3141244       307468  52 files, 4 folders

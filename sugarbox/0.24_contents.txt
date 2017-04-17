@@ -1,0 +1,92 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-05-31 11:03:36 ....A        16384       271291  ROM\CPMPLUS2_256K
+2014-05-31 11:03:52 ....A        16384               ROM\CPMPLUS2_448K
+2015-03-28 19:47:52 ....A        24884               CONF\KeyboardMaps.ini
+2015-03-31 13:06:20 ....A          344               SugarBox.ini
+2014-07-28 22:12:08 ....A         4103               CONF\CONF_0003.cfg
+2015-03-04 11:45:34 ....A         4151               CONF\CONF_0004.cfg
+2015-03-21 20:13:58 ....A         4167               CONF\CPC464DK.cfg
+2015-03-21 20:13:50 ....A         4224               CONF\CPC464DKDDI1.cfg
+2015-03-21 20:13:42 ....A         4232               CONF\CPC464DKDDI1128KO.cfg
+2015-03-25 08:16:28 ....A         4166               CONF\CPC464FR.cfg
+2015-03-21 20:03:00 ....A         4223               CONF\CPC464FRDDI1.cfg
+2015-03-21 20:03:10 ....A         4233               CONF\CPC464FRDDI1128KO.cfg
+2015-03-21 20:12:20 ....A         4167               CONF\CPC464SP.cfg
+2015-03-21 20:12:54 ....A         4224               CONF\CPC464SPDDI1.cfg
+2015-03-21 20:13:02 ....A         4234               CONF\CPC464SPDDI1128KO.cfg
+2015-03-21 20:13:14 ....A         4167               CONF\CPC464UK.cfg
+2015-03-21 20:13:20 ....A         4224               CONF\CPC464UKDDI1.cfg
+2015-03-21 20:13:28 ....A         4234               CONF\CPC464UKDDI1128KO.cfg
+2015-03-28 19:47:44 ....A         4220               CONF\CPC6128FR.cfg
+2015-03-21 15:39:50 ....A         4274               CONF\CPC6128FRBONNYDOS.cfg
+2014-10-25 20:05:56 ....A         4196               CONF\CPC6128FRFW3512KRD000K.cfg
+2015-03-21 20:16:04 ....A         4208               CONF\CPC6128FRFW3512KRD256K.cfg
+2015-03-21 20:15:54 ....A         4208               CONF\CPC6128FRFW3512KRD448K.cfg
+2015-03-28 19:48:12 ....A         4251               CONF\CPC6128FRORGAMS.cfg
+2015-03-28 15:10:06 ....A         4433               CONF\CPC6128FRXMEM.cfg
+2015-03-21 20:14:30 ....A         4110               CONF\CPC6128FUTUREOS.cfg
+2015-03-21 20:14:48 ....A         4219               CONF\CPC6128SP.cfg
+2015-03-21 20:15:08 ....A         4219               CONF\CPC6128UK.cfg
+2015-03-28 19:47:48 ....A         4220               CONF\CPC664UK.cfg
+2015-02-22 20:26:28 ....A        16384               ROM\10-ORGEDIT.ROM
+2015-02-22 20:26:16 ....A        16384               ROM\11-ORGAMS.ROM
+2015-02-22 20:25:58 ....A        16256               ROM\12-MONOGAMS.ROM
+2005-08-23 20:35:20 ....A        16384               ROM\AksROM v1.0 (arkos).rom
+2015-03-21 15:35:24 ....A        16384               ROM\BonnyDOS V1.72S.ROM
+2015-03-21 15:35:24 ....A        16384               ROM\BonnyDOS-Addon #1S.rom
+2015-03-21 15:35:24 ....A        16384               ROM\BonnyDOS-Addon #2S.rom
+2014-07-27 00:33:32 ....A        16384               ROM\Cpc 664 and 6128 Amsdos (1985)(Amstrad)(AMSDOS.ROM).rom
+2014-07-27 00:33:32 ....A        16384               ROM\CPC System Information Utility (UK) (1994) [Original] [UTILITAIRE] [ROM].rom
+2012-09-30 23:28:36 ....A        16384               ROM\CPM Accessory Rom 1 (UK) (1988) (Version 2.30) [Graduate Software] [Original] [UTILITAIRE] [ROM].rom
+2012-11-04 17:23:28 ....A        16384               ROM\CPM Plus On Rom (UK) (Face 1) (1988) (Version 2.34) [Graduate Software] [Original] [UTILITAIRE] [ROM].rom
+2012-11-04 17:23:28 ....A        16384               ROM\CPM Plus On Rom (UK) (Face 2) (1988) (Version 2.34) [Graduate Software] [Original] [UTILITAIRE] [ROM].rom
+2014-05-30 10:49:02 ....A        16384               ROM\CPMPLUS1.ROM
+2014-05-30 10:49:04 ....A        16384               ROM\CPMPLUS2.ROM
+2014-05-31 11:03:00 ....A        16384               ROM\CPMPLUS2_0K.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\DTC ROM 1.rom
+2014-07-27 00:33:32 ....A        16384               ROM\DTC ROM 2.rom
+2014-04-22 11:31:46 ....A        16384               ROM\Equinox ROM 1.rom
+2014-04-22 11:31:52 ....A        16384               ROM\Equinox ROM 2.rom
+2014-07-28 18:25:54 ....A         8192               ROM\FW315EXP_0K.ROM
+2014-07-28 21:52:10 ....A         8192               ROM\FW315EXP_256K.ROM
+2014-07-28 21:52:26 ....A         8192               ROM\FW315EXP_448K.ROM
+2014-07-28 18:24:36 ....A        16384               ROM\FW315FR.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\LowerROM_4_FutureOS.rom
+2014-04-06 17:47:58 ....A         8028               ROM\MultiMark 1.2 avec patch couleur pour mode 2.ROM
+2014-07-27 00:33:32 ....A        13804               ROM\QuickCMD (UK) (2011) (Version 2.3) (PD) [Original] [UTILITAIRE] [ROM].ROM
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (DK) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (DK) (Rom B) (1984) (Basic 1.0) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (FR) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (FR) (Rom B) (1984) (Basic 1.0) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (SP) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (UK) (Rom A) (1984) (OS v1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 464 (UK) (Rom B) (1984) (Basic 1.0) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (FR) (Rom A) (1985) (OS v3) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (FR) (Rom B) (1985) (Basic 1.1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (SP) (Rom A) (1985) (OS v3) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (SP) (Rom B) (1985) (Basic 1.1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (UK) (Rom A) (1985) (OS v3) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 6128 (UK) (Rom B) (1985) (Basic 1.1) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 664 (UK) (Rom A) (1984) (OS v2) [UTILITAIRE] [ROM].rom
+2014-07-27 00:33:32 ....A        16384               ROM\Rom CPC 664 (UK) (Rom B) (1984) (Basic 1.1) [UTILITAIRE] [ROM].rom
+2010-07-01 23:08:16 ....A        16384               ROM\SiliDisc.rom
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-A.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-B.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-C.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-D.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-E-A - Sugarbox.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-E-B - Sugarbox.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-E-C - Sugarbox.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-E-D - Sugarbox.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-F-A.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-F-B.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-F-C.ROM
+2014-07-27 00:33:32 ....A        16384               ROM\T-OG-F-D.ROM
+2015-03-31 14:20:12 ....A      2450432       998412  Sugarbox.exe
+2015-02-26 22:55:38 ....A      1998168               d3dx9_43.dll
+2014-10-25 10:03:30 ....A       107520               zlib1.dll
+2017-04-17 23:51:27 D....            0            0  ROM
+2017-04-17 23:51:27 D....            0            0  CONF
+------------------- ----- ------------ ------------  ------------------------
+2017-04-17 23:51:27            5568519      1269703  86 files, 2 folders
