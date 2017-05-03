@@ -1,0 +1,66 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-12-05 18:14:18 ....A         2147      1478607  app\disk.png
+2016-12-05 18:14:18 ....A         3291               app\joykeyb.png
+2017-04-12 15:21:44 ....A          127               app\menu.png
+2017-04-12 15:21:44 ....A          112               app\menu2.png
+2016-12-05 18:14:18 ....A         1768               app\rpgfont.png
+2016-12-05 18:14:18 ....A         1410               app\icon32x32-256.bmp
+2017-04-11 09:19:26 ....A       194816               disks\000--Empty.dsk
+2017-04-12 15:21:44 ....A       194816               disks\000--Logo3.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Apprenti.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Arkanoi4.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Arkanoi5.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Arkanoid.dsk
+2017-04-12 18:12:40 ....A       194816               disks\ArkanRev.dsk
+2017-04-12 18:12:40 ....A       194816               disks\ArtStud.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Back to the Future 3 (UK) (1990) (Disk 1 of 2).dsk
+2017-04-12 18:12:40 ....A       194816               disks\Back to the Future 3 (UK) (1990) (Disk 2 of 2).dsk
+2017-04-12 18:12:40 ....A       194816               disks\BJack1.dsk
+2017-04-12 18:12:40 ....A       194816               disks\BJack2.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Bounder.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Commando.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Darts180.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Demo6128.dsk
+2017-04-12 18:12:40 ....A       204032               disks\EliteD.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Feud (UK) (1987).dsk
+2017-04-12 18:12:40 ....A       194816               disks\Ghostbus.dsk
+2017-04-12 18:12:40 ....A       194816               disks\GrBeret.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Gyroscop.dsk
+2017-04-12 18:12:40 ....A       194816               disks\HarveyH.dsk
+2017-04-12 18:12:40 ....A       194816               disks\Hobbit.dsk
+2017-04-12 18:12:40 ....A       194816               disks\ImpMiss1.dsk
+2017-04-12 18:12:40 ....A       194816               disks\ImpMiss2.dsk
+2017-04-12 18:12:40 ....A       194816               disks\PingPong.dsk
+2017-04-12 18:12:42 ....A       194816               disks\Predator.dsk
+2017-04-12 18:12:42 ....A       217344               disks\Prehist2.dsk
+2017-04-12 18:12:42 ....A       194816               disks\prehisto.dsk
+2017-04-12 18:12:42 ....A       194816               disks\RolanTim.dsk
+2017-04-12 18:12:42 ....A       194816               disks\SorcerPl.dsk
+2017-04-12 18:12:42 ....A       194816               disks\sorcery.dsk
+2017-04-12 18:12:42 ....A       194816               disks\Spindizy.dsk
+2017-04-12 18:12:42 ....A       194816               disks\StoleMill.dsk
+2017-04-12 18:12:42 ....A       195584               disks\WerneEDA.dsk
+2017-04-12 18:12:42 ....A       194816               disks\WerneEDB.dsk
+2017-04-12 18:12:42 ....A       194816               disks\WiGamesA.dsk
+2017-04-12 18:12:42 ....A       194816               disks\WiGamesB.dsk
+2017-04-12 18:22:42 ....A           41               run.bat
+2017-04-12 18:29:36 ....A          361               roland.cfg
+2017-02-11 23:07:24 ....A           59               disks\.directory
+2016-12-05 18:14:18 ....A        16384               roms\amsdos.rom
+2016-12-05 18:14:18 ....A        32768               roms\cpc464.rom
+2016-12-05 18:14:18 ....A        32768               roms\cpc6128.rom
+2016-12-05 18:14:18 ....A        32768               roms\cpc664.rom
+2017-04-12 16:46:20 ....A       195072       531728  roland.exe
+2017-04-12 18:12:38 ....A       204288               libjpeg-8.dll
+2017-04-12 18:12:40 ....A       151552               libpng15-15.dll
+2017-04-12 18:12:40 ....A       408064               libtiff-5.dll
+2017-04-12 18:12:38 ....A       264192               SDL.dll
+2017-04-12 18:12:38 ....A        41472               SDL_image.dll
+2017-04-12 18:12:34 ....A       150528               SDL_mixer.dll
+2017-04-12 18:12:40 ....A       100352               zlib1.dll
+2017-05-02 22:29:19 D....            0            0  roms
+2017-05-02 22:29:19 D....            0            0  disks
+2017-05-02 22:29:18 D....            0            0  app
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 22:29:19            9075044      2010335  59 files, 3 folders

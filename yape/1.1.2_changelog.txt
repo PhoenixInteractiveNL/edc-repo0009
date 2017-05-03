@@ -1,0 +1,10 @@
+CHANGES IN 1.1.2 FROM 1.1.1
+----------------------------
+released on Apr 13, 2017
+
+- [FIX] CPU and TED timing improvements
+- [FIX] more monitor improvements
+- [FIX] regression bug related to cancelling the autostart dialog
+- [FIX] AltGr got stuck in Message Queue based input mode
+- [FIX] failing OpenGL crash
+- [FIX] speech quality regression

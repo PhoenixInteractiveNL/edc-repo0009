@@ -1,0 +1,11 @@
+﻿0.64
+
+Fix error on wrong pathes
+Cleanup build files
+Change constexpr to const for compatibility
+Change travis notification settings
+Change creation of pathes
+Fix pathes in config file
+Change directory options
+Change FileList for better Handling; not finished yet (#5)
+Update README.md

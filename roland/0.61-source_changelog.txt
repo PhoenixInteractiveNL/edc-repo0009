@@ -1,0 +1,72 @@
+﻿0.61
+
+Update README.md
+Fix build with VS2015
+Fix VS2015 build
+Add SDL files for VS2015 build
+Fix some ISO-C++ issues
+Cleanup
+Fix VS2015 build issue
+Fix Visual Studio build issues
+Fix build issues
+Fix appveyor build support
+Fix appveyor build support
+Change readme
+Change readme
+Change readme
+Fix appveyor build support
+Add appveyor build support
+Fix travis build support
+Add travis build support for multi os
+Add travis build support
+Cleanup
+Add namespace cpcx (change later)
+Cleanup
+Remove old gui
+Implement new fileselector
+Cleanup in sdltk; no code changes
+Change typedefs in sdltk
+Cleanup of sdltk stuff
+Cleanup
+Fix namespace issue
+Cleanup in sdltk; no code changes
+Change selection highlight and movement
+Add more vim
+Change documentation
+Change selection to filelist in gui
+Add selection to filelist in gui
+Change filestructure and class Directory
+Preparation for the new gui
+Change some design issues
+Implement sdl filelist and a lot of cleanup:wq
+Change start behaviour to support noconfig
+Enable switch from plain (F7) to OpenGL driver (F8)
+Refine gui
+Rewrite gui to use new drivers
+Rename class Draw to more precise class Canvas
+Change comment header
+Add gui files
+Cleanup of sdl audio implementation
+Rewrite of sdl audio implementation
+Change more of cpc basic types to prevent conflicts
+Change of cpc basic types to prevent conflicts
+Change of sdl framework to support opengl soon -> F8
+Change visibility of mouse cursor and some cleanup
+Change header comment
+Changes in build files
+Fix code and build issues
+Fix build issues
+Fix to lower cpu usage
+Fix some more release build warnings
+Fix some release build warnings
+Refine cmake build
+Implement package creation with CPack (for now: rpm, src.rpm, bz2)
+Change directory structure
+Fix doc files
+Add more doc files
+Add doc files
+Add doc file
+Correct build file
+Change build config
+Correct typo
+Change buildfiles

@@ -1,0 +1,145 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2016-04-09 09:12:56 ....A        35141      1568554  roland-0.6\LICENSE
+2016-04-09 09:12:56 ....A        50408               roland-0.6\src\cpc\raze\raze.zip
+2016-04-09 09:12:56 ....A         2472               roland-0.6\README-DE.md
+2016-04-09 09:12:56 ....A         2170               roland-0.6\README.md
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Apprenti.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Arkanoi4.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Arkanoi5.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Arkanoid.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\ArkanRev.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\ArtStud.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Back to the Future 3 (UK) (1990) (Disk 1 of 2).dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Back to the Future 3 (UK) (1990) (Disk 2 of 2).dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\BJack1.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\BJack2.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Bounder.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Commando.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Darts180.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Demo6128.dsk
+2016-04-09 09:12:56 ....A       204032               roland-0.6\disks\EliteD.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Feud (UK) (1987).dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Ghostbus.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\GrBeret.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Gyroscop.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\HarveyH.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Hobbit.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\ImpMiss1.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\ImpMiss2.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\PingPong.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Predator.dsk
+2016-04-09 09:12:56 ....A       217344               roland-0.6\disks\Prehist2.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\prehisto.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\RolanTim.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\SorcerPl.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\sorcery.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\Spindizy.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\StoleMill.dsk
+2016-04-09 09:12:56 ....A       195584               roland-0.6\disks\WerneEDA.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\WerneEDB.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\WiGamesA.dsk
+2016-04-09 09:12:56 ....A       194816               roland-0.6\disks\WiGamesB.dsk
+2016-04-09 09:12:56 ....A        41124               roland-0.6\src\cpc\raze\raze.inc
+2016-04-09 09:12:56 ....A         1795               roland-0.6\src\sdl\clock.h
+2016-04-09 09:12:56 ....A         1752               roland-0.6\src\cpc\floppy\cmdtable.h
+2016-04-09 09:12:56 ....A         2200               roland-0.6\src\cpc\floppy\cmdtabledef.h
+2016-04-09 09:12:56 ....A         2070               roland-0.6\src\cpc\colours.h
+2016-04-09 09:12:56 ....A         3865               roland-0.6\src\cpc\cpc.h
+2016-04-09 09:12:56 ....A        10790               roland-0.6\src\cpc\cpckeys.h
+2016-04-09 09:12:56 ....A         5882               roland-0.6\src\cpc\crtc.h
+2016-04-09 09:12:56 ....A         2836               roland-0.6\src\common\filesys\directory.h
+2016-04-09 09:12:56 ....A         3202               roland-0.6\src\cpc\floppy\drive.h
+2016-04-09 09:12:56 ....A         3499               roland-0.6\src\cpc\floppy\fdc.h
+2016-04-09 09:12:56 ....A         4064               roland-0.6\src\cpc\floppy\fdcconst.h
+2016-04-09 09:12:56 ....A         4736               roland-0.6\src\common\filesys\fileinfo.h
+2016-04-09 09:12:56 ....A         3946               roland-0.6\src\common\filesys\filename.h
+2016-04-09 09:12:56 ....A         2302               roland-0.6\src\sdl\gui\fileselect.h
+2016-04-09 09:12:56 ....A         1841               roland-0.6\src\sdl\gui\font\font.h
+2016-04-09 09:12:56 ....A         3692               roland-0.6\src\cpc\gatearray.h
+2016-04-09 09:12:56 ....A         1970               roland-0.6\src\cpc\keyboard.h
+2016-04-09 09:12:56 ....A         2287               roland-0.6\src\sdl\keytrans.h
+2016-04-09 09:12:56 ....A        16324               roland-0.6\src\cpc\z80\macros.h
+2016-04-09 09:12:56 ....A         3250               roland-0.6\src\cpc\memman.h
+2016-04-09 09:12:56 ....A         1666               roland-0.6\src\opt\mmx_memcpy.h
+2016-04-09 09:12:56 ....A         3880               roland-0.6\src\cpc\ppi.h
+2016-04-09 09:12:56 ....A         3045               roland-0.6\src\common\prefs.h
+2016-04-09 09:12:56 ....A         4681               roland-0.6\src\cpc\psg.h
+2016-04-09 09:12:56 ....A         4696               roland-0.6\src\cpc\raze\raze.h
+2016-04-09 09:12:56 ....A         1974               roland-0.6\src\cpc\z80\register.h
+2016-04-09 09:12:56 ....A         2240               roland-0.6\src\cpc\floppy\sector.h
+2016-04-09 09:12:56 ....A        10102               roland-0.6\src\cpc\sound.h
+2016-04-09 09:12:56 ....A         2420               roland-0.6\src\cpc\floppy\track.h
+2016-04-09 09:12:56 ....A         7577               roland-0.6\src\types.h
+2016-04-09 09:12:56 ....A         6773               roland-0.6\src\cpc\vdu.h
+2016-04-09 09:12:56 ....A        12376               roland-0.6\src\cpc\z80\z80.h
+2016-04-09 09:12:56 ....A         2658               roland-0.6\src\cpc\floppy\cmdtable.cpp
+2016-04-09 09:12:56 ....A         1489               roland-0.6\src\cpc\floppy\cmdtabledef.cpp
+2016-04-09 09:12:56 ....A         6071               roland-0.6\src\cpc\colours.cpp
+2016-04-09 09:12:56 ....A        17264               roland-0.6\src\cpc\cpc.cpp
+2016-04-09 09:12:56 ....A         4453               roland-0.6\src\cpc\crtc.cpp
+2016-04-09 09:12:56 ....A         3057               roland-0.6\src\common\filesys\directory.cpp
+2016-04-09 09:12:56 ....A         1718               roland-0.6\src\cpc\floppy\drive.cpp
+2016-04-09 09:12:56 ....A        61834               roland-0.6\src\cpc\floppy\fdc.cpp
+2016-04-09 09:12:56 ....A         1886               roland-0.6\src\common\filesys\fileinfo.cpp
+2016-04-09 09:12:56 ....A         3696               roland-0.6\src\common\filesys\filename.cpp
+2016-04-09 09:12:56 ....A         8077               roland-0.6\src\sdl\gui\fileselect.cpp
+2016-04-09 09:12:56 ....A         3309               roland-0.6\src\sdl\gui\font\font.cpp
+2016-04-09 09:12:56 ....A         1841               roland-0.6\src\cpc\gatearray.cpp
+2016-04-09 09:12:56 ....A        11897               roland-0.6\src\sdl\gui\font\glyphs.cpp
+2016-04-09 09:12:56 ....A         1660               roland-0.6\src\cpc\keyboard.cpp
+2016-04-09 09:12:56 ....A        13555               roland-0.6\src\sdl\keytrans.cpp
+2016-04-09 09:12:56 ....A         7647               roland-0.6\src\cpc\memman.cpp
+2016-04-09 09:12:56 ....A         1612               roland-0.6\src\cpc\ppi.cpp
+2016-04-09 09:12:56 ....A         5824               roland-0.6\src\common\prefs.cpp
+2016-04-09 09:12:56 ....A         1707               roland-0.6\src\cpc\psg.cpp
+2016-04-09 09:12:56 ....A        21431               roland-0.6\src\roland.cpp
+2016-04-09 09:12:56 ....A         1675               roland-0.6\src\cpc\floppy\sector.cpp
+2016-04-09 09:12:56 ....A        18533               roland-0.6\src\cpc\sound.cpp
+2016-04-09 09:12:56 ....A         1483               roland-0.6\src\cpc\floppy\track.cpp
+2016-04-09 09:12:56 ....A        33055               roland-0.6\src\cpc\vdu.cpp
+2016-04-09 09:12:56 ....A       225918               roland-0.6\src\cpc\z80\z80.cpp
+2016-04-09 09:12:56 ....A        15973               roland-0.6\src\cpc\raze\raze.html
+2016-04-09 09:12:56 ....A          341               roland-0.6\changelog.sh
+2016-04-09 09:12:56 ....A          215               roland-0.6\cmake.sh
+2016-04-09 09:12:56 ....A          122               roland-0.6\format.sh
+2016-04-09 09:12:56 ....A          150               roland-0.6\make.sh
+2016-04-09 09:12:56 ....A          235               roland-0.6\tab2space.sh
+2016-04-09 09:12:56 ....A           84               roland-0.6\src\cpc\z80\CMakeLists.txt
+2016-04-09 09:12:56 ....A           99               roland-0.6\src\sdl\gui\font\CMakeLists.txt
+2016-04-09 09:12:56 ....A          123               roland-0.6\src\common\filesys\CMakeLists.txt
+2016-04-09 09:12:56 ....A          148               roland-0.6\src\cpc\floppy\CMakeLists.txt
+2016-04-09 09:12:56 ....A          182               roland-0.6\src\common\CMakeLists.txt
+2016-04-09 09:12:56 ....A          211               roland-0.6\src\sdl\gui\CMakeLists.txt
+2016-04-09 09:12:56 ....A          268               roland-0.6\src\CMakeLists.txt
+2016-04-09 09:12:56 ....A          284               roland-0.6\src\sdl\CMakeLists.txt
+2016-04-09 09:12:56 ....A          322               roland-0.6\src\cpc\CMakeLists.txt
+2016-04-09 09:12:56 ....A         1885               roland-0.6\CMakeLists.txt
+2016-04-09 09:12:56 ....A         2616               roland-0.6\src\cpc\raze\raze.reg
+2016-04-09 09:12:56 ....A          340               roland-0.6\roland-linux.cfg
+2016-04-09 09:12:56 ....A         1981               roland-0.6\.clang-format
+2016-04-09 09:12:56 ....A          108               roland-0.6\.gitignore
+2016-04-09 09:12:56 ....A         2117               roland-0.6\config.h.in
+2016-04-09 09:12:56 ....A          906               roland-0.6\src\opt\mmx_memcpy.asm.in
+2016-04-09 09:12:56 ....A       108578               roland-0.6\src\cpc\raze\raze.asm.in
+2016-04-09 09:12:56 ....A        16384               roland-0.6\roms\amsdos.rom
+2016-04-09 09:12:56 ....A        32768               roland-0.6\roms\cpc464.rom
+2016-04-09 09:12:56 ....A        32768               roland-0.6\roms\cpc6128.rom
+2016-04-09 09:12:56 ....A        32768               roland-0.6\roms\cpc664.rom
+2016-04-09 09:12:56 ....A         1209               roland-0.6\roland.spec
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\sdl\gui\font
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\sdl\gui
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\sdl
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\opt
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\cpc\z80
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\cpc\raze
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\cpc\floppy
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\cpc
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\common\filesys
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src\common
+2017-05-02 22:39:53 D....            0            0  roland-0.6\src
+2017-05-02 22:39:52 D....            0            0  roland-0.6\roms
+2017-05-02 22:39:52 D....            0            0  roland-0.6\disks
+2017-05-02 22:39:53 D....            0            0  roland-0.6
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 22:39:53            8037471      1568554  127 files, 14 folders

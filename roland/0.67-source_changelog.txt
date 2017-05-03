@@ -1,0 +1,12 @@
+﻿0.67
+
+Add Return Key to exit gui menus
+Add floppy to namespace cpcx
+Change documentation
+Add compiler specification to cmake
+Cleanup some documentation
+Change documentation
+Cleanup documentation generation
+Change documentation
+Add icon2code for later use
+Add better versioning

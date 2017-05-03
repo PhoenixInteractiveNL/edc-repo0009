@@ -1,0 +1,170 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-04-20 16:25:40 ....A       161868       244219  Sharp80\main.ico
+2017-04-20 16:25:40 ....A         1297               README.md
+2017-04-20 16:25:40 ....A         5666               Z80\Assembler.Assembly.cs
+2017-04-20 16:25:40 ....A        31737               Z80\Assembler.cs
+2017-04-20 16:25:40 ....A        11285               Z80\Assembler.LineInfo.cs
+2017-04-20 16:25:40 ....A         2060               Z80\Assembler.Macro.cs
+2017-04-20 16:25:40 ....A         8484               Z80\Assembler.Operand.cs
+2017-04-20 16:25:40 ....A         4756               Sharp80Tests\Assembly.cs
+2017-04-20 16:25:40 ....A          625               Sharp80Tests\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         1274               Sharp80\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         1377               Z80\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         1381               trs80\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         1381               Views\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         1385               DirectX\Properties\AssemblyInfo.cs
+2017-04-20 16:25:40 ....A         3852               trs80\Basic.cs
+2017-04-20 16:25:40 ....A         2729               Z80\CircularBuffer.cs
+2017-04-20 16:25:40 ....A        11559               trs80\Clock.cs
+2017-04-20 16:25:40 ....A         9016               trs80\CmdFile.cs
+2017-04-20 16:25:40 ....A          497               Sharp80Tests\Compression.cs
+2017-04-20 16:25:40 ....A        19033               trs80\Computer.cs
+2017-04-20 16:25:40 ....A          852               Sharp80Tests\DataStructure.cs
+2017-04-20 16:25:40 ....A         3379               Z80\Disassembler.cs
+2017-04-20 16:25:40 ....A         3413               trs80\DriveNoise.cs
+2017-04-20 16:25:40 ....A         1028               Sharp80Tests\Extensions.cs
+2017-04-20 16:25:40 ....A         7073               Z80\Extensions.cs
+2017-04-20 16:25:40 ....A        17405               trs80\Extensions.cs
+2017-04-20 16:25:40 ....A        11145               trs80\Floppy.Conversion.cs
+2017-04-20 16:25:40 ....A         7489               trs80\Floppy.cs
+2017-04-20 16:25:40 ....A         9789               trs80\Floppy.FloppyData.cs
+2017-04-20 16:25:40 ....A        18793               trs80\Floppy.Utils.cs
+2017-04-20 16:25:40 ....A        25170               trs80\FloppyController.Callbacks.cs
+2017-04-20 16:25:40 ....A         9022               trs80\FloppyController.Command.cs
+2017-04-20 16:25:40 ....A        27955               trs80\FloppyController.cs
+2017-04-20 16:25:40 ....A         1739               trs80\FloppyController.DriveState.cs
+2017-04-20 16:25:40 ....A         3984               Sharp80Tests\Format.cs
+2017-04-20 16:25:40 ....A         1409               Sharp80Tests\Hexadecimal.cs
+2017-04-20 16:25:40 ....A            3               trs80\IAppWindow.cs
+2017-04-20 16:25:40 ....A          406               DirectX\IAppWindow.cs
+2017-04-20 16:25:40 ....A          346               Z80\IComputer.cs
+2017-04-20 16:25:40 ....A         1075               trs80\IDialogs.cs
+2017-04-20 16:25:40 ....A          711               trs80\IFloppy.cs
+2017-04-20 16:25:40 ....A          906               trs80\IFloppyControllerStatus.cs
+2017-04-20 16:25:40 ....A          700               trs80\IKeyboard.cs
+2017-04-20 16:25:40 ....A          377               Z80\IMemory.cs
+2017-04-20 16:25:40 ....A          596               trs80\IMemory.cs
+2017-04-20 16:25:40 ....A        11483               Z80\Instruction.cs
+2017-04-20 16:25:40 ....A         8682               trs80\InterruptManager.cs
+2017-04-20 16:25:40 ....A         1350               trs80\IO.cs
+2017-04-20 16:25:40 ....A          224               Z80\IPorts.cs
+2017-04-20 16:25:40 ....A          351               Views\IProductInfo.cs
+2017-04-20 16:25:40 ....A          616               Z80\IRegister.cs
+2017-04-20 16:25:40 ....A          684               trs80\IScreen.cs
+2017-04-20 16:25:40 ....A          316               trs80\ISerializable.cs
+2017-04-20 16:25:40 ....A          320               Z80\ISerializable.cs
+2017-04-20 16:25:40 ....A         1054               trs80\ISettings.cs
+2017-04-20 16:25:40 ....A          529               trs80\ISound.cs
+2017-04-20 16:25:40 ....A          662               Z80\IStatus.cs
+2017-04-20 16:25:40 ....A          251               trs80\ITimer.cs
+2017-04-20 16:25:40 ....A          401               trs80\ITrack.cs
+2017-04-20 16:25:40 ....A         5236               DirectX\KeyboardDX.cs
+2017-04-20 16:25:40 ....A         2375               trs80\KeyCode.cs
+2017-04-20 16:25:40 ....A         4665               trs80\KeyState.cs
+2017-04-20 16:25:40 ....A          917               trs80\Lib.cs
+2017-04-20 16:25:40 ....A         9577               Z80\Lib.cs
+2017-04-20 16:25:40 ....A        19608               Sharp80\MainForm.cs
+2017-04-20 16:25:40 ....A         1278               Sharp80\MainForm.Designer.cs
+2017-04-20 16:25:40 ....A         4497               trs80\Memory.cs
+2017-04-20 16:25:40 ....A        13810               trs80\Memory.Keyboard.cs
+2017-04-20 16:25:40 ....A          983               Sharp80\MessageEventArgs.cs
+2017-04-20 16:25:40 ....A            3               trs80\NativeMethods.cs
+2017-04-20 16:25:40 ....A          459               Sharp80\NativeMethods.cs
+2017-04-20 16:25:40 ....A         1902               Sharp80Tests\NullDialogs.cs
+2017-04-20 16:25:40 ....A          598               Sharp80Tests\Numeric.cs
+2017-04-20 16:25:40 ....A         5841               trs80\Ports.cs
+2017-04-20 16:25:40 ....A         1386               trs80\Printer.cs
+2017-04-20 16:25:40 ....A          536               Sharp80\ProductInfo.cs
+2017-04-20 16:25:40 ....A          516               Sharp80\Program.cs
+2017-04-20 16:25:40 ....A          909               Sharp80Tests\ProgramFlow.cs
+2017-04-20 16:25:40 ....A         1185               Sharp80\Properties.Settings.cs
+2017-04-20 16:25:40 ....A         2384               trs80\PulseReq.cs
+2017-04-20 16:25:40 ....A         1782               trs80\PulseScheduler.cs
+2017-04-20 16:25:40 ....A         4263               Z80\Register.cs
+2017-04-20 16:25:40 ....A        15401               trs80\Resources.CharGen.cs
+2017-04-20 16:25:40 ....A         2779               Sharp80\Properties\Resources.Designer.cs
+2017-04-20 16:25:40 ....A        72002               trs80\Resources.Rom.cs
+2017-04-20 16:25:40 ....A       194671               trs80\Resources.Trsdos.cs
+2017-04-20 16:25:40 ....A        27262               DirectX\ScreenDX.cs
+2017-04-20 16:25:40 ....A         1762               trs80\ScreenMetrics.cs
+2017-04-20 16:25:40 ....A         1033               trs80\ScreenNull.cs
+2017-04-20 16:25:40 ....A         1794               trs80\SectorDescriptor.cs
+2017-04-20 16:25:40 ....A         1912               Sharp80Tests\Settings.cs
+2017-04-20 16:25:40 ....A         3539               Sharp80\Settings.cs
+2017-04-20 16:25:40 ....A        11372               Sharp80\Properties\Settings.Designer.cs
+2017-04-20 16:25:40 ....A          729               trs80\SoundNull.cs
+2017-04-20 16:25:40 ....A         7241               DirectX\SoundX.cs
+2017-04-20 16:25:40 ....A         4052               DirectX\SoundX.FrameBuffer.cs
+2017-04-20 16:25:40 ....A         1156               Sharp80Tests\Startup.cs
+2017-04-20 16:25:40 ....A        10730               trs80\Storage.cs
+2017-04-20 16:25:40 ....A          413               Sharp80Tests\Strings.cs
+2017-04-20 16:25:40 ....A         1015               trs80\SubArray.cs
+2017-04-20 16:25:40 ....A        20611               trs80\Tape.cs
+2017-04-20 16:25:40 ....A         7485               trs80\Tape.Transition.cs
+2017-04-20 16:25:40 ....A         4330               Sharp80Tests\Tapes.cs
+2017-04-20 16:25:40 ....A         2542               Sharp80Tests\Test.cs
+2017-04-20 16:25:40 ....A          899               Sharp80\Timer.cs
+2017-04-20 16:25:40 ....A         3956               Z80\TraceLog.cs
+2017-04-20 16:25:40 ....A        18872               trs80\Track.cs
+2017-04-20 16:25:40 ....A         3377               trs80\Trigger.cs
+2017-04-20 16:25:40 ....A         1783               Views\View.Assembler.cs
+2017-04-20 16:25:40 ....A         2339               Views\View.Breakpoint.cs
+2017-04-20 16:25:40 ....A         7929               Views\View.CmdFile.cs
+2017-04-20 16:25:40 ....A         1469               Views\View.Cpu.cs
+2017-04-20 16:25:40 ....A        26944               Views\View.cs
+2017-04-20 16:25:40 ....A         3667               Views\View.Disassembler.cs
+2017-04-20 16:25:40 ....A        16347               Views\View.Disk.cs
+2017-04-20 16:25:40 ....A         2458               Views\View.FloppyController.cs
+2017-04-20 16:25:40 ....A         7883               Views\View.Help.cs
+2017-04-20 16:25:40 ....A         2165               Views\View.Jump.cs
+2017-04-20 16:25:40 ....A         2972               Views\View.Memory.cs
+2017-04-20 16:25:40 ....A         2591               Views\View.Normal.cs
+2017-04-20 16:25:40 ....A         2150               Views\View.Options.cs
+2017-04-20 16:25:40 ....A         4272               Views\View.Printer.cs
+2017-04-20 16:25:40 ....A         2099               Views\View.Splash.cs
+2017-04-20 16:25:40 ....A         6264               Views\View.Tape.cs
+2017-04-20 16:25:40 ....A         7091               Views\View.Zap.cs
+2017-04-20 16:25:40 ....A        11058               Sharp80\WinDialogs.cs
+2017-04-20 16:25:40 ....A         1746               Sharp80Tests\Z80.cs
+2017-04-20 16:25:40 ....A        19011               Z80\Z80.cs
+2017-04-20 16:25:40 ....A         4333               Z80\Z80.Info.cs
+2017-04-20 16:25:40 ....A        32251               Z80\Z80.Init.cs
+2017-04-20 16:25:40 ....A        30341               Z80\Z80.Instructions.cs
+2017-04-20 16:25:40 ....A         7080               Z80\z80InstructionSet.cs
+2017-04-20 16:25:40 ....A         4806               DirectX\DirectX.csproj
+2017-04-20 16:25:40 ....A         7674               Sharp80\Sharp80.csproj
+2017-04-20 16:25:40 ....A         5818               Sharp80Tests\Sharp80Tests.csproj
+2017-04-20 16:25:40 ....A         4691               trs80\TRS80.csproj
+2017-04-20 16:25:40 ....A         3528               Views\Views.csproj
+2017-04-20 16:25:40 ....A         3357               Z80\Z80.csproj
+2017-04-20 16:25:40 ....A         3442               Sharp80.sln
+2017-04-20 16:25:40 ....A        35141               license.txt
+2017-04-20 16:25:40 ....A         3909               Sharp80\app.config
+2017-04-20 16:25:40 ....A          142               trs80\packages.config
+2017-04-20 16:25:40 ....A          142               Views\packages.config
+2017-04-20 16:25:40 ....A          142               Z80\packages.config
+2017-04-20 16:25:40 ....A          301               Sharp80Tests\packages.config
+2017-04-20 16:25:40 ....A          754               DirectX\packages.config
+2017-04-20 16:25:40 ....A          901               Sharp80\packages.config
+2017-04-20 16:25:40 ....A         2518               .gitattributes
+2017-04-20 16:25:40 ....A         4305               .gitignore
+2017-04-20 16:25:40 ....A          187               ND Tests.playlist
+2017-04-20 16:25:40 ....A          739               Working Tests.playlist
+2017-04-20 16:25:40 ....A       246095               Sharp80\MainForm.resx
+2017-04-20 16:25:40 ....A         5496               Sharp80\Properties\Resources.resx
+2017-04-20 16:25:40 ....A         3287               Sharp80\Properties\Settings.settings
+2017-05-02 22:34:27 D....            0            0  Z80\Properties
+2017-05-02 22:34:27 D....            0            0  Z80
+2017-05-02 22:34:27 D....            0            0  Views\Properties
+2017-05-02 22:34:27 D....            0            0  Views
+2017-05-02 22:34:26 D....            0            0  trs80\Properties
+2017-05-02 22:34:27 D....            0            0  trs80
+2017-05-02 22:34:26 D....            0            0  Sharp80Tests\Properties
+2017-05-02 22:34:26 D....            0            0  Sharp80Tests
+2017-05-02 22:34:26 D....            0            0  Sharp80\Properties
+2017-05-02 22:34:26 D....            0            0  Sharp80
+2017-05-02 22:34:26 D....            0            0  DirectX\Properties
+2017-05-02 22:34:26 D....            0            0  DirectX
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 22:34:27            1512213       244219  154 files, 12 folders

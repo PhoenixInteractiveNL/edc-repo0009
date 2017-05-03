@@ -1,0 +1,42 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-04-16 14:50:40 ....A           24       742194  README.html
+2017-04-16 14:50:40 ....A        38649               CHANGES.txt
+2017-04-16 14:50:40 ....A        17099               LICENSE.txt
+2017-04-08 22:54:45 ....A          139               shaders\pixelate.shader\manifest.ini
+2017-04-08 22:54:45 ....A          177               shaders\agb001.shader\manifest.ini
+2017-04-08 22:54:45 ....A          230               shaders\wiiu.shader\manifest.ini
+2017-04-08 22:54:45 ....A          540               shaders\ags001.shader\manifest.ini
+2017-04-08 22:54:45 ....A          540               shaders\xbr-lv2.shader\manifest.ini
+2017-04-08 22:54:45 ....A          552               shaders\xbr-lv3.shader\manifest.ini
+2015-05-28 09:25:10 ....A        26940               third-party\LICENSE.blip-buf
+2017-04-16 06:37:07 ....A      3706358               nointro.dat
+2015-05-28 09:25:10 ....A        18092               third-party\LICENSE.ffmpeg
+2017-04-08 22:54:45 ....A          701               shaders\agb001.shader\agb001.fs
+2017-04-08 22:54:45 ....A          846               shaders\ags001.shader\ags001-light.fs
+2017-04-08 22:54:45 ....A          654               shaders\ags001.shader\ags001.fs
+2017-04-08 22:54:45 ....A         1131               shaders\wiiu.shader\wiiu.fs
+2017-04-08 22:54:45 ....A         6849               shaders\xbr-lv2.shader\xbr.fs
+2017-04-08 22:54:45 ....A         8992               shaders\xbr-lv3.shader\xbr.fs
+2015-05-28 09:25:10 ....A        12446               third-party\LICENSE.imagemagick
+2015-05-28 09:25:10 ....A         1569               third-party\LICENSE.inih
+2015-05-28 09:25:10 ....A        25284               third-party\LICENSE.lame
+2015-05-28 09:25:10 ....A         1537               third-party\LICENSE.libvpx
+2015-05-28 09:25:10 ....A         1928               third-party\LICENSE.opus
+2015-05-28 09:25:10 ....A        26530               third-party\LICENSE.qt5
+2015-05-28 09:25:10 ....A          930               third-party\LICENSE.sdl2
+2017-04-08 22:54:45 ....A         2177               shaders\xbr-lv2.shader\xbr.vs
+2017-04-08 22:54:45 ....A         2177               shaders\xbr-lv3.shader\xbr.vs
+2015-05-28 09:25:10 ....A        17992               third-party\LICENSE.x264
+2015-05-28 09:25:10 ....A        17987               third-party\LICENSE.xvid
+2017-04-16 10:02:49 ....A     32267792     10091911  medusa.exe
+2017-05-03 10:21:14 D....            0            0  third-party
+2017-05-03 10:21:14 D....            0            0  shaders\xbr-lv3.shader
+2017-05-03 10:21:14 D....            0            0  shaders\xbr-lv2.shader
+2017-05-03 10:21:14 D....            0            0  shaders\wiiu.shader
+2017-05-03 10:21:14 D....            0            0  shaders\pixelate.shader
+2017-05-03 10:21:14 D....            0            0  shaders\ags001.shader
+2017-05-03 10:21:14 D....            0            0  shaders\agb001.shader
+2017-05-03 10:21:14 D....            0            0  shaders
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 10:21:14           36206862     10834105  30 files, 8 folders

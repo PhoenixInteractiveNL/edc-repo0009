@@ -1,0 +1,15 @@
+24.55  [OS3.5+][Windows XP+][MOS?   ][OS4.0+]: Sun  9 Apr 2017.
+    Summary:
+        * Miscellaneous improvements and bug fixes.
+    Details:
+ incorporated Stefan's latest German translation.
+ fixed: German translation was wrongly encoded.
+ aa: fixed some MOS-related issues.
+ aa: fixed: high scores splash window fuelgauges weren't showing the
+  correct amounts.
+ interton: added knowledge about latest version of Flappy Birds.
+ incorporated Phantom's latest Greek translation.
+ ASM command: added support for (label)H and (label)L references.
+ aa: it no longer steals focus from main window when opening output
+  window.
+ tr: fixed: high scores were going into the wrong slots. 

@@ -1,0 +1,89 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-02-17 11:53:16 ....A        65590       565443  resource\fftwave.bmp
+2017-02-04 20:04:02 ....A        38516               resource\gmc-4.bmp
+2017-02-04 20:04:02 ....A         1590               resource\led.bmp
+2017-02-04 20:04:02 ....A       147512               resource\led_64x64x6.bmp
+2016-11-08 22:19:36 ....A        32768               bios\ALL8255.bin
+2017-02-04 20:04:02 ....A         4156               lang\ja\colecovision.ini
+2017-02-04 20:04:02 ....A         4338               lang\en-us\colecovision.ini
+2017-02-04 20:04:02 ....A         4388               lang\fr\colecovision.ini
+2017-02-04 20:04:02 ....A         4404               lang\de\colecovision.ini
+2017-02-17 10:45:46 ....A        12262               config\colecovision.ini
+2017-02-04 20:04:00 ....A         4700               config\gmc-4.ini
+2017-02-04 20:04:02 ....A          618               lang\ja\gmc-4.ini
+2017-02-04 20:04:02 ....A          858               lang\en-us\gmc-4.ini
+2017-02-04 20:04:02 ....A         1042               lang\de\gmc-4.ini
+2017-02-04 20:04:02 ....A         1066               lang\fr\gmc-4.ini
+2017-02-04 20:04:02 ....A         3028               lang\ja\hvc-001.ini
+2017-02-04 20:04:02 ....A         3976               lang\en-us\hvc-001.ini
+2017-02-04 20:04:02 ....A         4106               lang\fr\hvc-001.ini
+2017-02-04 20:04:02 ....A         4132               lang\de\hvc-001.ini
+2017-04-06 17:33:12 ....A        18186               config\hvc-001.ini
+2017-02-06 11:47:34 ....A         5196               config\mcs_basic-52.ini
+2017-02-04 20:04:02 ....A         1224               lang\ja\msx.ini
+2017-02-04 20:04:02 ....A         1398               lang\en-us\msx.ini
+2017-02-04 20:04:02 ....A         1488               lang\de\msx.ini
+2017-02-04 20:04:02 ....A         1582               lang\fr\msx.ini
+2017-02-17 11:23:50 ....A        14902               config\msx.ini
+2017-02-04 20:04:02 ....A          310               lang\ja\neogeopocket.ini
+2017-02-04 20:04:02 ....A          388               lang\en-us\neogeopocket.ini
+2017-02-04 20:04:02 ....A          402               lang\fr\neogeopocket.ini
+2017-02-04 20:04:02 ....A          408               lang\de\neogeopocket.ini
+2017-02-17 11:05:20 ....A        10346               config\neogeopocket.ini
+2017-02-17 11:05:24 ....A        15564               config\sc-3000.ini
+2017-02-04 20:04:02 ....A         1768               lang\ja\sg-1000.ini
+2017-02-04 20:04:02 ....A         2032               lang\en-us\sg-1000.ini
+2017-02-04 20:04:02 ....A         2186               lang\de\sg-1000.ini
+2017-02-04 20:04:02 ....A         2192               lang\fr\sg-1000.ini
+2017-02-17 11:05:30 ....A        12654               config\sg-1000.ini
+2017-02-04 20:04:00 ....A         5026               config\td4.ini
+2017-02-04 20:04:02 ....A          242               lang\ja\td4.ini
+2017-02-04 20:04:02 ....A          274               lang\en-us\td4.ini
+2017-02-04 20:04:02 ....A          312               lang\de\td4.ini
+2017-02-04 20:04:02 ....A          338               lang\fr\td4.ini
+2017-02-04 20:04:02 ....A          350               lang\ja\z80tvgame.ini
+2017-02-04 20:04:02 ....A          404               lang\en-us\z80tvgame.ini
+2017-02-04 20:04:02 ....A          498               lang\fr\z80tvgame.ini
+2017-02-04 20:04:02 ....A          510               lang\de\z80tvgame.ini
+2017-04-08 23:19:34 ....A         7902               config\z80tvgame.ini
+2017-03-31 17:34:34 ....A          453               resource\db\colecovision.csv
+2017-03-31 17:34:26 ....A        87341               resource\db\hvc-001.csv
+2017-03-31 17:34:32 ....A         6630               resource\db\msx.csv
+2017-03-31 17:34:32 ....A         9431               resource\db\segamark3.csv
+2017-02-06 12:07:38 ....A         4550               resource\symbol\8051.sym
+2017-02-06 12:06:42 ....A         5180               resource\symbol\8052.sym
+2017-02-06 10:23:24 ....A        13922               resource\symbol\ColecoVision.sym
+2017-04-09 18:23:50 ....A       413696               module\x86\cpu.vdmod
+2017-04-09 18:24:14 ....A       517632               module\x64\cpu.vdmod
+2017-04-09 18:23:44 ....A        73728               module\x86\filereader.vdmod
+2017-04-09 18:24:06 ....A        82432               module\x64\filereader.vdmod
+2017-04-09 18:23:44 ....A        94208               module\x86\imagegen.vdmod
+2017-04-09 18:24:06 ....A        98816               module\x64\imagegen.vdmod
+2017-04-09 18:23:44 ....A        81920               module\x86\peripheral.vdmod
+2017-04-09 18:24:08 ....A        82432               module\x64\peripheral.vdmod
+2017-04-09 18:23:50 ....A       208896               module\x86\platform.vdmod
+2017-04-09 18:24:16 ....A       260096               module\x64\platform.vdmod
+2017-04-09 18:23:44 ....A       102400               module\x86\soundgen.vdmod
+2017-04-09 18:24:06 ....A        97792               module\x64\soundgen.vdmod
+2017-04-09 18:23:56 ....A       667648       449885  vdmgr32.exe
+2017-04-09 18:24:22 ....A       850944               vdmgr64.exe
+2017-04-07 14:24:28 ....A        15360               lang\de\resource.dll
+2017-04-07 14:24:58 ....A        15872               lang\fr\resource.dll
+2017-04-09 18:23:48 ....A        12288               lang\ja\resource.dll
+2017-04-09 18:23:48 ....A        14336               lang\en-us\resource.dll
+2017-05-02 21:34:54 D....            0            0  resource\symbol
+2017-05-02 21:34:54 D....            0            0  resource\db
+2017-05-02 21:34:54 D....            0            0  resource
+2017-05-02 21:34:54 D....            0            0  module\x86
+2017-05-02 21:34:54 D....            0            0  module\x64
+2017-05-02 21:34:54 D....            0            0  module
+2017-05-02 21:34:54 D....            0            0  lang\ja
+2017-05-02 21:34:54 D....            0            0  lang\fr
+2017-05-02 21:34:54 D....            0            0  lang\en-us
+2017-05-02 21:34:54 D....            0            0  lang\de
+2017-05-02 21:34:54 D....            0            0  lang
+2017-05-02 21:34:54 D....            0            0  config
+2017-05-02 21:34:54 D....            0            0  bios
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 21:34:54            4265135      1015328  72 files, 13 folders

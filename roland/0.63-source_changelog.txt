@@ -1,0 +1,7 @@
+﻿0.63
+
+Change FileList; not finished yet
+Change some requirements for infinite scrolling
+Fix a typo
+Change changelog
+Fix format

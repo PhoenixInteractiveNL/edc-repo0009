@@ -1,0 +1,9 @@
+﻿0.66
+
+Add deb to package building
+Update README.md
+New bugfix release (#9)
+buildfix for windows
+New Changelog
+Current (#8)
+Fix segfault on start (#7)

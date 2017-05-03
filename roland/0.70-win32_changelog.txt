@@ -1,0 +1,13 @@
+﻿0.70
+
+Change package build and deployment
+Delete _config.yml
+Set theme jekyll-theme-cayman
+Update .travis.yml
+Update .travis.yml
+Speeding up travis.yml with cache
+Change doubleclick behaviour and fix FileList
+Add doubleclick for FileList
+Delete roland.exe
+Update .codeclimate.yml
+Change build

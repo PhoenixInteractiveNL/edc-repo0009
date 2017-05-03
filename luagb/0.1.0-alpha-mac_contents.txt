@@ -1,0 +1,282 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-04-09 22:39:46 ....A            1      3460882  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\love.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\physfs.framework\Versions\Current
+2017-04-09 22:39:48 ....A            1               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\Current
+2017-04-09 22:39:50 ....A            1               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\Current
+2017-04-09 22:39:50 ....A            1               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\Current
+2017-04-09 22:39:46 ....A           25               LuaGB.app\Contents\Frameworks\FreeType.framework\FreeType
+2017-04-09 22:39:46 ....A       699288               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\FreeType
+2017-04-09 22:39:46 ....A           24               LuaGB.app\Contents\Frameworks\FreeType.framework\Headers
+2017-04-09 22:39:46 ....A           24               LuaGB.app\Contents\Frameworks\libmodplug.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\Lua.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\mpg123.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\Ogg.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\physfs.framework\Headers
+2017-04-09 22:39:48 ....A           24               LuaGB.app\Contents\Frameworks\SDL2.framework\Headers
+2017-04-09 22:39:50 ....A           24               LuaGB.app\Contents\Frameworks\Theora.framework\Headers
+2017-04-09 22:39:50 ....A           24               LuaGB.app\Contents\Frameworks\Vorbis.framework\Headers
+2017-04-09 22:39:46 ....A           27               LuaGB.app\Contents\Frameworks\libmodplug.framework\libmodplug
+2017-04-09 22:39:48 ....A       297500               LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A\libmodplug
+2017-04-09 22:39:48 ....A           21               LuaGB.app\Contents\Frameworks\love.framework\love
+2017-04-09 22:39:48 ....A      2992596               LuaGB.app\Contents\Frameworks\love.framework\Versions\A\love
+2017-04-09 22:39:50 ....A        19936               LuaGB.app\Contents\MacOS\love
+2017-04-09 22:39:48 ....A           20               LuaGB.app\Contents\Frameworks\Lua.framework\Lua
+2017-04-09 22:39:48 ....A       532560               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Lua
+2017-04-09 22:39:48 ....A           23               LuaGB.app\Contents\Frameworks\mpg123.framework\mpg123
+2017-04-09 22:39:48 ....A       208972               LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A\mpg123
+2017-04-09 22:39:48 ....A           20               LuaGB.app\Contents\Frameworks\Ogg.framework\Ogg
+2017-04-09 22:39:48 ....A        28872               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Ogg
+2017-04-09 22:39:48 ....A           28               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\OpenAL-Soft
+2017-04-09 22:39:48 ....A       528016               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\OpenAL-Soft
+2017-04-09 22:39:48 ....A           23               LuaGB.app\Contents\Frameworks\physfs.framework\physfs
+2017-04-09 22:39:48 ....A       136592               LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\physfs
+2017-04-09 22:39:46 ....A            8               LuaGB.app\Contents\PkgInfo
+2017-04-09 22:39:46 ....A           26               LuaGB.app\Contents\Frameworks\FreeType.framework\Resources
+2017-04-09 22:39:46 ....A           26               LuaGB.app\Contents\Frameworks\libmodplug.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\love.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\Lua.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\mpg123.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\Ogg.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\physfs.framework\Resources
+2017-04-09 22:39:48 ....A           26               LuaGB.app\Contents\Frameworks\SDL2.framework\Resources
+2017-04-09 22:39:50 ....A           26               LuaGB.app\Contents\Frameworks\Theora.framework\Resources
+2017-04-09 22:39:50 ....A           26               LuaGB.app\Contents\Frameworks\Vorbis.framework\Resources
+2017-04-09 22:39:48 ....A           21               LuaGB.app\Contents\Frameworks\SDL2.framework\SDL2
+2017-04-09 22:39:48 ....A      1032728               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\SDL2
+2017-04-09 22:39:50 ....A           23               LuaGB.app\Contents\Frameworks\Theora.framework\Theora
+2017-04-09 22:39:50 ....A       232252               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Theora
+2017-04-09 22:39:50 ....A           23               LuaGB.app\Contents\Frameworks\Vorbis.framework\Vorbis
+2017-04-09 22:39:50 ....A       926972               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Vorbis
+2017-04-09 22:39:48 ....A        25513               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\al.h
+2017-04-09 22:39:48 ....A         8567               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\alc.h
+2017-04-09 22:39:48 ....A        18344               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\alext.h
+2017-04-09 22:39:48 ....A         4182               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\begin_code.h
+2017-04-09 22:39:48 ....A         1417               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\close_code.h
+2017-04-09 22:39:50 ....A         8449               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Headers\codec.h
+2017-04-09 22:39:50 ....A        25695               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Headers\codec.h
+2017-04-09 22:39:48 ....A          180               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\efx-creative.h
+2017-04-09 22:39:48 ....A        35480               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\efx-presets.h
+2017-04-09 22:39:48 ....A        33968               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers\efx.h
+2017-04-09 22:39:46 ....A       272396               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\freetype.h
+2017-04-09 22:39:46 ....A         2392               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ft2build.h
+2017-04-09 22:39:46 ....A        10645               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftadvanc.h
+2017-04-09 22:39:46 ....A        18619               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftautoh.h
+2017-04-09 22:39:46 ....A         5244               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftbbox.h
+2017-04-09 22:39:46 ....A         6802               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftbdf.h
+2017-04-09 22:39:46 ....A        14704               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftbitmap.h
+2017-04-09 22:39:46 ....A         4308               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftbzip2.h
+2017-04-09 22:39:46 ....A        57527               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftcache.h
+2017-04-09 22:39:46 ....A        10141               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftcffdrv.h
+2017-04-09 22:39:46 ....A         9529               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftchapters.h
+2017-04-09 22:39:46 ....A         5659               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftcid.h
+2017-04-09 22:39:46 ....A        18801               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config\ftconfig.h
+2017-04-09 22:39:46 ....A        14310               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\fterrdef.h
+2017-04-09 22:39:46 ....A        10626               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\fterrors.h
+2017-04-09 22:39:46 ....A         4973               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftfntfmt.h
+2017-04-09 22:39:46 ....A         4505               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftgasp.h
+2017-04-09 22:39:46 ....A        38694               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftglyph.h
+2017-04-09 22:39:46 ....A        13408               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftgxval.h
+2017-04-09 22:39:46 ....A         5636               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftgzip.h
+2017-04-09 22:39:46 ....A        26153               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config\ftheader.h
+2017-04-09 22:39:46 ....A        76472               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftimage.h
+2017-04-09 22:39:46 ....A        11407               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftincrem.h
+2017-04-09 22:39:46 ....A        11703               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftlcdfil.h
+2017-04-09 22:39:46 ....A        16763               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftlist.h
+2017-04-09 22:39:46 ....A         4257               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftlzw.h
+2017-04-09 22:39:46 ....A        17098               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftmac.h
+2017-04-09 22:39:46 ....A        23481               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftmm.h
+2017-04-09 22:39:46 ....A        35142               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftmodapi.h
+2017-04-09 22:39:46 ....A        10426               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftmoderr.h
+2017-04-09 22:39:46 ....A         1399               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config\ftmodule.h
+2017-04-09 22:39:46 ....A        56730               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config\ftoption.h
+2017-04-09 22:39:46 ....A         7584               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftotval.h
+2017-04-09 22:39:46 ....A        35124               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftoutln.h
+2017-04-09 22:39:46 ....A         6290               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftpfr.h
+2017-04-09 22:39:46 ....A        11328               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftrender.h
+2017-04-09 22:39:46 ....A         9561               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftsizes.h
+2017-04-09 22:39:46 ....A        11179               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftsnames.h
+2017-04-09 22:39:46 ....A         7321               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config\ftstdlib.h
+2017-04-09 22:39:46 ....A        22311               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftstroke.h
+2017-04-09 22:39:46 ....A         4132               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftsynth.h
+2017-04-09 22:39:46 ....A        10564               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftsystem.h
+2017-04-09 22:39:46 ....A         8433               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\fttrigon.h
+2017-04-09 22:39:46 ....A        14307               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftttdrv.h
+2017-04-09 22:39:46 ....A        35690               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\fttypes.h
+2017-04-09 22:39:46 ....A        10411               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ftwinfnt.h
+2017-04-09 22:39:48 ....A         6006               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\lauxlib.h
+2017-04-09 22:39:48 ....A        11964               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\lua.h
+2017-04-09 22:39:48 ....A         4762               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\luaconf.h
+2017-04-09 22:39:48 ....A         2573               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\luajit.h
+2017-04-09 22:39:48 ....A         1113               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\lualib.h
+2017-04-09 22:39:48 ....A         6808               LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A\Headers\modplug.h
+2017-04-09 22:39:48 ....A        62194               LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A\Headers\mpg123.h
+2017-04-09 22:39:48 ....A         8433               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Headers\ogg.h
+2017-04-09 22:39:48 ....A         4271               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Headers\os_types.h
+2017-04-09 22:39:48 ....A        93749               LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Headers\physfs.h
+2017-04-09 22:39:48 ....A         4101               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL.h
+2017-04-09 22:39:48 ....A        10860               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_assert.h
+2017-04-09 22:39:48 ....A         9458               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_atomic.h
+2017-04-09 22:39:48 ....A        28133               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_audio.h
+2017-04-09 22:39:48 ....A         2527               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_bits.h
+2017-04-09 22:39:48 ....A         2252               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_blendmode.h
+2017-04-09 22:39:48 ....A         1966               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_clipboard.h
+2017-04-09 22:39:48 ....A         1782               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_config.h
+2017-04-09 22:39:48 ....A         5492               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_config_macosx.h
+2017-04-09 22:39:48 ....A          939               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_copying.h
+2017-04-09 22:39:48 ....A         4181               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_cpuinfo.h
+2017-04-09 22:39:48 ....A         5944               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_endian.h
+2017-04-09 22:39:48 ....A         2271               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_error.h
+2017-04-09 22:39:48 ....A        28067               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_events.h
+2017-04-09 22:39:48 ....A         5255               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_filesystem.h
+2017-04-09 22:39:48 ....A        10824               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_gamecontroller.h
+2017-04-09 22:39:48 ....A         2157               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_gesture.h
+2017-04-09 22:39:48 ....A        38621               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_haptic.h
+2017-04-09 22:39:48 ....A        32393               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_hints.h
+2017-04-09 22:39:48 ....A         8803               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_joystick.h
+2017-04-09 22:39:48 ....A         6437               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_keyboard.h
+2017-04-09 22:39:48 ....A        14847               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_keycode.h
+2017-04-09 22:39:48 ....A         2866               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_loadso.h
+2017-04-09 22:39:48 ....A         6483               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_log.h
+2017-04-09 22:39:48 ....A         4595               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_main.h
+2017-04-09 22:39:48 ....A         4611               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_messagebox.h
+2017-04-09 22:39:48 ....A        10922               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_mouse.h
+2017-04-09 22:39:48 ....A         6665               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_mutex.h
+2017-04-09 22:39:48 ....A         1158               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_name.h
+2017-04-09 22:39:48 ....A        82372               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengl.h
+2017-04-09 22:39:48 ....A         1254               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles.h
+2017-04-09 22:39:48 ....A         1552               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles2.h
+2017-04-09 22:39:48 ....A        31876               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles2_gl2.h
+2017-04-09 22:39:48 ....A        98695               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles2_gl2ext.h
+2017-04-09 22:39:48 ....A          913               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles2_gl2platform.h
+2017-04-09 22:39:48 ....A        10022               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengles2_khrplatform.h
+2017-04-09 22:39:48 ....A       731497               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_opengl_glext.h
+2017-04-09 22:39:48 ....A        17031               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_pixels.h
+2017-04-09 22:39:48 ....A         4917               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_platform.h
+2017-04-09 22:39:48 ....A         2463               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_power.h
+2017-04-09 22:39:48 ....A         2106               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_quit.h
+2017-04-09 22:39:48 ....A         4445               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_rect.h
+2017-04-09 22:39:48 ....A        34464               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_render.h
+2017-04-09 22:39:48 ....A           71               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_revision.h
+2017-04-09 22:39:48 ....A         7242               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_rwops.h
+2017-04-09 22:39:48 ....A        14946               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_scancode.h
+2017-04-09 22:39:50 ....A         5688               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_shape.h
+2017-04-09 22:39:50 ....A        18226               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_stdinc.h
+2017-04-09 22:39:50 ....A        19156               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_surface.h
+2017-04-09 22:39:50 ....A         7583               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_system.h
+2017-04-09 22:39:50 ....A         8847               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_syswm.h
+2017-04-09 22:39:50 ....A        10111               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_thread.h
+2017-04-09 22:39:50 ....A         3454               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_timer.h
+2017-04-09 22:39:50 ....A         2335               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_touch.h
+2017-04-09 22:39:50 ....A         1031               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_types.h
+2017-04-09 22:39:50 ....A         5161               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_version.h
+2017-04-09 22:39:50 ....A        43855               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers\SDL_video.h
+2017-04-09 22:39:46 ....A        35039               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\t1tables.h
+2017-04-09 22:39:50 ....A        33293               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Headers\theora.h
+2017-04-09 22:39:50 ....A        15877               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Headers\theoradec.h
+2017-04-09 22:39:50 ....A        25309               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Headers\theoraenc.h
+2017-04-09 22:39:46 ....A        61402               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ttnameid.h
+2017-04-09 22:39:46 ....A        44393               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\tttables.h
+2017-04-09 22:39:46 ....A         5214               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\tttags.h
+2017-04-09 22:39:46 ....A         2231               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\ttunpat.h
+2017-04-09 22:39:50 ....A        17056               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Headers\vorbisenc.h
+2017-04-09 22:39:50 ....A         8057               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Headers\vorbisfile.h
+2017-04-09 22:39:48 ....A          135               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers\lua.hpp
+2017-04-09 22:39:50 ....A        49753               LuaGB.app\Contents\Resources\license.txt
+2017-04-09 22:39:50 ....A       412051               LuaGB.app\Contents\Resources\GameIcon.icns
+2017-04-09 22:39:50 ....A       502481               LuaGB.app\Contents\Resources\OS X AppIcon.icns
+2017-04-09 23:36:46 ....A        97397               LuaGB.app\Contents\Resources\LuaGB.love
+2017-04-09 22:39:46 ....A         1214               LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1096               LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1113               LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1149               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1163               LuaGB.app\Contents\Frameworks\love.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1236               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1243               LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:48 ....A         1359               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:50 ....A         1314               LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:50 ....A         1371               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Resources\Info.plist
+2017-04-09 22:39:50 ....A         1471               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Resources\Info.plist
+2017-04-09 23:27:22 ....A         2620               LuaGB.app\Contents\Info.plist
+2017-04-09 22:39:48 ....A           92               LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Resources\en.lproj\InfoPlist.strings
+2017-04-09 22:39:48 ....A           92               LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Resources\en.lproj\InfoPlist.strings
+2017-04-09 22:39:48 ....A           92               LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Resources\en.lproj\InfoPlist.strings
+2017-04-09 22:39:48 ....A          136               LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Resources\English.lproj\InfoPlist.strings
+2017-04-09 22:39:50 ....A          142               LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Resources\English.lproj\InfoPlist.strings
+2017-04-09 22:39:50 ....A          142               LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Resources\English.lproj\InfoPlist.strings
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\MacOS
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Resources\English.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Vorbis.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Resources\English.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Theora.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\SDL2.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\SDL2.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\SDL2.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Resources\en.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\physfs.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Resources\en.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\OpenAL-Soft.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Resources\English.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Ogg.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\mpg123.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\mpg123.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\mpg123.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Resources\en.lproj
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\Lua.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\love.framework\Versions\A\Resources
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\love.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\love.framework\Versions
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\love.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A\Resources
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A\Headers
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions\A
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks\libmodplug.framework\Versions
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\libmodplug.framework
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Resources
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers\config
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A\Headers
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions\A
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework\Versions
+2017-05-02 20:53:27 D....            0            0  LuaGB.app\Contents\Frameworks\FreeType.framework
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents\Frameworks
+2017-05-02 20:53:28 D....            0            0  LuaGB.app\Contents
+2017-05-02 20:53:27 D....            0            0  LuaGB.app
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 20:53:28           11777592      3460882  212 files, 66 folders

@@ -1,0 +1,1460 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-04-30 15:19:18 ....A         3288      5381940  mgba-medusa\src\third-party\libpng\ANNOUNCE
+2017-04-30 15:19:18 ....A         8485               mgba-medusa\src\third-party\zlib\as400\bndsrc
+2017-04-30 15:19:18 ....A          163               mgba-medusa\tools\debian\changelog
+2017-04-30 15:19:18 ....A        76402               mgba-medusa\src\third-party\zlib\ChangeLog
+2017-04-30 15:19:18 ....A        40545               mgba-medusa\CHANGES
+2017-04-30 15:19:18 ....A       261179               mgba-medusa\src\third-party\libpng\CHANGES
+2017-04-30 15:19:18 ....A         3966               mgba-medusa\src\third-party\libpng\contrib\tools\chkfmt
+2017-04-30 15:19:18 ....A           52               mgba-medusa\tools\debian\clean
+2017-04-30 15:19:18 ....A            2               mgba-medusa\tools\debian\compat
+2017-04-30 15:19:18 ....A         7333               mgba-medusa\src\third-party\libpng\compile
+2017-04-30 15:19:18 ....A        26082               mgba-medusa\src\third-party\zlib\configure
+2017-04-30 15:19:18 ....A       473290               mgba-medusa\src\third-party\libpng\configure
+2017-04-30 15:19:18 ....A         2965               mgba-medusa\tools\debian\control
+2017-04-30 15:19:18 ....A        18097               mgba-medusa\src\third-party\libpng\contrib\gregbook\COPYING
+2017-04-30 15:19:18 ....A        22619               mgba-medusa\tools\debian\copyright
+2017-04-30 15:19:18 ....A        23566               mgba-medusa\src\third-party\libpng\depcomp
+2017-04-30 15:19:18 ....A           18               mgba-medusa\tools\debian\docs
+2017-04-30 15:19:18 ....A        16573               mgba-medusa\src\third-party\zlib\FAQ
+2017-04-30 15:19:18 ....A           12               mgba-medusa\tools\debian\source\format
+2017-04-30 15:19:18 ....A         1988               mgba-medusa\src\third-party\zlib\INDEX
+2017-04-30 15:19:18 ....A        18106               mgba-medusa\src\third-party\libpng\INSTALL
+2017-04-30 15:19:18 ....A        14675               mgba-medusa\src\third-party\libpng\install-sh
+2017-04-30 15:19:18 ....A         2373               mgba-medusa\src\third-party\libpng\contrib\gregbook\LICENSE
+2017-04-30 15:19:18 ....A         4197               mgba-medusa\src\third-party\libpng\LICENSE
+2017-04-30 15:19:18 ....A        16726               mgba-medusa\LICENSE
+2017-04-30 15:19:18 ....A          100               mgba-medusa\src\third-party\zlib\Makefile
+2017-04-30 15:19:18 ....A          127               mgba-medusa\src\third-party\zlib\contrib\blast\Makefile
+2017-04-30 15:19:18 ....A          234               mgba-medusa\src\third-party\zlib\contrib\untgz\Makefile
+2017-04-30 15:19:18 ....A          430               mgba-medusa\src\third-party\lzma\Util\Lzma\makefile
+2017-04-30 15:19:18 ....A          457               mgba-medusa\src\third-party\zlib\contrib\minizip\Makefile
+2017-04-30 15:19:18 ....A          563               mgba-medusa\src\third-party\lzma\Util\LzmaLib\makefile
+2017-04-30 15:19:18 ....A          567               mgba-medusa\src\third-party\lzma\Util\SfxSetup\makefile
+2017-04-30 15:19:18 ....A          678               mgba-medusa\src\third-party\lzma\Util\7z\makefile
+2017-04-30 15:19:18 ....A         1899               mgba-medusa\src\third-party\zlib\contrib\puff\Makefile
+2017-04-30 15:19:18 ....A         3595               mgba-medusa\src\third-party\libpng\contrib\pngminim\decoder\makefile
+2017-04-30 15:19:18 ....A         3600               mgba-medusa\src\third-party\libpng\contrib\pngminim\encoder\makefile
+2017-04-30 15:19:18 ....A         4171               mgba-medusa\src\third-party\libpng\contrib\pngminim\preader\makefile
+2017-04-30 15:19:18 ....A         4741               mgba-medusa\src\third-party\zlib\nintendods\Makefile
+2017-04-30 15:19:18 ....A          601               mgba-medusa\src\third-party\lzma\Util\SfxSetup\makefile_con
+2017-04-30 15:19:18 ....A         6872               mgba-medusa\src\third-party\libpng\missing
+2017-04-30 15:19:18 ....A           80               mgba-medusa\src\third-party\libpng\tests\pngimage-full
+2017-04-30 15:19:18 ....A           67               mgba-medusa\src\third-party\libpng\tests\pngimage-quick
+2017-04-30 15:19:18 ....A          335               mgba-medusa\src\third-party\libpng\tests\pngstest
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-0g01
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-0g02
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-0g04
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-0g08
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-0g16
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-2c08
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-2c16
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-3p01
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-3p02
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-3p04
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-3p08
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-4a08
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-4a16
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-6a08
+2017-04-30 15:19:18 ....A           47               mgba-medusa\src\third-party\libpng\tests\pngstest-6a16
+2017-04-30 15:19:18 ....A          327               mgba-medusa\src\third-party\libpng\tests\pngstest-error
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\tests\pngtest
+2017-04-30 15:19:18 ....A           68               mgba-medusa\src\third-party\libpng\tests\pngunknown-discard
+2017-04-30 15:19:18 ....A           78               mgba-medusa\src\third-party\libpng\tests\pngunknown-IDAT
+2017-04-30 15:19:18 ....A           68               mgba-medusa\src\third-party\libpng\tests\pngunknown-if-safe
+2017-04-30 15:19:18 ....A          124               mgba-medusa\src\third-party\libpng\tests\pngunknown-sAPI
+2017-04-30 15:19:18 ....A           65               mgba-medusa\src\third-party\libpng\tests\pngunknown-save
+2017-04-30 15:19:18 ....A           65               mgba-medusa\src\third-party\libpng\tests\pngunknown-sTER
+2017-04-30 15:19:18 ....A           65               mgba-medusa\src\third-party\libpng\tests\pngunknown-vpAg
+2017-04-30 15:19:18 ....A           42               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-16-to-8
+2017-04-30 15:19:18 ....A           45               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-alpha-mode
+2017-04-30 15:19:18 ....A           45               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-background
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-expand16-alpha-mode
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-expand16-background
+2017-04-30 15:19:18 ....A           55               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-expand16-transform
+2017-04-30 15:19:18 ....A           39               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-sbit
+2017-04-30 15:19:18 ....A           44               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-threshold
+2017-04-30 15:19:18 ....A           44               mgba-medusa\src\third-party\libpng\tests\pngvalid-gamma-transform
+2017-04-30 15:19:18 ....A           52               mgba-medusa\src\third-party\libpng\tests\pngvalid-progressive-interlace-size
+2017-04-30 15:19:18 ....A           68               mgba-medusa\src\third-party\libpng\tests\pngvalid-progressive-interlace-standard
+2017-04-30 15:19:18 ....A           38               mgba-medusa\src\third-party\libpng\tests\pngvalid-progressive-interlace-transform
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\tests\pngvalid-progressive-standard
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\tests\pngvalid-standard
+2017-04-30 15:19:18 ....A           51               mgba-medusa\src\third-party\zlib\contrib\infback9\README
+2017-04-30 15:19:18 ....A           74               mgba-medusa\src\third-party\zlib\contrib\blast\README
+2017-04-30 15:19:18 ....A          133               mgba-medusa\src\third-party\zlib\old\README
+2017-04-30 15:19:18 ....A          209               mgba-medusa\src\third-party\zlib\nintendods\README
+2017-04-30 15:19:18 ....A          213               mgba-medusa\src\third-party\libpng\contrib\pngminim\README
+2017-04-30 15:19:18 ....A          342               mgba-medusa\src\third-party\libpng\contrib\pngminim\encoder\README
+2017-04-30 15:19:18 ....A          353               mgba-medusa\src\third-party\libpng\contrib\pngminim\decoder\README
+2017-04-30 15:19:18 ....A          481               mgba-medusa\src\third-party\libpng\contrib\pngminim\preader\README
+2017-04-30 15:19:18 ....A         1490               mgba-medusa\src\third-party\zlib\contrib\iostream3\README
+2017-04-30 15:19:18 ....A         1882               mgba-medusa\src\third-party\libpng\contrib\conftest\README
+2017-04-30 15:19:18 ....A         3076               mgba-medusa\src\third-party\zlib\contrib\puff\README
+2017-04-30 15:19:18 ....A         3454               mgba-medusa\src\third-party\libpng\contrib\arm-neon\README
+2017-04-30 15:19:18 ....A         3669               mgba-medusa\src\third-party\libpng\contrib\pngsuite\README
+2017-04-30 15:19:18 ....A         5185               mgba-medusa\src\third-party\zlib\README
+2017-04-30 15:19:18 ....A         5988               mgba-medusa\src\third-party\libpng\contrib\pngminus\README
+2017-04-30 15:19:18 ....A         7847               mgba-medusa\src\third-party\libpng\contrib\gregbook\README
+2017-04-30 15:19:18 ....A        11254               mgba-medusa\src\third-party\libpng\README
+2017-04-30 15:19:18 ....A          935               mgba-medusa\tools\debian\rules
+2017-04-30 15:19:18 ....A         4640               mgba-medusa\src\third-party\libpng\test-driver
+2017-04-30 15:19:18 ....A          491               mgba-medusa\src\third-party\zlib\contrib\iostream3\TODO
+2017-04-30 15:19:18 ....A         1201               mgba-medusa\src\third-party\libpng\TODO
+2017-04-30 15:19:18 ....A          851               mgba-medusa\src\third-party\libpng\projects\vstudio\WARNING
+2017-04-30 15:19:18 ....A          137               mgba-medusa\tools\debian\watch
+2017-04-30 15:19:18 ....A         3895               mgba-medusa\src\third-party\zlib\zlib2ansi
+2017-04-30 15:19:18 ....A       235844               mgba-medusa\src\platform\3ds\bios.wav
+2017-04-30 15:19:18 ....A        72726               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib.chm
+2017-04-30 15:19:18 ....A       205183               mgba-medusa\res\medusa-bg.jpg
+2017-04-30 15:19:18 ....A         2498               mgba-medusa\src\third-party\libpng\pngbar.jpg
+2017-04-30 15:19:18 ....A        60979               mgba-medusa\src\platform\psp2\backdrop.png
+2017-04-30 15:19:18 ....A          164               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn0g01.png
+2017-04-30 15:19:18 ....A          104               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn0g02.png
+2017-04-30 15:19:18 ....A          145               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn0g04.png
+2017-04-30 15:19:18 ....A          138               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn0g08.png
+2017-04-30 15:19:18 ....A          167               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn0g16.png
+2017-04-30 15:19:18 ....A          145               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn2c08.png
+2017-04-30 15:19:18 ....A          302               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn2c16.png
+2017-04-30 15:19:18 ....A          112               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn3p01.png
+2017-04-30 15:19:18 ....A          146               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn3p02.png
+2017-04-30 15:19:18 ....A          216               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn3p04.png
+2017-04-30 15:19:18 ....A         1286               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn3p08.png
+2017-04-30 15:19:18 ....A          126               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn4a08.png
+2017-04-30 15:19:18 ....A         2206               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn4a16.png
+2017-04-30 15:19:18 ....A          184               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn6a08.png
+2017-04-30 15:19:18 ....A         3435               mgba-medusa\src\third-party\libpng\contrib\pngsuite\basn6a16.png
+2017-04-30 15:19:18 ....A        22936               mgba-medusa\src\platform\psp2\bg.png
+2017-04-30 15:19:18 ....A         1408               mgba-medusa\res\font.png
+2017-04-30 15:19:18 ....A         3278               mgba-medusa\res\font2x.png
+2017-04-30 15:19:18 ....A          176               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbbn0g01.png
+2017-04-30 15:19:18 ....A          197               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbbn0g02.png
+2017-04-30 15:19:18 ....A          429               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbbn0g04.png
+2017-04-30 15:19:18 ....A         2041               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbbn2c16.png
+2017-04-30 15:19:18 ....A         1499               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbbn3p08.png
+2017-04-30 15:19:18 ....A         2041               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbgn2c16.png
+2017-04-30 15:19:18 ....A         1499               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbgn3p08.png
+2017-04-30 15:19:18 ....A         1633               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbrn2c08.png
+2017-04-30 15:19:18 ....A         1313               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbwn0g16.png
+2017-04-30 15:19:18 ....A         1496               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbwn3p08.png
+2017-04-30 15:19:18 ....A         1499               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftbyn3p08.png
+2017-04-30 15:19:18 ....A          719               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftp0n0g08.png
+2017-04-30 15:19:18 ....A         1594               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftp0n2c08.png
+2017-04-30 15:19:18 ....A         1476               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftp0n3p08.png
+2017-04-30 15:19:18 ....A         1483               mgba-medusa\src\third-party\libpng\contrib\pngsuite\ftp1n3p08.png
+2017-04-30 15:19:18 ....A         8480               mgba-medusa\src\platform\wii\icon.png
+2017-04-30 15:19:18 ....A         5573               mgba-medusa\src\platform\psp2\icon0.png
+2017-04-30 15:19:18 ....A          402               mgba-medusa\res\icons.png
+2017-04-30 15:19:18 ....A          716               mgba-medusa\res\icons2x.png
+2017-04-30 15:19:18 ....A       274514               mgba-medusa\res\medusa-emu-1024.png
+2017-04-30 15:19:18 ....A        10126               mgba-medusa\res\medusa-emu-128.png
+2017-04-30 15:19:18 ....A         1591               mgba-medusa\res\medusa-emu-16.png
+2017-04-30 15:19:18 ....A         1953               mgba-medusa\res\medusa-emu-24.png
+2017-04-30 15:19:18 ....A        25449               mgba-medusa\res\medusa-emu-256.png
+2017-04-30 15:19:18 ....A         2342               mgba-medusa\res\medusa-emu-32.png
+2017-04-30 15:19:18 ....A         3441               mgba-medusa\res\medusa-emu-48.png
+2017-04-30 15:19:18 ....A        77659               mgba-medusa\res\medusa-emu-512.png
+2017-04-30 15:19:18 ....A         4633               mgba-medusa\res\medusa-emu-64.png
+2017-04-30 15:19:18 ....A         7181               mgba-medusa\res\medusa-emu-96.png
+2017-04-30 15:19:18 ....A         1365               mgba-medusa\res\mgba-24.png
+2017-04-30 15:19:18 ....A        45782               mgba-medusa\src\platform\psp2\pic0.png
+2017-04-30 15:19:18 ....A         2399               mgba-medusa\src\third-party\libpng\pngbar.png
+2017-04-30 15:19:18 ....A         2069               mgba-medusa\src\third-party\libpng\pngnow.png
+2017-04-30 15:19:18 ....A         8695               mgba-medusa\src\third-party\libpng\pngtest.png
+2017-04-30 15:19:18 ....A          313               mgba-medusa\src\platform\psp2\startup.png
+2017-04-30 15:19:18 ....A        12901               mgba-medusa\src\third-party\libpng\contrib\gregbook\toucan.png
+2017-04-30 15:19:18 ....A          208               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.png
+2017-04-30 15:19:18 ....A        49238               mgba-medusa\res\medusa-emu.ico
+2017-04-30 15:19:18 ....A         1078               mgba-medusa\src\third-party\lzma\Util\SfxSetup\setup.ico
+2017-04-30 15:19:18 ....A          766               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.ico
+2017-04-30 15:19:18 ....A        20264               mgba-medusa\res\keymap.svg
+2017-04-30 15:19:18 ....A         6310               mgba-medusa\CONTRIBUTING.md
+2017-04-30 15:19:18 ....A         1560               mgba-medusa\PORTING.md
+2017-04-30 15:19:18 ....A         4812               mgba-medusa\src\third-party\inih\README.md
+2017-04-30 15:19:18 ....A         9309               mgba-medusa\README.md
+2017-04-30 15:19:18 ....A        27886               mgba-medusa\src\third-party\zlib\as400\zlib.inc
+2017-04-30 15:19:18 ....A          451               mgba-medusa\include\mgba-util\platform\3ds\3ds-vfs.h
+2017-04-30 15:19:18 ....A         5263               mgba-medusa\src\third-party\lzma\7z.h
+2017-04-30 15:19:18 ....A          403               mgba-medusa\src\third-party\lzma\7zAlloc.h
+2017-04-30 15:19:18 ....A          647               mgba-medusa\src\third-party\lzma\7zBuf.h
+2017-04-30 15:19:18 ....A          637               mgba-medusa\src\third-party\lzma\7zCrc.h
+2017-04-30 15:19:18 ....A         1581               mgba-medusa\src\third-party\lzma\7zFile.h
+2017-04-30 15:19:18 ....A         5737               mgba-medusa\src\third-party\lzma\7zTypes.h
+2017-04-30 15:19:18 ....A          582               mgba-medusa\src\third-party\lzma\7zVersion.h
+2017-04-30 15:19:18 ....A          511               mgba-medusa\src\platform\qt\AboutScreen.h
+2017-04-30 15:19:18 ....A         1364               mgba-medusa\src\third-party\lzma\Aes.h
+2017-04-30 15:19:18 ....A          675               mgba-medusa\src\third-party\lzma\Alloc.h
+2017-04-30 15:19:18 ....A          640               mgba-medusa\src\platform\qt\ArchiveInspector.h
+2017-04-30 15:19:18 ....A          528               mgba-medusa\include\mgba-util\arm-algo.h
+2017-04-30 15:19:18 ....A         6767               mgba-medusa\include\mgba\internal\arm\arm.h
+2017-04-30 15:19:18 ....A          892               mgba-medusa\src\platform\qt\AssetTile.h
+2017-04-30 15:19:18 ....A         1005               mgba-medusa\src\platform\qt\AssetView.h
+2017-04-30 15:19:18 ....A         2347               mgba-medusa\include\mgba\internal\ds\audio.h
+2017-04-30 15:19:18 ....A         3827               mgba-medusa\include\mgba\internal\gba\audio.h
+2017-04-30 15:19:18 ....A         6520               mgba-medusa\include\mgba\internal\gb\audio.h
+2017-04-30 15:19:18 ....A          760               mgba-medusa\src\platform\qt\AudioDevice.h
+2017-04-30 15:19:18 ....A         1176               mgba-medusa\src\platform\qt\AudioProcessor.h
+2017-04-30 15:19:18 ....A          952               mgba-medusa\src\platform\qt\AudioProcessorQt.h
+2017-04-30 15:19:18 ....A          943               mgba-medusa\src\platform\qt\AudioProcessorSDL.h
+2017-04-30 15:19:18 ....A         3287               mgba-medusa\src\third-party\lzma\Bcj2.h
+2017-04-30 15:19:18 ....A          677               mgba-medusa\include\mgba\internal\gba\bios.h
+2017-04-30 15:19:18 ....A          720               mgba-medusa\include\mgba\internal\ds\bios.h
+2017-04-30 15:19:18 ....A         3433               mgba-medusa\src\third-party\zlib\contrib\blast\blast.h
+2017-04-30 15:19:18 ....A         2652               mgba-medusa\include\mgba\core\blip_buf.h
+2017-04-30 15:19:18 ....A         1926               mgba-medusa\src\third-party\lzma\Bra.h
+2017-04-30 15:19:18 ....A        10244               mgba-medusa\src\third-party\libpng\contrib\visupng\cexcept.h
+2017-04-30 15:19:18 ....A          836               mgba-medusa\include\mgba\internal\gb\cheats.h
+2017-04-30 15:19:18 ....A         2543               mgba-medusa\include\mgba\core\cheats.h
+2017-04-30 15:19:18 ....A         4152               mgba-medusa\include\mgba\internal\gba\cheats.h
+2017-04-30 15:19:18 ....A         1560               mgba-medusa\src\platform\qt\CheatsModel.h
+2017-04-30 15:19:18 ....A          848               mgba-medusa\src\platform\qt\CheatsView.h
+2017-04-30 15:19:18 ....A         1445               mgba-medusa\include\mgba-util\circle-buffer.h
+2017-04-30 15:19:18 ....A          463               mgba-medusa\include\mgba\internal\arm\debugger\cli-debugger.h
+2017-04-30 15:19:18 ....A          475               mgba-medusa\include\mgba\internal\lr35902\debugger\cli-debugger.h
+2017-04-30 15:19:18 ....A         2804               mgba-medusa\include\mgba\internal\debugger\cli-debugger.h
+2017-04-30 15:19:18 ....A          620               mgba-medusa\src\feature\editline\cli-el-backend.h
+2017-04-30 15:19:18 ....A          581               mgba-medusa\include\mgba\internal\gb\extra\cli.h
+2017-04-30 15:19:18 ....A          592               mgba-medusa\include\mgba\internal\ds\extra\cli.h
+2017-04-30 15:19:18 ....A          597               mgba-medusa\include\mgba\internal\gba\extra\cli.h
+2017-04-30 15:19:18 ....A         1455               mgba-medusa\src\feature\commandline.h
+2017-04-30 15:19:18 ....A         6969               mgba-medusa\include\mgba-util\common.h
+2017-04-30 15:19:18 ....A         1168               mgba-medusa\src\third-party\lzma\Compiler.h
+2017-04-30 15:19:18 ....A         3813               mgba-medusa\include\mgba\core\config.h
+2017-04-30 15:19:18 ....A         3004               mgba-medusa\src\platform\qt\ConfigController.h
+2017-04-30 15:19:18 ....A         1908               mgba-medusa\include\mgba-util\configuration.h
+2017-04-30 15:19:18 ....A          354               mgba-medusa\src\core\test\core.h
+2017-04-30 15:19:18 ....A          404               mgba-medusa\include\mgba\ds\core.h
+2017-04-30 15:19:18 ....A          404               mgba-medusa\include\mgba\gb\core.h
+2017-04-30 15:19:18 ....A          407               mgba-medusa\include\mgba\gba\core.h
+2017-04-30 15:19:18 ....A         6236               mgba-medusa\include\mgba\core\core.h
+2017-04-30 15:19:18 ....A          603               mgba-medusa\include\mgba\core\cpu.h
+2017-04-30 15:19:18 ....A         5881               mgba-medusa\src\third-party\lzma\CpuArch.h
+2017-04-30 15:19:18 ....A          539               mgba-medusa\include\mgba-util\crc32.h
+2017-04-30 15:19:18 ....A        30562               mgba-medusa\src\third-party\zlib\crc32.h
+2017-04-30 15:19:18 ....A         4735               mgba-medusa\src\third-party\zlib\contrib\minizip\crypt.h
+2017-04-30 15:19:18 ....A          799               mgba-medusa\src\platform\3ds\ctr-gpu.h
+2017-04-30 15:19:18 ....A          981               mgba-medusa\include\mgba\internal\lr35902\debugger\debugger.h
+2017-04-30 15:19:18 ....A         1628               mgba-medusa\include\mgba\internal\arm\debugger\debugger.h
+2017-04-30 15:19:18 ....A         2791               mgba-medusa\include\mgba\internal\debugger\debugger.h
+2017-04-30 15:19:18 ....A          699               mgba-medusa\src\platform\qt\DebuggerConsole.h
+2017-04-30 15:19:18 ....A         1622               mgba-medusa\src\platform\qt\DebuggerConsoleController.h
+2017-04-30 15:19:18 ....A          912               mgba-medusa\src\platform\qt\DebuggerController.h
+2017-04-30 15:19:18 ....A          595               mgba-medusa\include\mgba\internal\arm\decoder-inlines.h
+2017-04-30 15:19:18 ....A         2053               mgba-medusa\include\mgba\internal\lr35902\decoder.h
+2017-04-30 15:19:18 ....A         6587               mgba-medusa\include\mgba\internal\arm\decoder.h
+2017-04-30 15:19:18 ....A        12774               mgba-medusa\src\third-party\zlib\deflate.h
+2017-04-30 15:19:18 ....A          395               mgba-medusa\src\third-party\lzma\Delta.h
+2017-04-30 15:19:18 ....A         1201               mgba-medusa\include\mgba\core\directories.h
+2017-04-30 15:19:18 ....A         2168               mgba-medusa\src\platform\qt\Display.h
+2017-04-30 15:19:18 ....A         2923               mgba-medusa\src\platform\qt\DisplayGL.h
+2017-04-30 15:19:18 ....A         1314               mgba-medusa\src\platform\qt\DisplayQt.h
+2017-04-30 15:19:18 ....A         1398               mgba-medusa\include\mgba\internal\ds\dma.h
+2017-04-30 15:19:18 ....A         1693               mgba-medusa\include\mgba\internal\gba\dma.h
+2017-04-30 15:19:18 ....A         4694               mgba-medusa\include\mgba\internal\ds\ds.h
+2017-04-30 15:19:18 ....A        27969               mgba-medusa\include\mgba\internal\arm\emitter-arm.h
+2017-04-30 15:19:18 ....A          689               mgba-medusa\include\mgba\internal\arm\emitter-inlines.h
+2017-04-30 15:19:18 ....A        24876               mgba-medusa\include\mgba\internal\lr35902\emitter-lr35902.h
+2017-04-30 15:19:18 ....A         6565               mgba-medusa\include\mgba\internal\arm\emitter-thumb.h
+2017-04-30 15:19:18 ....A          532               mgba-medusa\include\mgba-util\export.h
+2017-04-30 15:19:18 ....A          874               mgba-medusa\include\mgba-util\patch\fast.h
+2017-04-30 15:19:18 ....A         2660               mgba-medusa\src\feature\ffmpeg\ffmpeg-encoder.h
+2017-04-30 15:19:18 ....A          517               mgba-medusa\include\mgba-util\gui\file-select.h
+2017-04-30 15:19:18 ....A          457               mgba-medusa\include\mgba-util\gui\font-metrics.h
+2017-04-30 15:19:18 ....A         2295               mgba-medusa\include\mgba-util\gui\font.h
+2017-04-30 15:19:18 ....A          917               mgba-medusa\include\mgba-util\formatting.h
+2017-04-30 15:19:18 ....A         6424               mgba-medusa\src\platform\qt\GameController.h
+2017-04-30 15:19:18 ....A          991               mgba-medusa\src\platform\qt\GamepadAxisEvent.h
+2017-04-30 15:19:18 ....A          823               mgba-medusa\src\platform\qt\GamepadButtonEvent.h
+2017-04-30 15:19:18 ....A          989               mgba-medusa\src\platform\qt\GamepadHatEvent.h
+2017-04-30 15:19:18 ....A          861               mgba-medusa\src\gba\cheats\gameshark.h
+2017-04-30 15:19:18 ....A          344               mgba-medusa\src\gb\test\gb.h
+2017-04-30 15:19:18 ....A         3180               mgba-medusa\include\mgba\internal\gb\gb.h
+2017-04-30 15:19:18 ....A          347               mgba-medusa\src\gba\test\gba.h
+2017-04-30 15:19:18 ....A         4227               mgba-medusa\include\mgba\internal\gba\gba.h
+2017-04-30 15:19:18 ....A         1627               mgba-medusa\src\platform\qt\GBAApp.h
+2017-04-30 15:19:18 ....A          617               mgba-medusa\src\platform\qt\GBAOverride.h
+2017-04-30 15:19:18 ....A          612               mgba-medusa\src\platform\qt\GBOverride.h
+2017-04-30 15:19:18 ....A         1090               mgba-medusa\include\mgba\internal\debugger\gdb-stub.h
+2017-04-30 15:19:18 ....A          921               mgba-medusa\src\platform\qt\GDBController.h
+2017-04-30 15:19:18 ....A          833               mgba-medusa\src\platform\qt\GDBWindow.h
+2017-04-30 15:19:18 ....A        16064               mgba-medusa\include\mgba-util\platform\windows\getopt.h
+2017-04-30 15:19:18 ....A          926               mgba-medusa\src\platform\qt\GIFView.h
+2017-04-30 15:19:18 ....A          494               mgba-medusa\src\platform\sdl\gl-common.h
+2017-04-30 15:19:18 ....A          672               mgba-medusa\src\platform\opengl\gl.h
+2017-04-30 15:19:18 ....A         2180               mgba-medusa\src\platform\opengl\gles2.h
+2017-04-30 15:19:18 ....A          491               mgba-medusa\src\feature\gui\gui-config.h
+2017-04-30 15:19:18 ....A         2101               mgba-medusa\src\feature\gui\gui-runner.h
+2017-04-30 15:19:18 ....A         1818               mgba-medusa\include\mgba-util\gui.h
+2017-04-30 15:19:18 ....A         6179               mgba-medusa\include\mgba\internal\ds\gx.h
+2017-04-30 15:19:18 ....A         6552               mgba-medusa\src\third-party\zlib\gzguts.h
+2017-04-30 15:19:18 ....A         4557               mgba-medusa\src\third-party\zlib\examples\gzlog.h
+2017-04-30 15:19:18 ....A         3895               mgba-medusa\include\mgba\internal\gba\hardware.h
+2017-04-30 15:19:18 ....A          408               mgba-medusa\include\mgba-util\hash.h
+2017-04-30 15:19:18 ....A          390               mgba-medusa\src\gba\hle-bios.h
+2017-04-30 15:19:18 ....A         1226               mgba-medusa\src\feature\imagemagick\imagemagick-gif-encoder.h
+2017-04-30 15:19:18 ....A         1594               mgba-medusa\src\third-party\zlib\contrib\infback9\infback9.h
+2017-04-30 15:19:18 ....A          427               mgba-medusa\src\third-party\zlib\inffast.h
+2017-04-30 15:19:18 ....A         6599               mgba-medusa\src\third-party\zlib\contrib\infback9\inffix9.h
+2017-04-30 15:19:18 ....A         6332               mgba-medusa\src\third-party\zlib\inffixed.h
+2017-04-30 15:19:18 ....A         6399               mgba-medusa\src\third-party\zlib\inflate.h
+2017-04-30 15:19:18 ....A         1991               mgba-medusa\src\third-party\zlib\contrib\infback9\inflate9.h
+2017-04-30 15:19:18 ....A         2901               mgba-medusa\src\third-party\zlib\contrib\infback9\inftree9.h
+2017-04-30 15:19:18 ....A         2928               mgba-medusa\src\third-party\zlib\inftrees.h
+2017-04-30 15:19:18 ....A         2752               mgba-medusa\src\third-party\inih\ini.h
+2017-04-30 15:19:18 ....A          628               mgba-medusa\include\mgba\internal\gb\input.h
+2017-04-30 15:19:18 ....A          674               mgba-medusa\include\mgba\internal\gba\input.h
+2017-04-30 15:19:18 ....A          690               mgba-medusa\include\mgba\internal\ds\input.h
+2017-04-30 15:19:18 ....A         3483               mgba-medusa\include\mgba\core\input.h
+2017-04-30 15:19:18 ....A         4173               mgba-medusa\src\platform\qt\InputController.h
+2017-04-30 15:19:18 ....A         2647               mgba-medusa\src\platform\qt\InputItem.h
+2017-04-30 15:19:18 ....A         4522               mgba-medusa\src\platform\qt\InputModel.h
+2017-04-30 15:19:18 ....A         3490               mgba-medusa\src\platform\qt\InputProfile.h
+2017-04-30 15:19:18 ....A          763               mgba-medusa\include\mgba\gb\interface.h
+2017-04-30 15:19:18 ....A         1126               mgba-medusa\include\mgba\gba\interface.h
+2017-04-30 15:19:18 ....A         2775               mgba-medusa\include\mgba\core\interface.h
+2017-04-30 15:19:18 ....A         2348               mgba-medusa\include\mgba\internal\gb\io.h
+2017-04-30 15:19:18 ....A         4161               mgba-medusa\include\mgba\internal\gba\io.h
+2017-04-30 15:19:18 ....A        16931               mgba-medusa\include\mgba\internal\ds\io.h
+2017-04-30 15:19:18 ....A         7051               mgba-medusa\src\third-party\zlib\contrib\minizip\ioapi.h
+2017-04-30 15:19:18 ....A         1573               mgba-medusa\src\platform\qt\IOViewer.h
+2017-04-30 15:19:18 ....A          851               mgba-medusa\src\third-party\zlib\contrib\minizip\iowin32.h
+2017-04-30 15:19:18 ....A         1077               mgba-medusa\include\mgba\internal\ds\ipc.h
+2017-04-30 15:19:18 ....A          415               mgba-medusa\include\mgba-util\patch\ips.h
+2017-04-30 15:19:18 ....A          702               mgba-medusa\include\mgba\internal\arm\isa-arm.h
+2017-04-30 15:19:18 ....A         4906               mgba-medusa\include\mgba\internal\arm\isa-inlines.h
+2017-04-30 15:19:18 ....A          507               mgba-medusa\include\mgba\internal\lr35902\isa-lr35902.h
+2017-04-30 15:19:18 ....A          549               mgba-medusa\include\mgba\internal\arm\isa-thumb.h
+2017-04-30 15:19:18 ....A         1561               mgba-medusa\src\platform\qt\KeyEditor.h
+2017-04-30 15:19:18 ....A         1449               mgba-medusa\include\mgba\core\library.h
+2017-04-30 15:19:18 ....A         2740               mgba-medusa\src\platform\qt\LibraryModel.h
+2017-04-30 15:19:18 ....A          811               mgba-medusa\src\platform\qt\LibraryView.h
+2017-04-30 15:19:18 ....A       102361               mgba-medusa\src\platform\libretro\libretro.h
+2017-04-30 15:19:18 ....A         1211               mgba-medusa\src\platform\qt\LoadSaveState.h
+2017-04-30 15:19:18 ....A          959               mgba-medusa\include\mgba\core\lockstep.h
+2017-04-30 15:19:18 ....A         1137               mgba-medusa\include\mgba\internal\gb\sio\lockstep.h
+2017-04-30 15:19:18 ....A         1249               mgba-medusa\include\mgba\internal\gba\sio\lockstep.h
+2017-04-30 15:19:18 ....A          491               mgba-medusa\src\platform\python\log.h
+2017-04-30 15:19:18 ....A         2007               mgba-medusa\include\mgba\core\log.h
+2017-04-30 15:19:18 ....A         1397               mgba-medusa\src\platform\qt\LogController.h
+2017-04-30 15:19:18 ....A         1009               mgba-medusa\src\platform\qt\LogView.h
+2017-04-30 15:19:18 ....A         3054               mgba-medusa\include\mgba\internal\lr35902\lr35902.h
+2017-04-30 15:19:18 ....A         3437               mgba-medusa\src\third-party\lzma\LzFind.h
+2017-04-30 15:19:18 ....A         2509               mgba-medusa\src\third-party\lzma\LzFindMt.h
+2017-04-30 15:19:18 ....A         1824               mgba-medusa\src\third-party\lzma\LzHash.h
+2017-04-30 15:19:18 ....A         2248               mgba-medusa\src\third-party\lzma\Lzma2Dec.h
+2017-04-30 15:19:18 ....A         1827               mgba-medusa\src\third-party\lzma\Lzma2Enc.h
+2017-04-30 15:19:18 ....A         3266               mgba-medusa\src\third-party\lzma\Lzma86.h
+2017-04-30 15:19:18 ....A         7055               mgba-medusa\src\third-party\lzma\LzmaDec.h
+2017-04-30 15:19:18 ....A         3117               mgba-medusa\src\third-party\lzma\LzmaEnc.h
+2017-04-30 15:19:18 ....A         4438               mgba-medusa\src\third-party\lzma\LzmaLib.h
+2017-04-30 15:19:18 ....A          484               mgba-medusa\include\mgba\internal\arm\macros.h
+2017-04-30 15:19:18 ....A         2083               mgba-medusa\src\platform\sdl\main.h
+2017-04-30 15:19:18 ....A         3447               mgba-medusa\include\mgba-util\math.h
+2017-04-30 15:19:18 ....A          691               mgba-medusa\include\mgba\internal\ds\matrix.h
+2017-04-30 15:19:18 ....A         1013               mgba-medusa\include\mgba\internal\gb\mbc.h
+2017-04-30 15:19:18 ....A          522               mgba-medusa\include\mgba\internal\arm\debugger\memory-debugger.h
+2017-04-30 15:19:18 ....A          443               mgba-medusa\include\mgba-util\memory.h
+2017-04-30 15:19:18 ....A         4029               mgba-medusa\include\mgba\internal\gb\memory.h
+2017-04-30 15:19:18 ....A         4297               mgba-medusa\include\mgba\internal\gba\memory.h
+2017-04-30 15:19:18 ....A         4805               mgba-medusa\include\mgba\internal\ds\memory.h
+2017-04-30 15:19:18 ....A         2273               mgba-medusa\src\platform\qt\MemoryModel.h
+2017-04-30 15:19:18 ....A          800               mgba-medusa\src\platform\qt\MemoryView.h
+2017-04-30 15:19:18 ....A         1332               mgba-medusa\include\mgba-util\gui\menu.h
+2017-04-30 15:19:18 ....A          980               mgba-medusa\src\platform\qt\MessagePainter.h
+2017-04-30 15:19:18 ....A         1622               mgba-medusa\opt\libgba\mgba.h
+2017-04-30 15:19:18 ....A          120               mgba-medusa\src\platform\openemu\mGBAGameCore.h
+2017-04-30 15:19:18 ....A         1796               mgba-medusa\include\mgba\internal\gba\rr\mgm.h
+2017-04-30 15:19:18 ....A         2072               mgba-medusa\src\third-party\lzma\MtCoder.h
+2017-04-30 15:19:18 ....A         1288               mgba-medusa\src\platform\qt\MultiplayerController.h
+2017-04-30 15:19:18 ....A          708               mgba-medusa\src\third-party\zlib\contrib\minizip\mztools.h
+2017-04-30 15:19:18 ....A          808               mgba-medusa\src\feature\sqlite3\no-intro.h
+2017-04-30 15:19:18 ....A         1151               mgba-medusa\src\platform\qt\ObjView.h
+2017-04-30 15:19:18 ....A         2052               mgba-medusa\src\platform\openemu\OEGBASystemResponderClient.h
+2017-04-30 15:19:18 ....A          554               mgba-medusa\src\platform\qt\Override.h
+2017-04-30 15:19:18 ....A          829               mgba-medusa\include\mgba\internal\gb\overrides.h
+2017-04-30 15:19:18 ....A          903               mgba-medusa\include\mgba\internal\gba\overrides.h
+2017-04-30 15:19:18 ....A         1030               mgba-medusa\src\platform\qt\OverrideView.h
+2017-04-30 15:19:18 ....A          758               mgba-medusa\src\platform\qt\PaletteView.h
+2017-04-30 15:19:18 ....A         1344               mgba-medusa\include\mgba\internal\debugger\parser.h
+2017-04-30 15:19:18 ....A          610               mgba-medusa\src\gba\cheats\parv3.h
+2017-04-30 15:19:18 ....A          620               mgba-medusa\include\mgba-util\patch.h
+2017-04-30 15:19:18 ....A         1824               mgba-medusa\include\mgba-util\png-io.h
+2017-04-30 15:19:18 ....A       146763               mgba-medusa\src\third-party\libpng\png.h
+2017-04-30 15:19:18 ....A        22841               mgba-medusa\src\third-party\libpng\pngconf.h
+2017-04-30 15:19:18 ....A         5353               mgba-medusa\src\third-party\libpng\pngdebug.h
+2017-04-30 15:19:18 ....A         1117               mgba-medusa\src\third-party\libpng\contrib\visupng\PngFile.h
+2017-04-30 15:19:18 ....A        12329               mgba-medusa\src\third-party\libpng\pnginfo.h
+2017-04-30 15:19:18 ....A        80076               mgba-medusa\src\third-party\libpng\pngpriv.h
+2017-04-30 15:19:18 ....A        20377               mgba-medusa\src\third-party\libpng\pngstruct.h
+2017-04-30 15:19:18 ....A          642               mgba-medusa\src\third-party\libpng\contrib\pngminim\decoder\pngusr.h
+2017-04-30 15:19:18 ....A          643               mgba-medusa\src\third-party\libpng\contrib\pngminim\encoder\pngusr.h
+2017-04-30 15:19:18 ....A          645               mgba-medusa\src\third-party\libpng\contrib\pngminim\preader\pngusr.h
+2017-04-30 15:19:18 ....A         2119               mgba-medusa\src\third-party\lzma\Ppmd.h
+2017-04-30 15:19:18 ....A         3822               mgba-medusa\src\third-party\lzma\Ppmd7.h
+2017-04-30 15:19:18 ....A          182               mgba-medusa\src\third-party\lzma\Precomp.h
+2017-04-30 15:19:18 ....A          188               mgba-medusa\src\third-party\lzma\Util\7z\Precomp.h
+2017-04-30 15:19:18 ....A          188               mgba-medusa\src\third-party\lzma\Util\SfxSetup\Precomp.h
+2017-04-30 15:19:18 ....A          432               mgba-medusa\src\platform\psp2\psp2-common.h
+2017-04-30 15:19:18 ....A         1154               mgba-medusa\src\platform\psp2\psp2-context.h
+2017-04-30 15:19:18 ....A         1415               mgba-medusa\src\third-party\zlib\contrib\puff\puff.h
+2017-04-30 15:19:18 ....A         3260               mgba-medusa\src\third-party\libpng\contrib\gregbook\readpng.h
+2017-04-30 15:19:18 ....A         3800               mgba-medusa\src\third-party\libpng\contrib\gregbook\readpng2.h
+2017-04-30 15:19:18 ....A          587               mgba-medusa\src\feature\gui\remap.h
+2017-04-30 15:19:18 ....A          765               mgba-medusa\src\third-party\libpng\contrib\visupng\resource.h
+2017-04-30 15:19:18 ....A          929               mgba-medusa\include\mgba\core\rewind.h
+2017-04-30 15:19:18 ....A          810               mgba-medusa\include\mgba-util\ring-fifo.h
+2017-04-30 15:19:18 ....A          538               mgba-medusa\src\platform\qt\ROMInfo.h
+2017-04-30 15:19:18 ....A          656               mgba-medusa\src\third-party\lzma\RotateDefs.h
+2017-04-30 15:19:18 ....A         1659               mgba-medusa\include\mgba\internal\gba\rr\rr.h
+2017-04-30 15:19:18 ....A         3337               mgba-medusa\include\mgba\internal\gba\savedata.h
+2017-04-30 15:19:18 ....A          532               mgba-medusa\src\platform\qt\SavestateButton.h
+2017-04-30 15:19:18 ....A          467               mgba-medusa\include\mgba-util\platform\psp2\sce-vfs.h
+2017-04-30 15:19:18 ....A          931               mgba-medusa\src\platform\sdl\sdl-audio.h
+2017-04-30 15:19:18 ....A         2799               mgba-medusa\src\platform\sdl\sdl-events.h
+2017-04-30 15:19:18 ....A         1133               mgba-medusa\src\platform\qt\SensorView.h
+2017-04-30 15:19:18 ....A         1510               mgba-medusa\include\mgba\core\serialize.h
+2017-04-30 15:19:18 ....A        10371               mgba-medusa\include\mgba\internal\gb\serialize.h
+2017-04-30 15:19:18 ....A        10595               mgba-medusa\include\mgba\internal\gba\serialize.h
+2017-04-30 15:19:18 ....A         1711               mgba-medusa\src\platform\qt\SettingsView.h
+2017-04-30 15:19:18 ....A          464               mgba-medusa\src\third-party\lzma\Sha256.h
+2017-04-30 15:19:18 ....A         1366               mgba-medusa\src\platform\qt\ShaderSelector.h
+2017-04-30 15:19:18 ....A          556               mgba-medusa\include\mgba\internal\gba\sharkport.h
+2017-04-30 15:19:18 ....A          992               mgba-medusa\src\platform\qt\ShortcutView.h
+2017-04-30 15:19:18 ....A         1395               mgba-medusa\include\mgba\internal\gb\sio.h
+2017-04-30 15:19:18 ....A         2013               mgba-medusa\include\mgba\internal\gba\sio.h
+2017-04-30 15:19:18 ....A         2194               mgba-medusa\include\mgba\internal\ds\slot1.h
+2017-04-30 15:19:18 ....A         7588               mgba-medusa\include\mgba-util\socket.h
+2017-04-30 15:19:18 ....A        16381               mgba-medusa\src\gba\renderers\software-private.h
+2017-04-30 15:19:18 ....A          882               mgba-medusa\include\mgba\internal\gb\renderers\software.h
+2017-04-30 15:19:18 ....A         1083               mgba-medusa\include\mgba\internal\ds\renderers\software.h
+2017-04-30 15:19:18 ....A         2074               mgba-medusa\include\mgba\internal\ds\gx\software.h
+2017-04-30 15:19:18 ....A          335               mgba-medusa\src\third-party\lzma\Sort.h
+2017-04-30 15:19:18 ....A         1575               mgba-medusa\include\mgba\internal\ds\spi.h
+2017-04-30 15:19:18 ....A       494657               mgba-medusa\src\third-party\sqlite3\sqlite3.h
+2017-04-30 15:19:18 ....A        30004               mgba-medusa\src\third-party\sqlite3\sqlite3ext.h
+2017-04-30 15:19:18 ....A         1222               mgba-medusa\src\third-party\libpng\contrib\tools\sRGB.h
+2017-04-30 15:19:18 ....A         1416               mgba-medusa\include\mgba-util\string.h
+2017-04-30 15:19:18 ....A         1597               mgba-medusa\src\util\test\suite.h
+2017-04-30 15:19:18 ....A          832               mgba-medusa\src\platform\qt\Swatch.h
+2017-04-30 15:19:18 ....A         1158               mgba-medusa\include\mgba\core\sync.h
+2017-04-30 15:19:18 ....A         1451               mgba-medusa\include\mgba-util\table.h
+2017-04-30 15:19:18 ....A         1046               mgba-medusa\include\mgba-util\text-codec.h
+2017-04-30 15:19:18 ....A         1099               mgba-medusa\include\mgba\internal\gba\renderers\thread-proxy.h
+2017-04-30 15:19:18 ....A         2965               mgba-medusa\include\mgba\core\thread.h
+2017-04-30 15:19:18 ....A         1754               mgba-medusa\include\mgba-util\threading.h
+2017-04-30 15:19:18 ....A         2158               mgba-medusa\include\mgba-util\platform\windows\threading.h
+2017-04-30 15:19:18 ....A         2536               mgba-medusa\include\mgba-util\platform\posix\threading.h
+2017-04-30 15:19:18 ....A         2858               mgba-medusa\include\mgba-util\platform\3ds\threading.h
+2017-04-30 15:19:18 ....A         3309               mgba-medusa\include\mgba-util\platform\psp2\threading.h
+2017-04-30 15:19:18 ....A         2071               mgba-medusa\src\third-party\lzma\Threads.h
+2017-04-30 15:19:18 ....A          538               mgba-medusa\include\mgba\internal\gb\renderers\tile-cache.h
+2017-04-30 15:19:18 ....A          544               mgba-medusa\include\mgba\internal\gba\renderers\tile-cache.h
+2017-04-30 15:19:18 ....A         2158               mgba-medusa\include\mgba\core\tile-cache.h
+2017-04-30 15:19:18 ....A          856               mgba-medusa\src\platform\qt\TilePainter.h
+2017-04-30 15:19:18 ....A          880               mgba-medusa\src\platform\qt\TileView.h
+2017-04-30 15:19:18 ....A          584               mgba-medusa\include\mgba\internal\ds\timer.h
+2017-04-30 15:19:18 ....A         1038               mgba-medusa\include\mgba\internal\gb\timer.h
+2017-04-30 15:19:18 ....A         1439               mgba-medusa\include\mgba\internal\gba\timer.h
+2017-04-30 15:19:18 ....A         1266               mgba-medusa\include\mgba\core\timing.h
+2017-04-30 15:19:18 ....A         8472               mgba-medusa\src\third-party\zlib\trees.h
+2017-04-30 15:19:18 ....A        16352               mgba-medusa\src\third-party\zlib\contrib\minizip\unzip.h
+2017-04-30 15:19:18 ....A          415               mgba-medusa\include\mgba-util\patch\ups.h
+2017-04-30 15:19:18 ....A          350               mgba-medusa\src\util\test\util.h
+2017-04-30 15:19:18 ....A          620               mgba-medusa\include\mgba\internal\gba\rr\vbm.h
+2017-04-30 15:19:18 ....A         3569               mgba-medusa\include\mgba-util\vector.h
+2017-04-30 15:19:18 ....A          621               mgba-medusa\include\mgba\core\version.h
+2017-04-30 15:19:18 ....A         1034               mgba-medusa\include\mgba\internal\gba\vfame.h
+2017-04-30 15:19:18 ....A          847               mgba-medusa\src\platform\qt\VFileDevice.h
+2017-04-30 15:19:18 ....A          899               mgba-medusa\src\platform\python\vfs-py.h
+2017-04-30 15:19:18 ....A         3140               mgba-medusa\include\mgba-util\vfs.h
+2017-04-30 15:19:18 ....A         1270               mgba-medusa\src\platform\video-backend.h
+2017-04-30 15:19:18 ....A         3620               mgba-medusa\include\mgba\internal\gba\renderers\video-software.h
+2017-04-30 15:19:18 ....A         4255               mgba-medusa\include\mgba\internal\gb\video.h
+2017-04-30 15:19:18 ....A         5194               mgba-medusa\include\mgba\internal\ds\video.h
+2017-04-30 15:19:18 ....A         6237               mgba-medusa\include\mgba\internal\gba\video.h
+2017-04-30 15:19:18 ....A         2572               mgba-medusa\src\platform\qt\VideoView.h
+2017-04-30 15:19:18 ....A          677               mgba-medusa\include\mgba\internal\ds\wifi.h
+2017-04-30 15:19:18 ....A         5062               mgba-medusa\src\platform\qt\Window.h
+2017-04-30 15:19:18 ....A         4237               mgba-medusa\src\third-party\libpng\contrib\gregbook\writepng.h
+2017-04-30 15:19:18 ....A         7696               mgba-medusa\src\third-party\lzma\Xz.h
+2017-04-30 15:19:18 ....A          641               mgba-medusa\src\third-party\lzma\XzCrc64.h
+2017-04-30 15:19:18 ....A          691               mgba-medusa\src\third-party\lzma\XzEnc.h
+2017-04-30 15:19:18 ....A         2467               mgba-medusa\src\third-party\zlib\contrib\iostream\zfstream.h
+2017-04-30 15:19:18 ....A        12240               mgba-medusa\src\third-party\zlib\contrib\iostream3\zfstream.h
+2017-04-30 15:19:18 ....A        15366               mgba-medusa\src\third-party\zlib\contrib\minizip\zip.h
+2017-04-30 15:19:18 ....A        87883               mgba-medusa\src\third-party\zlib\zlib.h
+2017-04-30 15:19:18 ....A         9283               mgba-medusa\src\third-party\zlib\contrib\iostream2\zstream.h
+2017-04-30 15:19:18 ....A         6766               mgba-medusa\src\third-party\zlib\zutil.h
+2017-04-30 15:19:18 ....A         1107               mgba-medusa\src\platform\python\_builder.h
+2017-04-30 15:19:18 ....A          456               mgba-medusa\src\platform\3ds\3ds-memory.c
+2017-04-30 15:19:18 ....A         8249               mgba-medusa\src\platform\3ds\3ds-vfs.c
+2017-04-30 15:19:18 ....A         1548               mgba-medusa\src\third-party\lzma\7zAlloc.c
+2017-04-30 15:19:18 ....A        45407               mgba-medusa\src\third-party\lzma\7zArcIn.c
+2017-04-30 15:19:18 ....A          563               mgba-medusa\src\third-party\lzma\7zBuf.c
+2017-04-30 15:19:18 ....A          940               mgba-medusa\src\third-party\lzma\7zBuf2.c
+2017-04-30 15:19:18 ....A         3213               mgba-medusa\src\third-party\lzma\7zCrc.c
+2017-04-30 15:19:18 ....A         3441               mgba-medusa\src\third-party\lzma\7zCrcOpt.c
+2017-04-30 15:19:18 ....A        15734               mgba-medusa\src\third-party\lzma\7zDec.c
+2017-04-30 15:19:18 ....A         6966               mgba-medusa\src\third-party\lzma\7zFile.c
+2017-04-30 15:19:18 ....A        14639               mgba-medusa\src\third-party\lzma\Util\7z\7zMain.c
+2017-04-30 15:19:18 ....A         4188               mgba-medusa\src\third-party\lzma\7zStream.c
+2017-04-30 15:19:18 ....A         4968               mgba-medusa\src\third-party\zlib\adler32.c
+2017-04-30 15:19:18 ....A         8599               mgba-medusa\src\third-party\lzma\Aes.c
+2017-04-30 15:19:18 ....A         4618               mgba-medusa\src\third-party\lzma\AesOpt.c
+2017-04-30 15:19:18 ....A         3272               mgba-medusa\src\third-party\lzma\Alloc.c
+2017-04-30 15:19:18 ....A         1358               mgba-medusa\src\third-party\libpng\contrib\arm-neon\android-ndk.c
+2017-04-30 15:19:18 ....A         9275               mgba-medusa\src\arm\arm.c
+2017-04-30 15:19:18 ....A         4640               mgba-medusa\src\third-party\libpng\arm\arm_init.c
+2017-04-30 15:19:18 ....A        11578               mgba-medusa\src\ds\audio.c
+2017-04-30 15:19:18 ....A        11787               mgba-medusa\src\gba\audio.c
+2017-04-30 15:19:18 ....A        34588               mgba-medusa\src\gb\audio.c
+2017-04-30 15:19:18 ....A         6177               mgba-medusa\src\third-party\lzma\Bcj2.c
+2017-04-30 15:19:18 ....A         7524               mgba-medusa\src\third-party\lzma\Bcj2Enc.c
+2017-04-30 15:19:18 ....A         1084               mgba-medusa\src\ds\bios.c
+2017-04-30 15:19:18 ....A        23825               mgba-medusa\src\gba\bios.c
+2017-04-30 15:19:18 ....A        17572               mgba-medusa\src\third-party\zlib\contrib\blast\blast.c
+2017-04-30 15:19:18 ....A        10222               mgba-medusa\src\third-party\blip_buf\blip_buf.c
+2017-04-30 15:19:18 ....A         3301               mgba-medusa\src\third-party\lzma\Bra.c
+2017-04-30 15:19:18 ....A         1799               mgba-medusa\src\third-party\lzma\Bra86.c
+2017-04-30 15:19:18 ....A         1839               mgba-medusa\src\third-party\lzma\BraIA64.c
+2017-04-30 15:19:18 ....A         7550               mgba-medusa\src\gb\cheats.c
+2017-04-30 15:19:18 ....A        10243               mgba-medusa\src\gba\cheats.c
+2017-04-30 15:19:18 ....A        10614               mgba-medusa\src\core\cheats.c
+2017-04-30 15:19:18 ....A         2416               mgba-medusa\src\third-party\libpng\contrib\tools\checksum-icc.c
+2017-04-30 15:19:18 ....A         7208               mgba-medusa\src\util\circle-buffer.c
+2017-04-30 15:19:18 ....A         4283               mgba-medusa\src\lr35902\debugger\cli-debugger.c
+2017-04-30 15:19:18 ....A         7885               mgba-medusa\src\arm\debugger\cli-debugger.c
+2017-04-30 15:19:18 ....A        27187               mgba-medusa\src\debugger\cli-debugger.c
+2017-04-30 15:19:18 ....A         3881               mgba-medusa\src\feature\editline\cli-el-backend.c
+2017-04-30 15:19:18 ....A         2665               mgba-medusa\src\ds\extra\cli.c
+2017-04-30 15:19:18 ....A         4159               mgba-medusa\src\gb\extra\cli.c
+2017-04-30 15:19:18 ....A         4257               mgba-medusa\src\gba\extra\cli.c
+2017-04-30 15:19:18 ....A         3544               mgba-medusa\src\platform\example\client-server\client.c
+2017-04-30 15:19:18 ....A         7769               mgba-medusa\src\gba\cheats\codebreaker.c
+2017-04-30 15:19:18 ....A         6740               mgba-medusa\src\feature\commandline.c
+2017-04-30 15:19:18 ....A         2529               mgba-medusa\src\third-party\zlib\compress.c
+2017-04-30 15:19:18 ....A        15593               mgba-medusa\src\core\config.c
+2017-04-30 15:19:18 ....A         6982               mgba-medusa\src\util\configuration.c
+2017-04-30 15:19:18 ....A         1020               mgba-medusa\src\core\test\core.c
+2017-04-30 15:19:18 ....A         1189               mgba-medusa\src\gba\test\core.c
+2017-04-30 15:19:18 ....A         1563               mgba-medusa\src\gb\test\core.c
+2017-04-30 15:19:18 ....A         6755               mgba-medusa\src\core\core.c
+2017-04-30 15:19:18 ....A        19136               mgba-medusa\src\ds\core.c
+2017-04-30 15:19:18 ....A        21209               mgba-medusa\src\gba\core.c
+2017-04-30 15:19:18 ....A        21532               mgba-medusa\src\gb\core.c
+2017-04-30 15:19:18 ....A         4163               mgba-medusa\src\third-party\lzma\CpuArch.c
+2017-04-30 15:19:18 ....A         6074               mgba-medusa\src\util\crc32.c
+2017-04-30 15:19:18 ....A        13174               mgba-medusa\src\third-party\zlib\crc32.c
+2017-04-30 15:19:18 ....A         5827               mgba-medusa\src\platform\3ds\ctr-gpu.c
+2017-04-30 15:19:18 ....A         2556               mgba-medusa\src\platform\3ds\ctru-heap.c
+2017-04-30 15:19:18 ....A         3907               mgba-medusa\src\third-party\libpng\contrib\tools\cvtcolor.c
+2017-04-30 15:19:18 ....A         3237               mgba-medusa\src\debugger\debugger.c
+2017-04-30 15:19:18 ....A         4459               mgba-medusa\src\lr35902\debugger\debugger.c
+2017-04-30 15:19:18 ....A         8247               mgba-medusa\src\arm\debugger\debugger.c
+2017-04-30 15:19:18 ....A        20473               mgba-medusa\src\arm\decoder-arm.c
+2017-04-30 15:19:18 ....A        14238               mgba-medusa\src\arm\decoder-thumb.c
+2017-04-30 15:19:18 ....A        13007               mgba-medusa\src\arm\decoder.c
+2017-04-30 15:19:18 ....A        17462               mgba-medusa\src\lr35902\decoder.c
+2017-04-30 15:19:18 ....A         1015               mgba-medusa\src\third-party\libpng\scripts\def.c
+2017-04-30 15:19:18 ....A        71476               mgba-medusa\src\third-party\zlib\deflate.c
+2017-04-30 15:19:18 ....A         1337               mgba-medusa\src\third-party\lzma\Delta.c
+2017-04-30 15:19:18 ....A         3586               mgba-medusa\src\core\directories.c
+2017-04-30 15:19:18 ....A         8111               mgba-medusa\src\gba\dma.c
+2017-04-30 15:19:18 ....A         8235               mgba-medusa\src\ds\dma.c
+2017-04-30 15:19:18 ....A        26161               mgba-medusa\src\ds\ds.c
+2017-04-30 15:19:18 ....A        24338               mgba-medusa\src\third-party\zlib\examples\enough.c
+2017-04-30 15:19:18 ....A        16855               mgba-medusa\src\third-party\zlib\test\example.c
+2017-04-30 15:19:18 ....A        40315               mgba-medusa\src\third-party\libpng\example.c
+2017-04-30 15:19:18 ....A         1637               mgba-medusa\src\util\export.c
+2017-04-30 15:19:18 ....A         1053               mgba-medusa\src\third-party\libpng\contrib\libtests\fakepng.c
+2017-04-30 15:19:18 ....A        19100               mgba-medusa\src\feature\ffmpeg\ffmpeg-encoder.c
+2017-04-30 15:19:18 ....A         5909               mgba-medusa\src\util\gui\file-select.c
+2017-04-30 15:19:18 ....A        10926               mgba-medusa\src\third-party\libpng\arm\filter_neon_intrinsics.c
+2017-04-30 15:19:18 ....A         8594               mgba-medusa\src\third-party\zlib\examples\fitblk.c
+2017-04-30 15:19:18 ....A         6084               mgba-medusa\src\util\gui\font-metrics.c
+2017-04-30 15:19:18 ....A         1745               mgba-medusa\src\util\gui\font.c
+2017-04-30 15:19:18 ....A         2067               mgba-medusa\src\util\formatting.c
+2017-04-30 15:19:18 ....A         5196               mgba-medusa\src\platform\test\fuzz-main.c
+2017-04-30 15:19:18 ....A         9651               mgba-medusa\src\gba\cheats\gameshark.c
+2017-04-30 15:19:18 ....A          616               mgba-medusa\src\gb\test\gb.c
+2017-04-30 15:19:18 ....A        17586               mgba-medusa\src\gb\gb.c
+2017-04-30 15:19:18 ....A          412               mgba-medusa\src\gba\test\gba.c
+2017-04-30 15:19:18 ....A        19981               mgba-medusa\src\gba\gba.c
+2017-04-30 15:19:18 ....A        18759               mgba-medusa\src\debugger\gdb-stub.c
+2017-04-30 15:19:18 ....A         1841               mgba-medusa\src\platform\sdl\gl-common.c
+2017-04-30 15:19:18 ....A         2697               mgba-medusa\src\platform\sdl\gl-sdl.c
+2017-04-30 15:19:18 ....A         4389               mgba-medusa\src\platform\opengl\gl.c
+2017-04-30 15:19:18 ....A         4591               mgba-medusa\src\platform\sdl\gles2-sdl.c
+2017-04-30 15:19:18 ....A        31896               mgba-medusa\src\platform\opengl\gles2.c
+2017-04-30 15:19:18 ....A         4117               mgba-medusa\src\feature\gui\gui-config.c
+2017-04-30 15:19:18 ....A         3792               mgba-medusa\src\platform\psp2\gui-font.c
+2017-04-30 15:19:18 ....A         4634               mgba-medusa\src\platform\3ds\gui-font.c
+2017-04-30 15:19:18 ....A         6726               mgba-medusa\src\platform\wii\gui-font.c
+2017-04-30 15:19:18 ....A        18229               mgba-medusa\src\feature\gui\gui-runner.c
+2017-04-30 15:19:18 ....A         2034               mgba-medusa\src\util\gui.c
+2017-04-30 15:19:18 ....A        25942               mgba-medusa\src\third-party\zlib\examples\gun.c
+2017-04-30 15:19:18 ....A        50559               mgba-medusa\src\ds\gx.c
+2017-04-30 15:19:18 ....A        16977               mgba-medusa\src\third-party\zlib\examples\gzappend.c
+2017-04-30 15:19:18 ....A          678               mgba-medusa\src\third-party\zlib\gzclose.c
+2017-04-30 15:19:18 ....A        14132               mgba-medusa\src\third-party\zlib\examples\gzjoin.c
+2017-04-30 15:19:18 ....A        16415               mgba-medusa\src\third-party\zlib\gzlib.c
+2017-04-30 15:19:18 ....A        41467               mgba-medusa\src\third-party\zlib\examples\gzlog.c
+2017-04-30 15:19:18 ....A        18694               mgba-medusa\src\third-party\zlib\gzread.c
+2017-04-30 15:19:18 ....A        16199               mgba-medusa\src\third-party\zlib\gzwrite.c
+2017-04-30 15:19:18 ....A        18933               mgba-medusa\src\gba\hardware.c
+2017-04-30 15:19:18 ....A         2056               mgba-medusa\src\util\hash.c
+2017-04-30 15:19:18 ....A         3411               mgba-medusa\src\gba\hle-bios.c
+2017-04-30 15:19:18 ....A         4523               mgba-medusa\src\third-party\libpng\contrib\examples\iccfrompng.c
+2017-04-30 15:19:18 ....A         4045               mgba-medusa\src\feature\imagemagick\imagemagick-gif-encoder.c
+2017-04-30 15:19:18 ....A        22709               mgba-medusa\src\third-party\zlib\infback.c
+2017-04-30 15:19:18 ....A        21629               mgba-medusa\src\third-party\zlib\contrib\infback9\infback9.c
+2017-04-30 15:19:18 ....A        24700               mgba-medusa\src\third-party\zlib\test\infcover.c
+2017-04-30 15:19:18 ....A        40608               mgba-medusa\src\third-party\zlib\contrib\inflate86\inffas86.c
+2017-04-30 15:19:18 ....A         7577               mgba-medusa\src\third-party\zlib\contrib\masmx64\inffas8664.c
+2017-04-30 15:19:18 ....A        13455               mgba-medusa\src\third-party\zlib\inffast.c
+2017-04-30 15:19:18 ....A        53512               mgba-medusa\src\third-party\zlib\inflate.c
+2017-04-30 15:19:18 ....A        13404               mgba-medusa\src\third-party\zlib\contrib\infback9\inftree9.c
+2017-04-30 15:19:18 ....A        13028               mgba-medusa\src\third-party\zlib\inftrees.c
+2017-04-30 15:19:18 ....A         4992               mgba-medusa\src\third-party\inih\ini.c
+2017-04-30 15:19:18 ....A          618               mgba-medusa\src\ds\input.c
+2017-04-30 15:19:18 ....A          622               mgba-medusa\src\gb\input.c
+2017-04-30 15:19:18 ....A          645               mgba-medusa\src\gba\input.c
+2017-04-30 15:19:18 ....A        20029               mgba-medusa\src\core\input.c
+2017-04-30 15:19:18 ....A         3094               mgba-medusa\src\core\interface.c
+2017-04-30 15:19:18 ....A          644               mgba-medusa\src\third-party\libpng\scripts\intprefix.c
+2017-04-30 15:19:18 ....A        13131               mgba-medusa\src\gb\io.c
+2017-04-30 15:19:18 ....A        22881               mgba-medusa\src\gba\io.c
+2017-04-30 15:19:18 ....A        25770               mgba-medusa\src\ds\io.c
+2017-04-30 15:19:18 ....A         8225               mgba-medusa\src\third-party\zlib\contrib\minizip\ioapi.c
+2017-04-30 15:19:18 ....A        14148               mgba-medusa\src\third-party\zlib\contrib\minizip\iowin32.c
+2017-04-30 15:19:18 ....A         3968               mgba-medusa\src\ds\ipc.c
+2017-04-30 15:19:18 ....A        35951               mgba-medusa\src\arm\isa-arm.c
+2017-04-30 15:19:18 ....A        27351               mgba-medusa\src\lr35902\isa-lr35902.c
+2017-04-30 15:19:18 ....A        15963               mgba-medusa\src\arm\isa-thumb.c
+2017-04-30 15:19:18 ....A        15858               mgba-medusa\src\core\library.c
+2017-04-30 15:19:18 ....A        18452               mgba-medusa\src\platform\libretro\libretro.c
+2017-04-30 15:19:18 ....A         3263               mgba-medusa\src\third-party\libpng\contrib\arm-neon\linux-auxv.c
+2017-04-30 15:19:18 ....A         4505               mgba-medusa\src\third-party\libpng\contrib\arm-neon\linux.c
+2017-04-30 15:19:18 ....A          461               mgba-medusa\src\core\lockstep.c
+2017-04-30 15:19:18 ....A         7264               mgba-medusa\src\gb\sio\lockstep.c
+2017-04-30 15:19:18 ....A        12315               mgba-medusa\src\gba\sio\lockstep.c
+2017-04-30 15:19:18 ....A          909               mgba-medusa\src\platform\python\log.c
+2017-04-30 15:19:18 ....A         3695               mgba-medusa\src\core\log.c
+2017-04-30 15:19:18 ....A         4682               mgba-medusa\src\lr35902\lr35902.c
+2017-04-30 15:19:18 ....A        25218               mgba-medusa\src\third-party\lzma\LzFind.c
+2017-04-30 15:19:18 ....A        23018               mgba-medusa\src\third-party\lzma\LzFindMt.c
+2017-04-30 15:19:18 ....A        10713               mgba-medusa\src\third-party\lzma\Lzma2Dec.c
+2017-04-30 15:19:18 ....A        12989               mgba-medusa\src\third-party\lzma\Lzma2Enc.c
+2017-04-30 15:19:18 ....A         1509               mgba-medusa\src\third-party\lzma\Lzma86Dec.c
+2017-04-30 15:19:18 ....A         2922               mgba-medusa\src\third-party\lzma\Lzma86Enc.c
+2017-04-30 15:19:18 ....A        30896               mgba-medusa\src\third-party\lzma\LzmaDec.c
+2017-04-30 15:19:18 ....A        66432               mgba-medusa\src\third-party\lzma\LzmaEnc.c
+2017-04-30 15:19:18 ....A         1323               mgba-medusa\src\third-party\lzma\LzmaLib.c
+2017-04-30 15:19:18 ....A          331               mgba-medusa\src\third-party\lzma\Util\LzmaLib\LzmaLibExports.c
+2017-04-30 15:19:18 ....A         6429               mgba-medusa\src\third-party\lzma\Util\Lzma\LzmaUtil.c
+2017-04-30 15:19:18 ....A         4639               mgba-medusa\src\platform\psp2\main.c
+2017-04-30 15:19:18 ....A         6378               mgba-medusa\src\platform\sdl\main.c
+2017-04-30 15:19:18 ....A        22237               mgba-medusa\src\platform\3ds\main.c
+2017-04-30 15:19:18 ....A        28985               mgba-medusa\src\platform\wii\main.c
+2017-04-30 15:19:18 ....A        40389               mgba-medusa\src\third-party\libpng\contrib\libtests\makepng.c
+2017-04-30 15:19:18 ....A        11149               mgba-medusa\src\third-party\libpng\contrib\tools\makesRGB.c
+2017-04-30 15:19:18 ....A         1980               mgba-medusa\src\ds\matrix.c
+2017-04-30 15:19:18 ....A         6504               mgba-medusa\src\gb\test\mbc.c
+2017-04-30 15:19:18 ....A        16478               mgba-medusa\src\gb\mbc.c
+2017-04-30 15:19:18 ....A         6268               mgba-medusa\src\arm\debugger\memory-debugger.c
+2017-04-30 15:19:18 ....A          499               mgba-medusa\src\platform\posix\memory.c
+2017-04-30 15:19:18 ....A          608               mgba-medusa\src\platform\windows\memory.c
+2017-04-30 15:19:18 ....A         2237               mgba-medusa\src\gb\test\memory.c
+2017-04-30 15:19:18 ....A        22595               mgba-medusa\src\gb\memory.c
+2017-04-30 15:19:18 ....A        45988               mgba-medusa\src\ds\memory.c
+2017-04-30 15:19:18 ....A        48937               mgba-medusa\src\gba\memory.c
+2017-04-30 15:19:18 ....A         9330               mgba-medusa\src\util\gui\menu.c
+2017-04-30 15:19:18 ....A         2784               mgba-medusa\opt\libgba\mgba.c
+2017-04-30 15:19:18 ....A        16943               mgba-medusa\src\gba\rr\mgm.c
+2017-04-30 15:19:18 ....A        15764               mgba-medusa\src\third-party\zlib\test\minigzip.c
+2017-04-30 15:19:18 ....A        17763               mgba-medusa\src\third-party\zlib\contrib\minizip\miniunz.c
+2017-04-30 15:19:18 ....A        15034               mgba-medusa\src\third-party\zlib\contrib\minizip\minizip.c
+2017-04-30 15:19:18 ....A         8317               mgba-medusa\src\third-party\lzma\MtCoder.c
+2017-04-30 15:19:18 ....A         8146               mgba-medusa\src\third-party\zlib\contrib\minizip\mztools.c
+2017-04-30 15:19:18 ....A         8721               mgba-medusa\src\feature\sqlite3\no-intro.c
+2017-04-30 15:19:18 ....A         3062               mgba-medusa\src\gb\overrides.c
+2017-04-30 15:19:18 ....A        12243               mgba-medusa\src\gba\overrides.c
+2017-04-30 15:19:18 ....A         3741               mgba-medusa\src\platform\sdl\pandora-sdl.c
+2017-04-30 15:19:18 ....A         9566               mgba-medusa\src\debugger\parser.c
+2017-04-30 15:19:18 ....A        12766               mgba-medusa\src\gba\cheats\parv3.c
+2017-04-30 15:19:18 ....A         3573               mgba-medusa\src\util\patch-fast.c
+2017-04-30 15:19:18 ....A         2297               mgba-medusa\src\util\patch-ips.c
+2017-04-30 15:19:18 ....A         6169               mgba-medusa\src\util\patch-ups.c
+2017-04-30 15:19:18 ....A          578               mgba-medusa\src\util\patch.c
+2017-04-30 15:19:18 ....A         7839               mgba-medusa\src\platform\test\perf-main.c
+2017-04-30 15:19:18 ....A         3949               mgba-medusa\src\third-party\libpng\contrib\tools\png-fix-itxt.c
+2017-04-30 15:19:18 ....A         7534               mgba-medusa\src\util\png-io.c
+2017-04-30 15:19:18 ....A       153327               mgba-medusa\src\third-party\libpng\png.c
+2017-04-30 15:19:18 ....A        11674               mgba-medusa\src\third-party\libpng\contrib\pngminus\png2pnm.c
+2017-04-30 15:19:18 ....A        29160               mgba-medusa\src\third-party\libpng\pngerror.c
+2017-04-30 15:19:18 ....A        11818               mgba-medusa\src\third-party\libpng\contrib\visupng\PngFile.c
+2017-04-30 15:19:18 ....A       129571               mgba-medusa\src\third-party\libpng\contrib\tools\pngfix.c
+2017-04-30 15:19:18 ....A        33355               mgba-medusa\src\third-party\libpng\pngget.c
+2017-04-30 15:19:18 ....A        49847               mgba-medusa\src\third-party\libpng\contrib\libtests\pngimage.c
+2017-04-30 15:19:18 ....A         8201               mgba-medusa\src\third-party\libpng\pngmem.c
+2017-04-30 15:19:18 ....A        14900               mgba-medusa\src\third-party\libpng\contrib\examples\pngpixel.c
+2017-04-30 15:19:18 ....A        34300               mgba-medusa\src\third-party\libpng\pngpread.c
+2017-04-30 15:19:18 ....A       138304               mgba-medusa\src\third-party\libpng\pngread.c
+2017-04-30 15:19:18 ....A         3940               mgba-medusa\src\third-party\libpng\pngrio.c
+2017-04-30 15:19:18 ....A       168401               mgba-medusa\src\third-party\libpng\pngrtran.c
+2017-04-30 15:19:18 ....A       141536               mgba-medusa\src\third-party\libpng\pngrutil.c
+2017-04-30 15:19:18 ....A        47079               mgba-medusa\src\third-party\libpng\pngset.c
+2017-04-30 15:19:18 ....A       108378               mgba-medusa\src\third-party\libpng\contrib\libtests\pngstest.c
+2017-04-30 15:19:18 ....A        59346               mgba-medusa\src\third-party\libpng\pngtest.c
+2017-04-30 15:19:18 ....A         2798               mgba-medusa\src\third-party\libpng\contrib\examples\pngtopng.c
+2017-04-30 15:19:18 ....A        25108               mgba-medusa\src\third-party\libpng\pngtrans.c
+2017-04-30 15:19:18 ....A        34668               mgba-medusa\src\third-party\libpng\contrib\libtests\pngunknown.c
+2017-04-30 15:19:18 ....A       352924               mgba-medusa\src\third-party\libpng\contrib\libtests\pngvalid.c
+2017-04-30 15:19:18 ....A         5637               mgba-medusa\src\third-party\libpng\pngwio.c
+2017-04-30 15:19:18 ....A        78821               mgba-medusa\src\third-party\libpng\pngwrite.c
+2017-04-30 15:19:18 ....A        15328               mgba-medusa\src\third-party\libpng\pngwtran.c
+2017-04-30 15:19:18 ....A        89174               mgba-medusa\src\third-party\libpng\pngwutil.c
+2017-04-30 15:19:18 ....A        16128               mgba-medusa\src\third-party\libpng\contrib\pngminus\pnm2png.c
+2017-04-30 15:19:18 ....A        17563               mgba-medusa\src\third-party\lzma\Ppmd7.c
+2017-04-30 15:19:18 ....A         4884               mgba-medusa\src\third-party\lzma\Ppmd7Dec.c
+2017-04-30 15:19:18 ....A         4557               mgba-medusa\src\third-party\lzma\Ppmd7Enc.c
+2017-04-30 15:19:18 ....A           93               mgba-medusa\src\third-party\lzma\Util\7z\Precomp.c
+2017-04-30 15:19:18 ....A           93               mgba-medusa\src\third-party\lzma\Util\SfxSetup\Precomp.c
+2017-04-30 15:19:18 ....A          615               mgba-medusa\src\third-party\libpng\scripts\prefix.c
+2017-04-30 15:19:18 ....A        12336               mgba-medusa\src\platform\psp2\psp2-context.c
+2017-04-30 15:19:18 ....A         1292               mgba-medusa\src\platform\psp2\psp2-memory.c
+2017-04-30 15:19:18 ....A        37886               mgba-medusa\src\third-party\zlib\contrib\puff\puff.c
+2017-04-30 15:19:18 ....A         4917               mgba-medusa\src\third-party\zlib\contrib\puff\pufftest.c
+2017-04-30 15:19:18 ....A         2727               mgba-medusa\src\third-party\libpng\contrib\libtests\readpng.c
+2017-04-30 15:19:18 ....A        10023               mgba-medusa\src\third-party\libpng\contrib\gregbook\readpng.c
+2017-04-30 15:19:18 ....A        17894               mgba-medusa\src\third-party\libpng\contrib\gregbook\readpng2.c
+2017-04-30 15:19:18 ....A         5535               mgba-medusa\src\third-party\libpng\contrib\gregbook\readppm.c
+2017-04-30 15:19:18 ....A         2713               mgba-medusa\src\feature\gui\remap.c
+2017-04-30 15:19:18 ....A         3574               mgba-medusa\src\core\rewind.c
+2017-04-30 15:19:18 ....A         2494               mgba-medusa\src\util\ring-fifo.c
+2017-04-30 15:19:18 ....A        23776               mgba-medusa\src\third-party\libpng\contrib\gregbook\rpng-win.c
+2017-04-30 15:19:18 ....A        30965               mgba-medusa\src\third-party\libpng\contrib\gregbook\rpng-x.c
+2017-04-30 15:19:18 ....A        45403               mgba-medusa\src\third-party\libpng\contrib\gregbook\rpng2-win.c
+2017-04-30 15:19:18 ....A        82074               mgba-medusa\src\third-party\libpng\contrib\gregbook\rpng2-x.c
+2017-04-30 15:19:18 ....A         2155               mgba-medusa\src\gba\rr\rr.c
+2017-04-30 15:19:18 ....A        17762               mgba-medusa\src\gb\test\rtc.c
+2017-04-30 15:19:18 ....A        18798               mgba-medusa\src\gba\savedata.c
+2017-04-30 15:19:18 ....A         6920               mgba-medusa\src\platform\psp2\sce-vfs.c
+2017-04-30 15:19:18 ....A         4017               mgba-medusa\src\platform\sdl\sdl-audio.c
+2017-04-30 15:19:18 ....A        24353               mgba-medusa\src\platform\sdl\sdl-events.c
+2017-04-30 15:19:18 ....A         6823               mgba-medusa\src\gb\serialize.c
+2017-04-30 15:19:18 ....A         8270               mgba-medusa\src\gba\serialize.c
+2017-04-30 15:19:18 ....A        11812               mgba-medusa\src\core\serialize.c
+2017-04-30 15:19:18 ....A         5399               mgba-medusa\src\platform\example\client-server\server.c
+2017-04-30 15:19:18 ....A        15046               mgba-medusa\src\third-party\lzma\Util\SfxSetup\SfxSetup.c
+2017-04-30 15:19:18 ....A         5529               mgba-medusa\src\third-party\lzma\Sha256.c
+2017-04-30 15:19:18 ....A         5718               mgba-medusa\src\gba\sharkport.c
+2017-04-30 15:19:18 ....A         2583               mgba-medusa\src\gb\sio.c
+2017-04-30 15:19:18 ....A         4688               mgba-medusa\src\gba\sio.c
+2017-04-30 15:19:18 ....A        15363               mgba-medusa\src\ds\slot1.c
+2017-04-30 15:19:18 ....A          303               mgba-medusa\src\platform\3ds\socket.c
+2017-04-30 15:19:18 ....A         7015               mgba-medusa\src\gba\renderers\software-bg.c
+2017-04-30 15:19:18 ....A        21977               mgba-medusa\src\gba\renderers\software-mode0.c
+2017-04-30 15:19:18 ....A        19866               mgba-medusa\src\gba\renderers\software-obj.c
+2017-04-30 15:19:18 ....A        20299               mgba-medusa\src\gb\renderers\software.c
+2017-04-30 15:19:18 ....A        26077               mgba-medusa\src\ds\gx\software.c
+2017-04-30 15:19:18 ....A        35188               mgba-medusa\src\ds\renderers\software.c
+2017-04-30 15:19:18 ....A         2589               mgba-medusa\src\third-party\lzma\Sort.c
+2017-04-30 15:19:18 ....A         5607               mgba-medusa\src\ds\spi.c
+2017-04-30 15:19:18 ....A      7053318               mgba-medusa\src\third-party\sqlite3\sqlite3.c
+2017-04-30 15:19:18 ....A         7290               mgba-medusa\src\util\string.c
+2017-04-30 15:19:18 ....A          633               mgba-medusa\src\platform\test\suite-main.c
+2017-04-30 15:19:18 ....A         5346               mgba-medusa\src\platform\sdl\sw-sdl.c
+2017-04-30 15:19:18 ....A          427               mgba-medusa\src\third-party\libpng\scripts\sym.c
+2017-04-30 15:19:18 ....A         1995               mgba-medusa\src\third-party\libpng\scripts\symbols.c
+2017-04-30 15:19:18 ....A         2609               mgba-medusa\src\core\sync.c
+2017-04-30 15:19:18 ....A         6827               mgba-medusa\src\util\table.c
+2017-04-30 15:19:18 ....A        28165               mgba-medusa\src\third-party\libpng\contrib\libtests\tarith.c
+2017-04-30 15:19:18 ....A          815               mgba-medusa\src\platform\test\tbl-fuzz-main.c
+2017-04-30 15:19:18 ....A         7643               mgba-medusa\src\third-party\zlib\contrib\testzlib\testzlib.c
+2017-04-30 15:19:18 ....A         5180               mgba-medusa\src\util\text-codec.c
+2017-04-30 15:19:18 ....A        36487               mgba-medusa\src\util\test\text-codec.c
+2017-04-30 15:19:18 ....A        14731               mgba-medusa\src\gba\renderers\thread-proxy.c
+2017-04-30 15:19:18 ....A        18509               mgba-medusa\src\core\thread.c
+2017-04-30 15:19:18 ....A         2765               mgba-medusa\src\third-party\lzma\Threads.c
+2017-04-30 15:19:18 ....A         1083               mgba-medusa\src\gba\renderers\tile-cache.c
+2017-04-30 15:19:18 ....A         1123               mgba-medusa\src\gb\renderers\tile-cache.c
+2017-04-30 15:19:18 ....A        10727               mgba-medusa\src\core\tile-cache.c
+2017-04-30 15:19:18 ....A         6556               mgba-medusa\src\third-party\libpng\contrib\libtests\timepng.c
+2017-04-30 15:19:18 ....A         4054               mgba-medusa\src\gb\timer.c
+2017-04-30 15:19:18 ....A         4229               mgba-medusa\src\ds\timer.c
+2017-04-30 15:19:18 ....A         6957               mgba-medusa\src\gba\timer.c
+2017-04-30 15:19:18 ....A         2544               mgba-medusa\src\core\timing.c
+2017-04-30 15:19:18 ....A        44255               mgba-medusa\src\third-party\zlib\trees.c
+2017-04-30 15:19:18 ....A         2003               mgba-medusa\src\third-party\zlib\uncompr.c
+2017-04-30 15:19:18 ....A        16542               mgba-medusa\src\third-party\zlib\contrib\untgz\untgz.c
+2017-04-30 15:19:18 ....A        71054               mgba-medusa\src\third-party\zlib\contrib\minizip\unzip.c
+2017-04-30 15:19:18 ....A          480               mgba-medusa\src\util\test\util.c
+2017-04-30 15:19:18 ....A         7238               mgba-medusa\src\gba\rr\vbm.c
+2017-04-30 15:19:18 ....A          496               mgba-medusa\src\third-party\libpng\scripts\vers.c
+2017-04-30 15:19:18 ....A         9850               mgba-medusa\src\gba\vfame.c
+2017-04-30 15:19:18 ....A         2726               mgba-medusa\src\util\vfs\vfs-devlist.c
+2017-04-30 15:19:18 ....A         3928               mgba-medusa\src\util\vfs\vfs-dirent.c
+2017-04-30 15:19:18 ....A         4631               mgba-medusa\src\util\vfs\vfs-fd.c
+2017-04-30 15:19:18 ....A         4150               mgba-medusa\src\util\vfs\vfs-file.c
+2017-04-30 15:19:18 ....A         8148               mgba-medusa\src\util\vfs\vfs-lzma.c
+2017-04-30 15:19:18 ....A         6801               mgba-medusa\src\util\vfs\vfs-mem.c
+2017-04-30 15:19:18 ....A         1308               mgba-medusa\src\platform\python\vfs-py.c
+2017-04-30 15:19:18 ....A         4509               mgba-medusa\src\platform\windows\vfs-w32.c
+2017-04-30 15:19:18 ....A        14342               mgba-medusa\src\util\vfs\vfs-zip.c
+2017-04-30 15:19:18 ....A         4347               mgba-medusa\src\util\test\vfs.c
+2017-04-30 15:19:18 ....A         5844               mgba-medusa\src\util\vfs.c
+2017-04-30 15:19:18 ....A        34034               mgba-medusa\src\gba\renderers\video-software.c
+2017-04-30 15:19:18 ....A        11185               mgba-medusa\src\gba\video.c
+2017-04-30 15:19:18 ....A        22264               mgba-medusa\src\gb\video.c
+2017-04-30 15:19:18 ....A        25704               mgba-medusa\src\ds\video.c
+2017-04-30 15:19:18 ....A        26233               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.c
+2017-04-30 15:19:18 ....A         2844               mgba-medusa\src\ds\wifi.c
+2017-04-30 15:19:18 ....A          427               mgba-medusa\src\platform\wii\wii-memory.c
+2017-04-30 15:19:18 ....A        31050               mgba-medusa\src\third-party\libpng\contrib\gregbook\wpng.c
+2017-04-30 15:19:18 ....A        13286               mgba-medusa\src\third-party\libpng\contrib\gregbook\writepng.c
+2017-04-30 15:19:18 ....A         2014               mgba-medusa\src\third-party\lzma\Xz.c
+2017-04-30 15:19:18 ....A         2192               mgba-medusa\src\third-party\lzma\XzCrc64.c
+2017-04-30 15:19:18 ....A         2031               mgba-medusa\src\third-party\lzma\XzCrc64Opt.c
+2017-04-30 15:19:18 ....A        23560               mgba-medusa\src\third-party\lzma\XzDec.c
+2017-04-30 15:19:18 ....A        13454               mgba-medusa\src\third-party\lzma\XzEnc.c
+2017-04-30 15:19:18 ....A         8556               mgba-medusa\src\third-party\lzma\XzIn.c
+2017-04-30 15:19:18 ....A        65850               mgba-medusa\src\third-party\zlib\contrib\minizip\zip.c
+2017-04-30 15:19:18 ....A         6323               mgba-medusa\src\third-party\zlib\examples\zpipe.c
+2017-04-30 15:19:18 ....A        15438               mgba-medusa\src\third-party\zlib\examples\zran.c
+2017-04-30 15:19:18 ....A         7414               mgba-medusa\src\third-party\zlib\zutil.c
+2017-04-30 15:19:18 ....A         2101               mgba-medusa\src\platform\qt\AboutScreen.cpp
+2017-04-30 15:19:18 ....A          867               mgba-medusa\src\platform\qt\ArchiveInspector.cpp
+2017-04-30 15:19:18 ....A         3678               mgba-medusa\src\platform\qt\AssetTile.cpp
+2017-04-30 15:19:18 ....A         3010               mgba-medusa\src\platform\qt\AssetView.cpp
+2017-04-30 15:19:18 ....A         2277               mgba-medusa\src\platform\qt\AudioDevice.cpp
+2017-04-30 15:19:18 ....A         1238               mgba-medusa\src\platform\qt\AudioProcessor.cpp
+2017-04-30 15:19:18 ....A         2168               mgba-medusa\src\platform\qt\AudioProcessorQt.cpp
+2017-04-30 15:19:18 ....A         1738               mgba-medusa\src\platform\qt\AudioProcessorSDL.cpp
+2017-04-30 15:19:18 ....A         6454               mgba-medusa\src\platform\qt\CheatsModel.cpp
+2017-04-30 15:19:18 ....A         5165               mgba-medusa\src\platform\qt\CheatsView.cpp
+2017-04-30 15:19:18 ....A         7800               mgba-medusa\src\platform\qt\ConfigController.cpp
+2017-04-30 15:19:18 ....A         1342               mgba-medusa\src\platform\qt\DebuggerConsole.cpp
+2017-04-30 15:19:18 ....A         3918               mgba-medusa\src\platform\qt\DebuggerConsoleController.cpp
+2017-04-30 15:19:18 ....A         1780               mgba-medusa\src\platform\qt\DebuggerController.cpp
+2017-04-30 15:19:18 ....A         3237               mgba-medusa\src\platform\qt\Display.cpp
+2017-04-30 15:19:18 ....A        11797               mgba-medusa\src\platform\qt\DisplayGL.cpp
+2017-04-30 15:19:18 ....A         2110               mgba-medusa\src\platform\qt\DisplayQt.cpp
+2017-04-30 15:19:18 ....A        34372               mgba-medusa\src\platform\qt\GameController.cpp
+2017-04-30 15:19:18 ....A          972               mgba-medusa\src\platform\qt\GamepadAxisEvent.cpp
+2017-04-30 15:19:18 ....A         1066               mgba-medusa\src\platform\qt\GamepadButtonEvent.cpp
+2017-04-30 15:19:18 ....A         1161               mgba-medusa\src\platform\qt\GamepadHatEvent.cpp
+2017-04-30 15:19:18 ....A         6319               mgba-medusa\src\platform\qt\GBAApp.cpp
+2017-04-30 15:19:18 ....A          799               mgba-medusa\src\platform\qt\GBAOverride.cpp
+2017-04-30 15:19:18 ....A          986               mgba-medusa\src\platform\qt\GBOverride.cpp
+2017-04-30 15:19:18 ....A         1206               mgba-medusa\src\platform\qt\GDBController.cpp
+2017-04-30 15:19:18 ....A         4007               mgba-medusa\src\platform\qt\GDBWindow.cpp
+2017-04-30 15:19:18 ....A         2393               mgba-medusa\src\platform\qt\GIFView.cpp
+2017-04-30 15:19:18 ....A        25577               mgba-medusa\src\platform\qt\InputController.cpp
+2017-04-30 15:19:18 ....A         2747               mgba-medusa\src\platform\qt\InputItem.cpp
+2017-04-30 15:19:18 ....A        15281               mgba-medusa\src\platform\qt\InputModel.cpp
+2017-04-30 15:19:18 ....A         6984               mgba-medusa\src\platform\qt\InputProfile.cpp
+2017-04-30 15:19:18 ....A        31018               mgba-medusa\src\platform\qt\IOViewer.cpp
+2017-04-30 15:19:18 ....A         5089               mgba-medusa\src\platform\qt\KeyEditor.cpp
+2017-04-30 15:19:18 ....A         7941               mgba-medusa\src\platform\qt\LibraryModel.cpp
+2017-04-30 15:19:18 ....A         1838               mgba-medusa\src\platform\qt\LibraryView.cpp
+2017-04-30 15:19:18 ....A         6089               mgba-medusa\src\platform\qt\LoadSaveState.cpp
+2017-04-30 15:19:18 ....A         2222               mgba-medusa\src\platform\qt\LogController.cpp
+2017-04-30 15:19:18 ....A         4491               mgba-medusa\src\platform\qt\LogView.cpp
+2017-04-30 15:19:18 ....A         1139               mgba-medusa\src\platform\qt\main.cpp
+2017-04-30 15:19:18 ....A        22366               mgba-medusa\src\platform\qt\MemoryModel.cpp
+2017-04-30 15:19:18 ....A         6495               mgba-medusa\src\platform\qt\MemoryView.cpp
+2017-04-30 15:19:18 ....A         2877               mgba-medusa\src\platform\qt\MessagePainter.cpp
+2017-04-30 15:19:18 ....A         7589               mgba-medusa\src\platform\qt\MultiplayerController.cpp
+2017-04-30 15:19:18 ....A         9263               mgba-medusa\src\platform\qt\ObjView.cpp
+2017-04-30 15:19:18 ....A         7166               mgba-medusa\src\platform\qt\OverrideView.cpp
+2017-04-30 15:19:18 ....A         4713               mgba-medusa\src\platform\qt\PaletteView.cpp
+2017-04-30 15:19:18 ....A         2229               mgba-medusa\src\platform\qt\ROMInfo.cpp
+2017-04-30 15:19:18 ....A         1642               mgba-medusa\src\platform\qt\SavestateButton.cpp
+2017-04-30 15:19:18 ....A         4956               mgba-medusa\src\platform\qt\SensorView.cpp
+2017-04-30 15:19:18 ....A        13570               mgba-medusa\src\platform\qt\SettingsView.cpp
+2017-04-30 15:19:18 ....A         9293               mgba-medusa\src\platform\qt\ShaderSelector.cpp
+2017-04-30 15:19:18 ....A         3875               mgba-medusa\src\platform\qt\ShortcutView.cpp
+2017-04-30 15:19:18 ....A         1526               mgba-medusa\src\platform\qt\Swatch.cpp
+2017-04-30 15:19:18 ....A          526               mgba-medusa\src\third-party\zlib\contrib\iostream\test.cpp
+2017-04-30 15:19:18 ....A         2014               mgba-medusa\src\platform\qt\TilePainter.cpp
+2017-04-30 15:19:18 ....A         3974               mgba-medusa\src\platform\qt\TileView.cpp
+2017-04-30 15:19:18 ....A         1030               mgba-medusa\src\platform\qt\VFileDevice.cpp
+2017-04-30 15:19:18 ....A        14779               mgba-medusa\src\platform\qt\VideoView.cpp
+2017-04-30 15:19:18 ....A        58170               mgba-medusa\src\platform\qt\Window.cpp
+2017-04-30 15:19:18 ....A         5112               mgba-medusa\src\third-party\zlib\contrib\iostream\zfstream.cpp
+2017-04-30 15:19:18 ....A          711               mgba-medusa\src\third-party\zlib\contrib\iostream2\zstream_test.cpp
+2017-04-30 15:19:18 ....A         1530               mgba-medusa\src\third-party\lzma\7zVersion.rc
+2017-04-30 15:19:18 ....A         3958               mgba-medusa\src\third-party\libpng\scripts\pngwin.rc
+2017-04-30 15:19:18 ....A           78               mgba-medusa\src\third-party\lzma\Util\LzmaLib\resource.rc
+2017-04-30 15:19:18 ....A          111               mgba-medusa\src\third-party\lzma\Util\SfxSetup\resource.rc
+2017-04-30 15:19:18 ....A         3944               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.rc
+2017-04-30 15:19:18 ....A          948               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlib.rc
+2017-04-30 15:19:18 ....A          948               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\zlib.rc
+2017-04-30 15:19:18 ....A          948               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\zlib.rc
+2017-04-30 15:19:18 ....A         1138               mgba-medusa\src\third-party\zlib\win32\zlib1.rc
+2017-04-30 15:19:18 ....A         2500               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\AssemblyInfo.cs
+2017-04-30 15:19:18 ....A         8040               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\ChecksumImpl.cs
+2017-04-30 15:19:18 ....A         2246               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\CircularBuffer.cs
+2017-04-30 15:19:18 ....A         6335               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\CodecBase.cs
+2017-04-30 15:19:18 ....A         3992               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\Deflater.cs
+2017-04-30 15:19:18 ....A         9927               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\DotZLib.cs
+2017-04-30 15:19:18 ....A        11162               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\GZipStream.cs
+2017-04-30 15:19:18 ....A         3740               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\Inflater.cs
+2017-04-30 15:19:18 ....A         7684               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\UnitTests.cs
+2017-04-30 15:19:18 ....A        15687               mgba-medusa\src\third-party\zlib\contrib\pascal\example.pas
+2017-04-30 15:19:18 ....A        16412               mgba-medusa\src\third-party\zlib\contrib\delphi\ZLib.pas
+2017-04-30 15:19:18 ....A          186               mgba-medusa\src\third-party\zlib\contrib\delphi\ZLibConst.pas
+2017-04-30 15:19:18 ....A        10126               mgba-medusa\src\third-party\zlib\contrib\pascal\zlibpas.pas
+2017-04-30 15:19:18 ....A           45               mgba-medusa\src\third-party\lzma\Util\LzmaLib\LzmaLib.def
+2017-04-30 15:19:18 ....A         6462               mgba-medusa\src\third-party\libpng\scripts\symbols.def
+2017-04-30 15:19:18 ....A          778               mgba-medusa\src\third-party\zlib\old\os2\zlib.def
+2017-04-30 15:19:18 ....A         1391               mgba-medusa\src\third-party\zlib\win32\zlib.def
+2017-04-30 15:19:18 ....A         6756               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.def
+2017-04-30 15:19:18 ....A         6756               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.def
+2017-04-30 15:19:18 ....A         6756               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.def
+2017-04-30 15:19:18 ....A        16443               mgba-medusa\src\third-party\zlib\contrib\masmx64\gvmat64.asm
+2017-04-30 15:19:18 ....A        16392               mgba-medusa\src\third-party\zlib\contrib\masmx86\inffas32.asm
+2017-04-30 15:19:18 ....A        10583               mgba-medusa\src\third-party\zlib\contrib\masmx64\inffasx64.asm
+2017-04-30 15:19:18 ....A        15825               mgba-medusa\src\third-party\zlib\contrib\masmx86\match686.asm
+2017-04-30 15:19:18 ....A         6368               mgba-medusa\src\third-party\libpng\projects\owatcom\pngconfig.mak
+2017-04-30 15:19:18 ....A         2157               mgba-medusa\src\third-party\libpng\scripts\pnglibconf.mak
+2017-04-30 15:19:18 ....A          446               mgba-medusa\src\third-party\libpng\projects\visualc71\PRJ0041.mak
+2017-04-30 15:19:18 ....A         1439               mgba-medusa\src\third-party\zlib\watcom\watcom_f.mak
+2017-04-30 15:19:18 ....A         1407               mgba-medusa\src\third-party\zlib\watcom\watcom_l.mak
+2017-04-30 15:19:18 ....A         2360               mgba-medusa\src\third-party\zlib\contrib\delphi\zlibd32.mak
+2017-04-30 15:19:18 ....A         2360               mgba-medusa\src\third-party\zlib\contrib\pascal\zlibd32.mak
+2017-04-30 15:19:18 ....A         5396               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib\DotZLib.csproj
+2017-04-30 15:19:18 ....A        11796               mgba-medusa\src\third-party\libpng\projects\visualc71\libpng.vcproj
+2017-04-30 15:19:18 ....A        12939               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\miniunz.vcproj
+2017-04-30 15:19:18 ....A        12753               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\minizip.vcproj
+2017-04-30 15:19:18 ....A         7256               mgba-medusa\src\third-party\libpng\projects\visualc71\pngtest.vcproj
+2017-04-30 15:19:18 ....A        18951               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\testzlib.vcproj
+2017-04-30 15:19:18 ....A        12978               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\testzlibdll.vcproj
+2017-04-30 15:19:18 ....A         9683               mgba-medusa\src\third-party\libpng\projects\visualc71\zlib.vcproj
+2017-04-30 15:19:18 ....A        19532               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\zlibstat.vcproj
+2017-04-30 15:19:18 ....A        28028               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.vcproj
+2017-04-30 15:19:18 ....A          907               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib.sln
+2017-04-30 15:19:18 ....A         3604               mgba-medusa\src\third-party\libpng\projects\visualc71\libpng.sln
+2017-04-30 15:19:18 ....A         7798               mgba-medusa\src\third-party\libpng\projects\vstudio\vstudio.sln
+2017-04-30 15:19:18 ....A         8539               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.sln
+2017-04-30 15:19:18 ....A        10153               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.sln
+2017-04-30 15:19:18 ....A        10612               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9\zlibvc.sln
+2017-04-30 15:19:18 ....A         6636               mgba-medusa\src\third-party\lzma\Util\7z\7z.dsp
+2017-04-30 15:19:18 ....A         5249               mgba-medusa\src\third-party\lzma\Util\LzmaLib\LzmaLib.dsp
+2017-04-30 15:19:18 ....A         5382               mgba-medusa\src\third-party\lzma\Util\Lzma\LzmaUtil.dsp
+2017-04-30 15:19:18 ....A         5810               mgba-medusa\src\third-party\lzma\Util\SfxSetup\SfxSetup.dsp
+2017-04-30 15:19:18 ....A         5204               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.dsp
+2017-04-30 15:19:18 ....A          527               mgba-medusa\src\third-party\lzma\Util\7z\7z.dsw
+2017-04-30 15:19:18 ....A          537               mgba-medusa\src\third-party\lzma\Util\LzmaLib\LzmaLib.dsw
+2017-04-30 15:19:18 ....A          539               mgba-medusa\src\third-party\lzma\Util\Lzma\LzmaUtil.dsw
+2017-04-30 15:19:18 ....A          539               mgba-medusa\src\third-party\lzma\Util\SfxSetup\SfxSetup.dsw
+2017-04-30 15:19:18 ....A          541               mgba-medusa\src\third-party\libpng\contrib\visupng\VisualPng.dsw
+2017-04-30 15:19:18 ....A           92               mgba-medusa\src\third-party\zlib\contrib\masmx86\bld_ml32.bat
+2017-04-30 15:19:18 ....A           86               mgba-medusa\src\third-party\zlib\contrib\masmx64\bld_ml64.bat
+2017-04-30 15:19:18 ....A         1995               mgba-medusa\src\third-party\libpng\contrib\pngminus\png2pnm.bat
+2017-04-30 15:19:18 ....A           56               mgba-medusa\src\third-party\libpng\contrib\pngminus\pngminus.bat
+2017-04-30 15:19:18 ....A         1531               mgba-medusa\src\third-party\libpng\contrib\pngminus\pnm2png.bat
+2017-04-30 15:19:18 ....A         3135               mgba-medusa\src\third-party\zlib\treebuild.xml
+2017-04-30 15:19:18 ....A        29824               mgba-medusa\src\third-party\zlib\examples\zlib_how.html
+2017-04-30 15:19:18 ....A         5728               mgba-medusa\src\third-party\libpng\scripts\checksym.awk
+2017-04-30 15:19:18 ....A         5634               mgba-medusa\src\third-party\libpng\scripts\dfn.awk
+2017-04-30 15:19:18 ....A        31622               mgba-medusa\src\third-party\libpng\scripts\options.awk
+2017-04-30 15:19:18 ....A          883               mgba-medusa\src\platform\python\mgba\arm.py
+2017-04-30 15:19:18 ....A         4593               mgba-medusa\src\platform\python\mgba\core.py
+2017-04-30 15:19:18 ....A         5460               mgba-medusa\tools\deploy-mac.py
+2017-04-30 15:19:18 ....A         2728               mgba-medusa\src\platform\python\mgba\gb.py
+2017-04-30 15:19:18 ....A         3387               mgba-medusa\src\platform\python\mgba\gba.py
+2017-04-30 15:19:18 ....A         1344               mgba-medusa\src\platform\python\mgba\image.py
+2017-04-30 15:19:18 ....A         1155               mgba-medusa\src\platform\python\mgba\log.py
+2017-04-30 15:19:18 ....A         2362               mgba-medusa\src\platform\python\mgba\lr35902.py
+2017-04-30 15:19:18 ....A         3526               mgba-medusa\src\platform\python\mgba\memory.py
+2017-04-30 15:19:18 ....A         6519               mgba-medusa\tools\perf.py
+2017-04-30 15:19:18 ....A          756               mgba-medusa\src\platform\python\mgba\png.py
+2017-04-30 15:19:18 ....A         1997               mgba-medusa\src\platform\python\mgba\tile.py
+2017-04-30 15:19:18 ....A         3084               mgba-medusa\src\platform\python\mgba\vfs.py
+2017-04-30 15:19:18 ....A         1839               mgba-medusa\src\platform\python\_builder.py
+2017-04-30 15:19:18 ....A          498               mgba-medusa\.travis-deps.sh
+2017-04-30 15:19:18 ....A         7963               mgba-medusa\src\third-party\libpng\autogen.sh
+2017-04-30 15:19:18 ....A         2266               mgba-medusa\src\third-party\libpng\contrib\libtests\gentests.sh
+2017-04-30 15:19:18 ....A         2926               mgba-medusa\src\third-party\libpng\contrib\tools\intgamma.sh
+2017-04-30 15:19:18 ....A       324089               mgba-medusa\src\third-party\libpng\ltmain.sh
+2017-04-30 15:19:18 ....A         1925               mgba-medusa\src\third-party\libpng\contrib\pngminus\png2pnm.sh
+2017-04-30 15:19:18 ....A           60               mgba-medusa\src\third-party\libpng\contrib\pngminus\pngminus.sh
+2017-04-30 15:19:18 ....A         1461               mgba-medusa\src\third-party\libpng\contrib\pngminus\pnm2png.sh
+2017-04-30 15:19:18 ....A         1396               mgba-medusa\tools\sanitize-deb.sh
+2017-04-30 15:19:18 ....A         9335               mgba-medusa\src\third-party\zlib\doc\algorithm.txt
+2017-04-30 15:19:18 ....A          913               mgba-medusa\src\platform\python\CMakeLists.txt
+2017-04-30 15:19:18 ....A         2363               mgba-medusa\src\platform\wii\CMakeLists.txt
+2017-04-30 15:19:18 ....A         3657               mgba-medusa\src\platform\psp2\CMakeLists.txt
+2017-04-30 15:19:18 ....A         3956               mgba-medusa\src\platform\sdl\CMakeLists.txt
+2017-04-30 15:19:18 ....A         5448               mgba-medusa\src\platform\3ds\CMakeLists.txt
+2017-04-30 15:19:18 ....A         8098               mgba-medusa\src\third-party\zlib\CMakeLists.txt
+2017-04-30 15:19:18 ....A         8973               mgba-medusa\src\platform\qt\CMakeLists.txt
+2017-04-30 15:19:18 ....A        13814               mgba-medusa\src\third-party\libpng\CMakeLists.txt
+2017-04-30 15:19:18 ....A        37977               mgba-medusa\CMakeLists.txt
+2017-04-30 15:19:18 ....A         1945               mgba-medusa\src\platform\wii\CMakeToolchain.txt
+2017-04-30 15:19:18 ....A         2060               mgba-medusa\src\platform\3ds\CMakeToolchain.txt
+2017-04-30 15:19:18 ....A        17921               mgba-medusa\src\third-party\zlib\win32\DLL_FAQ.txt
+2017-04-30 15:19:18 ....A       225390               mgba-medusa\src\third-party\libpng\libpng-manual.txt
+2017-04-30 15:19:18 ....A         1510               mgba-medusa\src\third-party\inih\LICENSE.txt
+2017-04-30 15:19:18 ....A        26940               mgba-medusa\src\third-party\blip_buf\license.txt
+2017-04-30 15:19:18 ....A         1359               mgba-medusa\src\third-party\zlib\contrib\dotzlib\LICENSE_1_0.txt
+2017-04-30 15:19:18 ....A          109               mgba-medusa\src\third-party\zlib\contrib\minizip\MiniZip64_Changes.txt
+2017-04-30 15:19:18 ....A         3048               mgba-medusa\src\third-party\zlib\contrib\minizip\MiniZip64_info.txt
+2017-04-30 15:19:18 ....A          123               mgba-medusa\res\patrons.txt
+2017-04-30 15:19:18 ....A         4868               mgba-medusa\src\third-party\zlib\win32\README-WIN32.txt
+2017-04-30 15:19:18 ....A          210               mgba-medusa\src\third-party\libpng\contrib\README.txt
+2017-04-30 15:19:18 ....A          873               mgba-medusa\src\third-party\zlib\contrib\masmx86\readme.txt
+2017-04-30 15:19:18 ....A          958               mgba-medusa\src\third-party\libpng\contrib\examples\README.txt
+2017-04-30 15:19:18 ....A         1087               mgba-medusa\src\third-party\libpng\contrib\tools\README.txt
+2017-04-30 15:19:18 ....A         1237               mgba-medusa\src\third-party\zlib\contrib\masmx64\readme.txt
+2017-04-30 15:19:18 ....A         2083               mgba-medusa\src\third-party\libpng\contrib\visupng\README.txt
+2017-04-30 15:19:18 ....A         2178               mgba-medusa\src\third-party\zlib\contrib\ada\readme.txt
+2017-04-30 15:19:18 ....A         2322               mgba-medusa\src\third-party\libpng\projects\visualc71\README.txt
+2017-04-30 15:19:18 ....A         2358               mgba-medusa\src\third-party\zlib\contrib\dotzlib\readme.txt
+2017-04-30 15:19:18 ....A         2500               mgba-medusa\src\third-party\zlib\contrib\delphi\readme.txt
+2017-04-30 15:19:18 ....A         2512               mgba-medusa\src\third-party\zlib\contrib\vstudio\readme.txt
+2017-04-30 15:19:18 ....A         2731               mgba-medusa\src\third-party\libpng\projects\vstudio\readme.txt
+2017-04-30 15:19:18 ....A         3004               mgba-medusa\src\third-party\zlib\contrib\pascal\readme.txt
+2017-04-30 15:19:18 ....A         4063               mgba-medusa\src\third-party\libpng\scripts\README.txt
+2017-04-30 15:19:18 ....A         4991               mgba-medusa\src\third-party\zlib\as400\readme.txt
+2017-04-30 15:19:18 ....A         1634               mgba-medusa\src\third-party\libpng\projects\visualc71\README_zlib.txt
+2017-04-30 15:19:18 ....A        20502               mgba-medusa\src\third-party\zlib\doc\rfc1950.txt
+2017-04-30 15:19:18 ....A        36944               mgba-medusa\src\third-party\zlib\doc\rfc1951.txt
+2017-04-30 15:19:18 ....A        25037               mgba-medusa\src\third-party\zlib\doc\rfc1952.txt
+2017-04-30 15:19:18 ....A           13               mgba-medusa\src\third-party\zlib\contrib\blast\test.txt
+2017-04-30 15:19:18 ....A          205               mgba-medusa\src\third-party\zlib\contrib\testzlib\testzlib.txt
+2017-04-30 15:19:18 ....A         5193               mgba-medusa\src\third-party\zlib\doc\txtvsbin.txt
+2017-04-30 15:19:18 ....A         6060               mgba-medusa\src\third-party\zlib\old\visual-basic.txt
+2017-04-30 15:19:18 ....A          117               mgba-medusa\src\third-party\zlib\win32\VisualC.txt
+2017-04-30 15:19:18 ....A          139               mgba-medusa\res\shaders\pixelate.shader\manifest.ini
+2017-04-30 15:19:18 ....A          177               mgba-medusa\res\shaders\agb001.shader\manifest.ini
+2017-04-30 15:19:18 ....A          230               mgba-medusa\res\shaders\wiiu.shader\manifest.ini
+2017-04-30 15:19:18 ....A          270               mgba-medusa\res\shaders\gba-color.shader\manifest.ini
+2017-04-30 15:19:18 ....A          540               mgba-medusa\res\shaders\ags001.shader\manifest.ini
+2017-04-30 15:19:18 ....A          540               mgba-medusa\res\shaders\xbr-lv2.shader\manifest.ini
+2017-04-30 15:19:18 ....A          552               mgba-medusa\res\shaders\xbr-lv3.shader\manifest.ini
+2017-04-30 15:19:18 ....A         8734               mgba-medusa\src\third-party\zlib\zlib.3.pdf
+2017-04-30 15:19:18 ....A         2345               mgba-medusa\src\third-party\libpng\contrib\pngminus\makevms.com
+2017-04-30 15:19:18 ....A         3555               mgba-medusa\src\third-party\libpng\contrib\gregbook\makevms.com
+2017-04-30 15:19:18 ....A         4818               mgba-medusa\src\third-party\libpng\scripts\makevms.com
+2017-04-30 15:19:18 ....A          901               mgba-medusa\src\third-party\zlib\contrib\minizip\make_vms.com
+2017-04-30 15:19:18 ....A        26402               mgba-medusa\src\third-party\zlib\make_vms.com
+2017-04-30 15:19:18 ....A         1861               mgba-medusa\src\third-party\zlib\contrib\minizip\miniunzip.1
+2017-04-30 15:19:18 ....A         1462               mgba-medusa\src\third-party\zlib\contrib\minizip\minizip.1
+2017-04-30 15:19:18 ....A       273522               mgba-medusa\src\third-party\libpng\libpng.3
+2017-04-30 15:19:18 ....A          761               mgba-medusa\src\third-party\libpng\libpngpf.3
+2017-04-30 15:19:18 ....A         4236               mgba-medusa\src\third-party\zlib\zlib.3
+2017-04-30 15:19:18 ....A         8371               mgba-medusa\src\third-party\libpng\scripts\makefile.32sunu
+2017-04-30 15:19:18 ....A         2410               mgba-medusa\src\third-party\libpng\png.5
+2017-04-30 15:19:18 ....A         3045               mgba-medusa\doc\medusa-emu-qt.6
+2017-04-30 15:19:18 ....A         5707               mgba-medusa\doc\medusa-emu.6
+2017-04-30 15:19:18 ....A         8406               mgba-medusa\src\third-party\libpng\scripts\makefile.64sunu
+2017-04-30 15:19:18 ....A         1622               mgba-medusa\src\third-party\zlib\contrib\asm686\README.686
+2017-04-30 15:19:18 ....A          786               mgba-medusa\src\third-party\zlib\contrib\minizip\configure.ac
+2017-04-30 15:19:18 ....A        11737               mgba-medusa\src\third-party\libpng\configure.ac
+2017-04-30 15:19:18 ....A         1988               mgba-medusa\src\third-party\libpng\scripts\makefile.acorn
+2017-04-30 15:19:18 ....A         3717               mgba-medusa\src\third-party\zlib\contrib\ada\buffer_demo.adb
+2017-04-30 15:19:18 ....A         4467               mgba-medusa\src\third-party\zlib\contrib\ada\mtest.adb
+2017-04-30 15:19:18 ....A         4248               mgba-medusa\src\third-party\zlib\contrib\ada\read.adb
+2017-04-30 15:19:18 ....A        13180               mgba-medusa\src\third-party\zlib\contrib\ada\test.adb
+2017-04-30 15:19:18 ....A         5996               mgba-medusa\src\third-party\zlib\contrib\ada\zlib-streams.adb
+2017-04-30 15:19:18 ....A         3329               mgba-medusa\src\third-party\zlib\contrib\ada\zlib-thin.adb
+2017-04-30 15:19:18 ....A        20400               mgba-medusa\src\third-party\zlib\contrib\ada\zlib.adb
+2017-04-30 15:19:18 ....A         4330               mgba-medusa\src\third-party\zlib\contrib\ada\zlib-streams.ads
+2017-04-30 15:19:18 ....A        15819               mgba-medusa\src\third-party\zlib\contrib\ada\zlib-thin.ads
+2017-04-30 15:19:18 ....A        13594               mgba-medusa\src\third-party\zlib\contrib\ada\zlib.ads
+2017-04-30 15:19:18 ....A         3949               mgba-medusa\src\third-party\libpng\scripts\makefile.aix
+2017-04-30 15:19:18 ....A          818               mgba-medusa\src\third-party\zlib\contrib\minizip\Makefile.am
+2017-04-30 15:19:18 ....A        13239               mgba-medusa\src\third-party\libpng\Makefile.am
+2017-04-30 15:19:18 ....A         1495               mgba-medusa\src\third-party\libpng\scripts\makefile.amiga
+2017-04-30 15:19:18 ....A         2205               mgba-medusa\src\third-party\libpng\scripts\makefile.atari
+2017-04-30 15:19:18 ....A         3940               mgba-medusa\src\third-party\libpng\scripts\makefile.bc32
+2017-04-30 15:19:18 ....A         7597               mgba-medusa\src\third-party\libpng\scripts\makefile.beos
+2017-04-30 15:19:18 ....A         2587               mgba-medusa\src\third-party\zlib\win32\Makefile.bor
+2017-04-30 15:19:18 ....A         3098               mgba-medusa\src\third-party\zlib\msdos\Makefile.bor
+2017-04-30 15:19:18 ....A         4257               mgba-medusa\src\third-party\libpng\scripts\makefile.bor
+2017-04-30 15:19:18 ....A         1175               mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib.build
+2017-04-30 15:19:18 ....A         1490               mgba-medusa\src\third-party\zlib\contrib\iostream3\test.cc
+2017-04-30 15:19:18 ....A        13447               mgba-medusa\src\third-party\zlib\contrib\iostream3\zfstream.cc
+2017-04-30 15:19:18 ....A         3232               mgba-medusa\src\third-party\libpng\scripts\makefile.cegcc
+2017-04-30 15:19:18 ....A       466176               mgba-medusa\src\platform\3ds\banner.cgfx
+2017-04-30 15:19:18 ....A          988               mgba-medusa\.clang-format
+2017-04-30 15:19:18 ....A         5291               mgba-medusa\src\third-party\zlib\as400\compile.clp
+2017-04-30 15:19:18 ....A          343               mgba-medusa\src\platform\qt\ts.cmake
+2017-04-30 15:19:18 ....A         2166               mgba-medusa\version.cmake
+2017-04-30 15:19:18 ....A        15559               mgba-medusa\src\third-party\zlib\zconf.h.cmakein
+2017-04-30 15:19:18 ....A          294               mgba-medusa\src\third-party\zlib\zlib.pc.cmakein
+2017-04-30 15:19:18 ....A         3183               mgba-medusa\src\third-party\zlib\contrib\README.contrib
+2017-04-30 15:19:18 ....A         7479               mgba-medusa\src\third-party\libpng\scripts\makefile.darwin
+2017-04-30 15:19:18 ....A      3706358               mgba-medusa\res\nointro.dat
+2017-04-30 15:19:18 ....A         6905               mgba-medusa\src\third-party\libpng\scripts\makefile.dec
+2017-04-30 15:19:18 ....A          393               mgba-medusa\res\medusa-emu-qt.desktop
+2017-04-30 15:19:18 ....A        37007               mgba-medusa\src\third-party\libpng\scripts\pnglibconf.dfa
+2017-04-30 15:19:18 ....A          497               mgba-medusa\src\third-party\libpng\pngusr.dfa
+2017-04-30 15:19:18 ....A         1052               mgba-medusa\src\third-party\libpng\contrib\pngminim\preader\pngusr.dfa
+2017-04-30 15:19:18 ....A         1066               mgba-medusa\src\third-party\libpng\contrib\pngminim\encoder\pngusr.dfa
+2017-04-30 15:19:18 ....A         1115               mgba-medusa\src\third-party\libpng\contrib\pngminim\decoder\pngusr.dfa
+2017-04-30 15:19:18 ....A         2086               mgba-medusa\src\third-party\libpng\contrib\conftest\read.dfa
+2017-04-30 15:19:18 ....A         1327               mgba-medusa\src\third-party\libpng\contrib\conftest\simple.dfa
+2017-04-30 15:19:18 ....A         1359               mgba-medusa\src\third-party\libpng\contrib\conftest\s_read.dfa
+2017-04-30 15:19:18 ....A         1228               mgba-medusa\src\third-party\libpng\contrib\conftest\s_write.dfa
+2017-04-30 15:19:18 ....A         1510               mgba-medusa\src\third-party\libpng\contrib\conftest\write.dfa
+2017-04-30 15:19:18 ....A         2554               mgba-medusa\src\third-party\libpng\scripts\makefile.dj2
+2017-04-30 15:19:18 ....A         2615               mgba-medusa\src\third-party\zlib\msdos\Makefile.dj2
+2017-04-30 15:19:18 ....A         1442               mgba-medusa\src\third-party\zlib\msdos\Makefile.emx
+2017-04-30 15:19:18 ....A         1451               mgba-medusa\src\third-party\zlib\old\Makefile.emx
+2017-04-30 15:19:18 ....A         1817               mgba-medusa\src\third-party\zlib\examples\README.examples
+2017-04-30 15:19:18 ....A          921               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\miniunz.vcxproj.filters
+2017-04-30 15:19:18 ....A          921               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\minizip.vcxproj.filters
+2017-04-30 15:19:18 ....A         2139               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\testzlib.vcxproj.filters
+2017-04-30 15:19:18 ....A          923               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\testzlibdll.vcxproj.filters
+2017-04-30 15:19:18 ....A         2514               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibstat.vcxproj.filters
+2017-04-30 15:19:18 ....A         4039               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.vcxproj.filters
+2017-04-30 15:19:18 ....A         1829               mgba-medusa\src\third-party\libpng\scripts\makefile.freebsd
+2017-04-30 15:19:18 ....A          701               mgba-medusa\res\shaders\agb001.shader\agb001.fs
+2017-04-30 15:19:18 ....A          846               mgba-medusa\res\shaders\ags001.shader\ags001-light.fs
+2017-04-30 15:19:18 ....A          654               mgba-medusa\res\shaders\ags001.shader\ags001.fs
+2017-04-30 15:19:18 ....A         1161               mgba-medusa\res\shaders\gba-color.shader\gba-color.fs
+2017-04-30 15:19:18 ....A         1131               mgba-medusa\res\shaders\wiiu.shader\wiiu.fs
+2017-04-30 15:19:18 ....A         6849               mgba-medusa\res\shaders\xbr-lv2.shader\xbr.fs
+2017-04-30 15:19:18 ....A         8992               mgba-medusa\res\shaders\xbr-lv3.shader\xbr.fs
+2017-04-30 15:19:18 ....A          756               mgba-medusa\src\third-party\lzma\Util\Lzma\makefile.gcc
+2017-04-30 15:19:18 ....A         1629               mgba-medusa\src\third-party\lzma\Util\7z\makefile.gcc
+2017-04-30 15:19:18 ....A         3043               mgba-medusa\src\third-party\libpng\scripts\makefile.gcc
+2017-04-30 15:19:18 ....A         5117               mgba-medusa\src\third-party\zlib\win32\Makefile.gcc
+2017-04-30 15:19:18 ....A           30               mgba-medusa\.gitignore
+2017-04-30 15:19:18 ....A          511               mgba-medusa\src\third-party\zlib\contrib\ada\zlib.gpr
+2017-04-30 15:19:18 ....A        42938               mgba-medusa\src\third-party\libpng\config.guess
+2017-04-30 15:19:18 ....A         7696               mgba-medusa\src\third-party\libpng\scripts\makefile.hp64
+2017-04-30 15:19:18 ....A         7879               mgba-medusa\src\third-party\libpng\scripts\makefile.hpgcc
+2017-04-30 15:19:18 ....A         7560               mgba-medusa\src\third-party\libpng\scripts\makefile.hpux
+2017-04-30 15:19:18 ....A         2882               mgba-medusa\src\third-party\libpng\scripts\makefile.ibmc
+2017-04-30 15:19:18 ....A       714692               mgba-medusa\res\medusa-emu.icns
+2017-04-30 15:19:18 ....A         5979               mgba-medusa\src\platform\3ds\cia.rsf.in
+2017-04-30 15:19:18 ....A         3080               mgba-medusa\src\third-party\libpng\config.h.in
+2017-04-30 15:19:18 ....A         1229               mgba-medusa\src\core\flags.h.in
+2017-04-30 15:19:18 ....A         1505               mgba-medusa\src\platform\openemu\Info.plist.in
+2017-04-30 15:19:18 ....A         1993               mgba-medusa\res\info.plist.in
+2017-04-30 15:19:18 ....A           46               mgba-medusa\tools\debian\libmgba.install.in
+2017-04-30 15:19:18 ....A         1701               mgba-medusa\src\third-party\libpng\scripts\libpng-config-body.in
+2017-04-30 15:19:18 ....A          388               mgba-medusa\src\third-party\libpng\scripts\libpng-config-head.in
+2017-04-30 15:19:18 ....A         2396               mgba-medusa\src\third-party\libpng\libpng-config.in
+2017-04-30 15:19:18 ....A          210               mgba-medusa\src\third-party\libpng\scripts\libpng.pc.in
+2017-04-30 15:19:18 ....A          293               mgba-medusa\src\third-party\libpng\libpng.pc.in
+2017-04-30 15:19:18 ....A           59               mgba-medusa\tools\debian\libretro-mgba.install.in
+2017-04-30 15:19:18 ....A         8985               mgba-medusa\src\third-party\zlib\Makefile.in
+2017-04-30 15:19:18 ....A        89366               mgba-medusa\src\third-party\libpng\Makefile.in
+2017-04-30 15:19:18 ....A          248               mgba-medusa\src\platform\wii\meta.xml.in
+2017-04-30 15:19:18 ....A          263               mgba-medusa\src\third-party\zlib\contrib\minizip\minizip.pc.in
+2017-04-30 15:19:18 ....A          740               mgba-medusa\src\platform\python\setup.py.in
+2017-04-30 15:19:18 ....A          460               mgba-medusa\src\platform\psp2\template.xml.in
+2017-04-30 15:19:18 ....A          624               mgba-medusa\src\core\version.c.in
+2017-04-30 15:19:18 ....A          866               mgba-medusa\res\win.rc.in
+2017-04-30 15:19:18 ....A        15508               mgba-medusa\src\third-party\zlib\zconf.h.in
+2017-04-30 15:19:18 ....A          254               mgba-medusa\src\third-party\zlib\zlib.pc.in
+2017-04-30 15:19:18 ....A        15508               mgba-medusa\src\third-party\zlib\zconf.h.included
+2017-04-30 15:19:18 ....A           75               mgba-medusa\tools\debian\mgba-qt.install
+2017-04-30 15:19:18 ....A           13               mgba-medusa\tools\debian\mgba-sdl.install
+2017-04-30 15:19:18 ....A         3763               mgba-medusa\src\third-party\libpng\scripts\makefile.intel
+2017-04-30 15:19:18 ....A         4048               mgba-medusa\src\third-party\libpng\scripts\makefile.knr
+2017-04-30 15:19:18 ....A         8214               mgba-medusa\src\third-party\libpng\scripts\makefile.linux
+2017-04-30 15:19:18 ....A           50               mgba-medusa\src\third-party\libpng\scripts\macro.lst
+2017-04-30 15:19:18 ....A         7848               mgba-medusa\src\platform\openemu\mGBAGameCore.m
+2017-04-30 15:19:18 ....A        44739               mgba-medusa\src\third-party\libpng\aclocal.m4
+2017-04-30 15:19:18 ....A       305723               mgba-medusa\src\third-party\libpng\scripts\libtool.m4
+2017-04-30 15:19:18 ....A        14514               mgba-medusa\src\third-party\libpng\scripts\ltoptions.m4
+2017-04-30 15:19:18 ....A         4384               mgba-medusa\src\third-party\libpng\scripts\ltsugar.m4
+2017-04-30 15:19:18 ....A          699               mgba-medusa\src\third-party\libpng\scripts\ltversion.m4
+2017-04-30 15:19:18 ....A         6140               mgba-medusa\src\third-party\libpng\scripts\lt~obsolete.m4
+2017-04-30 15:19:18 ....A          458               mgba-medusa\src\gba\hle-bios.make
+2017-04-30 15:19:18 ....A           14               mgba-medusa\tools\debian\mgba-qt.manpages
+2017-04-30 15:19:18 ....A           11               mgba-medusa\tools\debian\mgba-sdl.manpages
+2017-04-30 15:19:18 ....A         1192               mgba-medusa\src\third-party\zlib\zlib.map
+2017-04-30 15:19:18 ....A         3940               mgba-medusa\src\third-party\libpng\contrib\gregbook\Makefile.mingw32
+2017-04-30 15:19:18 ....A         3589               mgba-medusa\src\third-party\libpng\scripts\makefile.mips
+2017-04-30 15:19:18 ....A         1545               mgba-medusa\src\third-party\zlib\old\descrip.mms
+2017-04-30 15:19:18 ....A         2074               mgba-medusa\src\third-party\libpng\scripts\descrip.mms
+2017-04-30 15:19:18 ....A          281               mgba-medusa\src\third-party\zlib\contrib\untgz\Makefile.msc
+2017-04-30 15:19:18 ....A         2924               mgba-medusa\src\third-party\zlib\msdos\Makefile.msc
+2017-04-30 15:19:18 ....A         3461               mgba-medusa\src\third-party\libpng\scripts\makefile.msc
+2017-04-30 15:19:18 ....A         4937               mgba-medusa\src\third-party\zlib\win32\Makefile.msc
+2017-04-30 15:19:18 ....A         6315               mgba-medusa\src\third-party\libpng\scripts\makefile.msys
+2017-04-30 15:19:18 ....A         1513               mgba-medusa\src\third-party\libpng\scripts\makefile.ne12bsd
+2017-04-30 15:19:18 ....A         1503               mgba-medusa\src\third-party\libpng\scripts\makefile.netbsd
+2017-04-30 15:19:18 ....A         2668               mgba-medusa\src\third-party\libpng\scripts\makefile.openbsd
+2017-04-30 15:19:18 ....A         4104               mgba-medusa\src\third-party\zlib\old\os2\Makefile.os2
+2017-04-30 15:19:18 ....A         2408               mgba-medusa\src\platform\3ds\uishader.g.pica
+2017-04-30 15:19:18 ....A          849               mgba-medusa\src\platform\3ds\uishader.v.pica
+2017-04-30 15:19:18 ....A            8               mgba-medusa\src\third-party\zlib\contrib\blast\test.pk
+2017-04-30 15:19:18 ....A           90               mgba-medusa\src\third-party\libpng\scripts\SCOPTIONS.ppc
+2017-04-30 15:19:18 ....A         1036               mgba-medusa\src\third-party\libpng\scripts\smakefile.ppc
+2017-04-30 15:19:18 ....A         7400               mgba-medusa\src\third-party\libpng\scripts\pnglibconf.h.prebuilt
+2017-04-30 15:19:18 ....A         1628               mgba-medusa\src\third-party\libpng\projects\vstudio\zlib.props
+2017-04-30 15:19:18 ....A         1981               mgba-medusa\src\third-party\zlib\amiga\Makefile.pup
+2017-04-30 15:19:18 ....A         6427               mgba-medusa\src\third-party\zlib\qnx\package.qpg
+2017-04-30 15:19:18 ....A        48812               mgba-medusa\res\keymap.qpic
+2017-04-30 15:19:18 ....A          158               mgba-medusa\src\platform\qt\resources.qrc
+2017-04-30 15:19:18 ....A        32768               mgba-medusa\src\platform\3ds\icons.raw
+2017-04-30 15:19:18 ....A         2517               mgba-medusa\src\third-party\zlib\contrib\puff\zeros.raw
+2017-04-30 15:19:18 ....A         3767               mgba-medusa\src\third-party\zlib\old\Makefile.riscos
+2017-04-30 15:19:18 ....A        12418               mgba-medusa\src\third-party\zlib\contrib\amd64\amd64-match.S
+2017-04-30 15:19:18 ....A         1624               mgba-medusa\src\util\arm-algo.S
+2017-04-30 15:19:18 ....A         8339               mgba-medusa\src\third-party\libpng\arm\filter_neon.S
+2017-04-30 15:19:18 ....A        16413               mgba-medusa\src\third-party\zlib\contrib\gcc_gvmat64\gvmat64.S
+2017-04-30 15:19:18 ....A         2905               mgba-medusa\src\gba\hle-bios.s
+2017-04-30 15:19:18 ....A        42842               mgba-medusa\src\third-party\zlib\contrib\inflate86\inffast.S
+2017-04-30 15:19:18 ....A        10365               mgba-medusa\src\third-party\zlib\contrib\asm686\match.S
+2017-04-30 15:19:18 ....A         1847               mgba-medusa\src\third-party\zlib\amiga\Makefile.sas
+2017-04-30 15:19:18 ....A         7528               mgba-medusa\src\third-party\libpng\scripts\makefile.sco
+2017-04-30 15:19:18 ....A         7649               mgba-medusa\src\third-party\libpng\scripts\makefile.sggcc
+2017-04-30 15:19:18 ....A         2990               mgba-medusa\src\third-party\libpng\contrib\gregbook\Makefile.sgi
+2017-04-30 15:19:18 ....A         7733               mgba-medusa\src\third-party\libpng\scripts\makefile.sgi
+2017-04-30 15:19:18 ....A         8432               mgba-medusa\src\third-party\libpng\scripts\makefile.so9
+2017-04-30 15:19:18 ....A         8291               mgba-medusa\src\third-party\libpng\scripts\makefile.solaris
+2017-04-30 15:19:18 ....A         8259               mgba-medusa\src\third-party\libpng\scripts\makefile.solaris-x86
+2017-04-30 15:19:18 ....A         1386               mgba-medusa\src\third-party\libpng\contrib\pngminus\makefile.std
+2017-04-30 15:19:18 ....A         4910               mgba-medusa\src\third-party\libpng\scripts\makefile.std
+2017-04-30 15:19:18 ....A        35987               mgba-medusa\src\third-party\libpng\config.sub
+2017-04-30 15:19:18 ....A         3964               mgba-medusa\src\third-party\libpng\scripts\makefile.sunos
+2017-04-30 15:19:18 ....A         2657               mgba-medusa\src\third-party\zlib\msdos\Makefile.tc
+2017-04-30 15:19:18 ....A          707               mgba-medusa\src\third-party\libpng\contrib\pngminus\makefile.tc3
+2017-04-30 15:19:18 ....A         3275               mgba-medusa\src\third-party\libpng\scripts\makefile.tc3
+2017-04-30 15:19:18 ....A         2171               mgba-medusa\src\third-party\libpng\projects\owatcom\libpng.tgt
+2017-04-30 15:19:18 ....A         2565               mgba-medusa\src\third-party\libpng\projects\owatcom\pngstest.tgt
+2017-04-30 15:19:18 ....A         1213               mgba-medusa\src\third-party\libpng\projects\owatcom\pngtest.tgt
+2017-04-30 15:19:18 ....A         1397               mgba-medusa\src\third-party\libpng\projects\owatcom\pngvalid.tgt
+2017-04-30 15:19:18 ....A       262208               mgba-medusa\src\platform\wii\font.tpl
+2017-04-30 15:19:18 ....A       131136               mgba-medusa\src\platform\wii\icons.tpl
+2017-04-30 15:19:18 ....A       157843               mgba-medusa\src\platform\qt\ts\medusa-emu-de.ts
+2017-04-30 15:19:18 ....A       158274               mgba-medusa\src\platform\qt\ts\medusa-emu-es.ts
+2017-04-30 15:19:18 ....A         6007               mgba-medusa\src\platform\qt\AboutScreen.ui
+2017-04-30 15:19:18 ....A         1884               mgba-medusa\src\platform\qt\ArchiveInspector.ui
+2017-04-30 15:19:18 ....A         4158               mgba-medusa\src\platform\qt\AssetTile.ui
+2017-04-30 15:19:18 ....A         2918               mgba-medusa\src\platform\qt\CheatsView.ui
+2017-04-30 15:19:18 ....A         1268               mgba-medusa\src\platform\qt\DebuggerConsole.ui
+2017-04-30 15:19:18 ....A         4955               mgba-medusa\src\platform\qt\GIFView.ui
+2017-04-30 15:19:18 ....A        11500               mgba-medusa\src\platform\qt\IOViewer.ui
+2017-04-30 15:19:18 ....A         1260               mgba-medusa\src\platform\qt\LibraryView.ui
+2017-04-30 15:19:18 ....A         7295               mgba-medusa\src\platform\qt\LoadSaveState.ui
+2017-04-30 15:19:18 ....A         4072               mgba-medusa\src\platform\qt\LogView.ui
+2017-04-30 15:19:18 ....A         7522               mgba-medusa\src\platform\qt\MemoryView.ui
+2017-04-30 15:19:18 ....A        17001               mgba-medusa\src\platform\qt\ObjView.ui
+2017-04-30 15:19:18 ....A         9982               mgba-medusa\src\platform\qt\OverrideView.ui
+2017-04-30 15:19:18 ....A        10136               mgba-medusa\src\platform\qt\PaletteView.ui
+2017-04-30 15:19:18 ....A         3084               mgba-medusa\src\platform\qt\ROMInfo.ui
+2017-04-30 15:19:18 ....A        10132               mgba-medusa\src\platform\qt\SensorView.ui
+2017-04-30 15:19:18 ....A        34825               mgba-medusa\src\platform\qt\SettingsView.ui
+2017-04-30 15:19:18 ....A         2841               mgba-medusa\src\platform\qt\ShaderSelector.ui
+2017-04-30 15:19:18 ....A         2146               mgba-medusa\src\platform\qt\ShortcutView.ui
+2017-04-30 15:19:18 ....A         5485               mgba-medusa\src\platform\qt\TileView.ui
+2017-04-30 15:19:18 ....A        15455               mgba-medusa\src\platform\qt\VideoView.ui
+2017-04-30 15:19:18 ....A         4093               mgba-medusa\src\third-party\libpng\contrib\gregbook\Makefile.unx
+2017-04-30 15:19:18 ....A         3692               mgba-medusa\src\third-party\libpng\scripts\makefile.vcwin32
+2017-04-30 15:19:18 ....A        12302               mgba-medusa\src\third-party\libpng\projects\vstudio\libpng\libpng.vcxproj
+2017-04-30 15:19:18 ....A        18969               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\miniunz.vcxproj
+2017-04-30 15:19:18 ....A        19150               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\miniunz.vcxproj
+2017-04-30 15:19:18 ....A        18549               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\minizip.vcxproj
+2017-04-30 15:19:18 ....A        18730               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\minizip.vcxproj
+2017-04-30 15:19:18 ....A         2713               mgba-medusa\src\third-party\libpng\projects\vstudio\pnglibconf\pnglibconf.vcxproj
+2017-04-30 15:19:18 ....A        16428               mgba-medusa\src\third-party\libpng\projects\vstudio\pngstest\pngstest.vcxproj
+2017-04-30 15:19:18 ....A        11692               mgba-medusa\src\third-party\libpng\projects\vstudio\pngtest\pngtest.vcxproj
+2017-04-30 15:19:18 ....A        11776               mgba-medusa\src\third-party\libpng\projects\vstudio\pngunknown\pngunknown.vcxproj
+2017-04-30 15:19:18 ....A        11598               mgba-medusa\src\third-party\libpng\projects\vstudio\pngvalid\pngvalid.vcxproj
+2017-04-30 15:19:18 ....A        27312               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\testzlib.vcxproj
+2017-04-30 15:19:18 ....A        27583               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\testzlib.vcxproj
+2017-04-30 15:19:18 ....A        19022               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\testzlibdll.vcxproj
+2017-04-30 15:19:18 ....A        19203               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\testzlibdll.vcxproj
+2017-04-30 15:19:18 ....A         8457               mgba-medusa\src\third-party\libpng\projects\vstudio\zlib\zlib.vcxproj
+2017-04-30 15:19:18 ....A        27927               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\zlibstat.vcxproj
+2017-04-30 15:19:18 ....A        28012               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibstat.vcxproj
+2017-04-30 15:19:18 ....A        40243               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10\zlibvc.vcxproj
+2017-04-30 15:19:18 ....A        42016               mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11\zlibvc.vcxproj
+2017-04-30 15:19:18 ....A         1833               mgba-medusa\src\platform\psp2\CMakeToolchain.vitasdk
+2017-04-30 15:19:18 ....A         2177               mgba-medusa\res\shaders\xbr-lv2.shader\xbr.vs
+2017-04-30 15:19:18 ....A         2177               mgba-medusa\res\shaders\xbr-lv3.shader\xbr.vs
+2017-04-30 15:19:18 ....A         3357               mgba-medusa\src\third-party\libpng\contrib\gregbook\Makefile.w32
+2017-04-30 15:19:18 ....A          972               mgba-medusa\src\third-party\libpng\projects\owatcom\libpng.wpj
+2017-04-30 15:19:18 ....A          366               mgba-medusa\.travis.yml
+2017-04-30 15:19:18 ....A            0            0  mgba-medusa\src\platform\python\mgba\__init__.py
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\tools\debian\source
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\tools\debian
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\tools
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\util\vfs
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\util\test
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\util\gui
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\util
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\third-party\zlib\win32
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\third-party\zlib\watcom
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\test
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\qnx
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\old\os2
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\old
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\nintendods
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\msdos
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\examples
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\doc
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\vstudio\vc9
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\vstudio\vc11
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\vstudio\vc10
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\vstudio
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\untgz
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\testzlib
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\puff
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\pascal
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\minizip
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\masmx86
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\masmx64
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\iostream3
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\iostream2
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\iostream
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\inflate86
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\infback9
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\gcc_gvmat64
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\dotzlib\DotZLib
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\dotzlib
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\delphi
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\blast
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\asm686
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\amd64
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\contrib\ada
+2017-05-03 10:24:04 D....            0            0  mgba-medusa\src\third-party\zlib\contrib
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\as400
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\zlib\amiga
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src\third-party\zlib
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\sqlite3
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma\Util\SfxSetup
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma\Util\LzmaLib
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma\Util\Lzma
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma\Util\7z
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma\Util
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party\lzma
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\tests
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\scripts
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\zlib
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\pngvalid
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\pngunknown
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\pngtest
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\pngstest
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\pnglibconf
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio\libpng
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\vstudio
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\visualc71
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects\owatcom
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng\projects
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\visupng
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\tools
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngsuite
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngminus
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngminim\preader
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngminim\encoder
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngminim\decoder
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\pngminim
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\libtests
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\gregbook
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\examples
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\conftest
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\third-party\libpng\contrib\arm-neon
+2017-05-03 10:24:01 D....            0            0  mgba-medusa\src\third-party\libpng\contrib
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\third-party\libpng\arm
+2017-05-03 10:24:02 D....            0            0  mgba-medusa\src\third-party\libpng
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\third-party\inih
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\third-party\blip_buf
+2017-05-03 10:24:03 D....            0            0  mgba-medusa\src\third-party
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\windows
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\wii
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\test
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\sdl
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\qt\ts
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform\qt
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\python\mgba
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\python
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\psp2
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\posix
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\opengl
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\openemu
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\libretro
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\example\client-server
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\example
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\platform\3ds
+2017-05-03 10:24:00 D....            0            0  mgba-medusa\src\platform
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\lr35902\debugger
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\lr35902
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\gba\test
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\gba\sio
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\gba\rr
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\gba\renderers
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gba\extra
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gba\cheats
+2017-05-03 10:23:59 D....            0            0  mgba-medusa\src\gba
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gb\test
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gb\sio
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gb\renderers
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gb\extra
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\gb
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature\sqlite3
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature\imagemagick
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature\gui
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature\ffmpeg
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature\editline
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\feature
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\ds\renderers
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\ds\gx
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\ds\extra
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\ds
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\debugger
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\core\test
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\core
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\arm\debugger
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\src\arm
+2017-05-03 10:24:05 D....            0            0  mgba-medusa\src
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\xbr-lv3.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\xbr-lv2.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\wiiu.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\pixelate.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\gba-color.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\ags001.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders\agb001.shader
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res\shaders
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\res
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\opt\libgba
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\opt
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\include\mgba\internal\lr35902\debugger
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\include\mgba\internal\lr35902
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gba\sio
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gba\rr
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gba\renderers
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gba\extra
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\include\mgba\internal\gba
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gb\sio
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gb\renderers
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gb\extra
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\gb
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\ds\renderers
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\ds\gx
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\ds\extra
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\ds
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\debugger
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\arm\debugger
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\internal\arm
+2017-05-03 10:23:58 D....            0            0  mgba-medusa\include\mgba\internal
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\gba
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\gb
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\ds
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba\core
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\platform\windows
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\platform\psp2
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\platform\posix
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\platform\3ds
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\platform
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\patch
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util\gui
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba-util
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include\mgba
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\include
+2017-05-03 10:23:57 D....            0            0  mgba-medusa\doc
+2017-05-03 10:24:05 D....            0            0  mgba-medusa
+------------------- ----- ------------ ------------  ------------------------
+2017-05-03 10:24:05           26278098      5381940  1279 files, 177 folders

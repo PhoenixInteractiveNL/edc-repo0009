@@ -1,0 +1,8 @@
+﻿medusa alpha 1: (2017-04-08)
+Features:
+ - Partial DS Support
+Bugfixes:
+ - SDL: Prevent crash on cores with no audio
+ - ARM7: Decode MCR/MRC
+ - ARM7: Clean up instruction decoding for future expandability
+ - Core: Don't save state if core fails to serialize

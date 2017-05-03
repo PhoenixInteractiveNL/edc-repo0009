@@ -1,0 +1,13 @@
+﻿0.69
+
+Add deployment (#15)
+Update README.md
+Update .codeclimate.yml
+Create .codeclimate.yml
+Update README.md
+Update types.h
+Update .travis.yml
+Update README.md
+Change preferences initialization for visual Studio 2012 compatibility :(
+Add nsis to cpack and fix verbosity
+Change filename

@@ -1,0 +1,25 @@
+﻿0.6
+
+Change buildfiles
+Add namespace sdltk to all SDL related stuff
+Link static
+Change build files
+Cleanup documentation
+Translate documentation
+More cleanup in class Prefs
+Cleanup in class Prefs
+Changes in format
+Added README-DE.md
+Cleanup some defines
+Changes in README
+Add some disks
+Add needed config to start and amend README
+Add and execute script tab2space.sh
+First running c++11 version with cmake buildsystem on gcc-4.8.5 (SUSE Linux)
+Fix build issues [WIP]
+Fix typo in CMakeLists
+Update build files
+Add source tree
+Add some files
+Create README.md
+Initial commit

@@ -1,0 +1,13 @@
+﻿0.62
+
+Change buildfiles
+Change filename
+Change build behaviour
+Update README.md
+Fix build issues
+Cleanup
+Cleanup build
+Rename folder
+Remove files
+Fix rpm issues
+Change some pathes

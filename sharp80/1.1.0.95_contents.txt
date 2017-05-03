@@ -1,0 +1,52 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2017-03-27 04:36:02 ....A       261136       778198  Library\Disks\Games\Action & Arcade Games\13 Ghosts.dsk
+2017-03-18 02:37:34 ....A       271376               Library\Disks\Games\Adventure & Puzzle Games\Asylum I.dsk
+2017-03-18 02:37:48 ....A       266256               Library\Disks\Games\Adventure & Puzzle Games\Asylum II.dsk
+2001-03-28 08:20:46 ....A       204816               Library\Disks\Games\Action & Arcade Games\Cosmic Fighter.dsk
+2017-03-18 02:38:00 ....A       271376               Library\Disks\Games\Misc Games\Dancing Demon.dsk
+2017-03-18 02:12:20 ....A       271376               Library\Disks\Games\Adventure & Puzzle Games\Deathmaze 5000.dsk
+2017-03-29 02:37:32 ....A       176272               Library\Disks\Games\Action & Arcade Games\Defense Command & Stellar Escort.dsk
+2001-03-29 23:56:10 ....A        70416               Library\Disks\Games\Action & Arcade Games\Eliminator.dsk
+2017-02-28 07:35:28 ....A        96016               Library\Disks\Games\Misc Games\Flight Simulator.dsk
+1980-08-29 21:00:00 ....A       512016               Library\Disks\Utilities & Operating Systems\Hyperzap 3.2.dsk
+2017-03-18 02:36:40 ....A       261136               Library\Disks\Utilities & Operating Systems\LDOS 5.31 - Model III.dsk
+2017-03-18 02:38:24 ....A       261136               Library\Disks\Games\Misc Games\Monte Plays Monopoly.dsk
+2017-02-14 04:06:56 ....A       224016               Library\Disks\Games\Action & Arcade Games\Robot Attack.dsk
+2017-02-22 19:46:40 ....A        64016               Library\Disks\Games\Misc Games\Scarfman.dsk
+2001-03-29 23:56:40 ....A        70416               Library\Disks\Games\Action & Arcade Games\Sea Dragon.dsk
+2017-02-22 18:29:02 ....A        65296               Library\Disks\Games\Adventure & Puzzle Games\Spook House.dsk
+2017-03-18 02:36:54 ....A       266256               Library\Disks\Applications\Super Scripsit.dsk
+2005-01-20 22:30:58 ....A       224016               Library\Disks\Utilities & Operating Systems\Super Utility+ 3.2.dsk
+2017-02-22 19:40:34 ....A        65296               Library\Disks\Games\Adventure & Puzzle Games\Toxic Dumpsite.dsk
+2017-03-21 20:39:14 ....A       261136               Library\Disks\Utilities & Operating Systems\TRSDOS 1.3.dsk
+2017-03-18 02:37:18 ....A       261136               Library\Disks\Applications\Visicalc - Model III.dsk
+2017-03-18 02:38:32 ....A       261136               Library\Disks\Games\Adventure & Puzzle Games\Xenos Model III.dsk
+2001-04-06 20:44:58 ....A       256016               Library\Disks\Games\Adventure & Puzzle Games\Zork I.dsk
+2001-04-03 04:24:30 ....A       256016               Library\Disks\Games\Adventure & Puzzle Games\Zork II.dsk
+2001-04-03 04:26:42 ....A       256016               Library\Disks\Games\Adventure & Puzzle Games\Zork III.dsk
+2017-04-03 19:18:50 ....A         3998               Sharp80.exe.config
+2017-04-06 04:29:42 ....A       365104       611516  Sharp80.exe
+2017-04-06 04:29:40 ....A        27648               DirectX.dll
+2016-10-28 00:16:34 ....A        60928               SharpDX.D3DCompiler.dll
+2016-10-28 00:16:36 ....A       481792               SharpDX.Direct2D1.dll
+2016-10-28 00:16:38 ....A       178688               SharpDX.Direct3D10.dll
+2016-10-28 00:16:44 ....A       156160               SharpDX.DirectInput.dll
+2016-10-28 00:16:50 ....A       266752               SharpDX.dll
+2016-10-28 00:16:46 ....A       135680               SharpDX.DXGI.dll
+2016-10-28 00:16:46 ....A       221696               SharpDX.Mathematics.dll
+2016-10-28 00:16:48 ....A        94208               SharpDX.XAudio2.dll
+2016-11-05 13:57:30 ....A        77672               System.ValueTuple.dll
+2017-04-06 04:29:38 ....A       189952               TRS80.dll
+2017-04-06 04:29:38 ....A        53760               Views.dll
+2017-04-06 04:29:38 ....A       128000               Z80.dll
+2017-05-02 22:00:29 D....            0            0  Library\Disks\Utilities & Operating Systems
+2017-05-02 22:00:29 D....            0            0  Library\Disks\Games\Misc Games
+2017-05-02 22:00:29 D....            0            0  Library\Disks\Games\Adventure & Puzzle Games
+2017-05-02 22:00:29 D....            0            0  Library\Disks\Games\Action & Arcade Games
+2017-05-02 22:00:29 D....            0            0  Library\Disks\Games
+2017-05-02 22:00:28 D....            0            0  Library\Disks\Applications
+2017-05-02 22:00:29 D....            0            0  Library\Disks
+2017-05-02 22:00:28 D....            0            0  Library
+------------------- ----- ------------ ------------  ------------------------
+2017-05-02 22:00:29            7896134      1389714  40 files, 8 folders
